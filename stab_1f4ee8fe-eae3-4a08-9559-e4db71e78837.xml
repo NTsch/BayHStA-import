@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <eadheader langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+    <eadid mainagencycode="DE-2050" url="https://www.gda.bayern.de/archive/hauptstaatsarchiv/">stab_1f4ee8fe-eae3-4a08-9559-e4db71e78837</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Kloster Wilten Urkunden</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        <date normal="2024-03-18">18. März 2024</date>
+      </creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="Findbuch">
+    <did>
+      <unitid>Kloster Wilten Urkunden</unitid>
+      <repository>
+        <corpname role="Staatliche Archive" id="DE-2050">Bayerisches Hauptstaatsarchiv</corpname>
+        <address>
+          <addressline>Schönfeldstraße 5-11, 80539 München, E-Mail: poststelle@bayhsta.bayern.de bzw. Abt. IV Kriegsarchiv, Leonrodstraße 57, 80636 München</addressline>
+        </address>
+        <extref xlink:role="url_archive" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/" />
+      </repository>
+    </did>
+    <otherfindaid>
+      <extref xlink:role="url_findbuch" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/bestaende/" />
+    </otherfindaid>
+    <dsc>
+      <c level="collection" id="stab_1f4ee8fe-eae3-4a08-9559-e4db71e78837">
+        <did>
+          <unitid>Kloster Wilten Urkunden</unitid>
+          <unittitle>Kloster Wilten Urkunden</unittitle>
+          <unitdate normal="1739-01-01/1739-12-31">1739</unitdate>
+          <physdesc>
+            <genreform normal="Urkunden">Urkunden</genreform>
+            <extent>1</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="ger" scriptcode="Latn">Sprache der Unterlagen</language>
+          </langmaterial>
+          <origination>Kloster Wilten Urkunden</origination>
+          <origination label="pre"> Monika Ofer </origination>
+        </did>
+        <scopecontent encodinganalog="Einleitung">
+          <head>Vorwort</head>
+          <p>kein Vorwort</p>
+        </scopecontent>
+        <c level="class" id="stab_9c0a69a2-6756-443a-bd43-a50a93008fe8">
+          <did>
+            <unittitle>Urkunden</unittitle>
+          </did>
+          <c level="file" id="stab_baef72b3-ad84-4cc6-af29-ba32804ed703">
+            <did>
+              <unitid type="Art des Schutzmediums">Digitaler Langzeitspeicher</unitid>
+              <unitid type="Art des Schutzmediums">Online-Findmitteldatenbank der Staatlichen Archive Bayerns</unitid>
+              <unitid>BayHStA, Kloster Wilten Urkunden 1</unitid>
+              <unittitle type="Kopfregest">Anton Rossmann, kaiserlicher Notar, vidimiert die kollationierte Abschrift einer Urkunde von Kaiser Karl [VI.] vom 7. Nov. 1738, worin dieser Abt Martin von Kloster Wilten (Wilthaw) und seinen Nachfolgern im Amt die Ehrenwürde eines Rats und infulierten Erb- Hof- und Hauskaplans in Tirol verleiht.;
+                <lb />S: Anton Rossmann, kaiserlicher Notar
+              </unittitle>
+              <unitdate>1739 Februar 27, 1738 November 7 </unitdate>
+              <origination label="Provenienz">
+                <name>Kloster Wilten</name>
+              </origination>
+              <origination label="Provenienz">
+                <name>Kloster Wilten Urkunden</name>
+              </origination>
+              <physdesc>Äußere Beschreibung: Libell 10 Bl.</physdesc>
+              <physdesc>
+                <genreform normal="Urkunden">Urkunden</genreform>
+              </physdesc>
+              <materialspec>Pap.</materialspec>
+              <langmaterial>
+                <language langcode="ger" scriptcode="Latn">Sprache der Unterlagen</language>
+              </langmaterial>
+            </did>
+            <odd>
+              <head>Zusatz-Laufzeit</head>
+              <p>1739 Februar 27, 1738 November 7 </p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>dt.</p>
+            </odd>
+            <odd>
+              <head>Überlieferungsart</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Besiegelung/Beglaubigung</head>
+              <p>S aufgedrückt, mit Notariatssignet</p>
+            </odd>
+            <odd>
+              <head>Überlieferung</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>dt.</p>
+            </odd>
+            <odd>
+              <head>Ausstellungsort</head>
+              <p>Wilten, Kloster / Wien</p>
+            </odd>
+            <odd>
+              <head>Bearbeiter</head>
+              <p>ofe</p>
+            </odd>
+            <odd>
+              <head>Bestellnummer</head>
+              <p>1</p>
+            </odd>
+            <odd>
+              <head>Laufzeit</head>
+              <p>1739 Februar 27, 1738 November 7 </p>
+            </odd>
+            <odd>
+              <head>Medium</head>
+              <p>A = Analoges Archivale</p>
+            </odd>
+            <odd>
+              <head>Schutzfrist bis</head>
+              <p>31.12.0000</p>
+            </odd>
+            <odd>
+              <head>Gesamtbewertung des Schadens</head>
+              <p>1. leicht (vorlegbar; verfilmbar und digitalisierbar)</p>
+            </odd>
+            <odd>
+              <head>Schadenskataster</head>
+              <p>Mechanischer Papier- oder Pergamentschaden - leicht</p>
+            </odd>
+            <odd>
+              <head>Erfassungsdatum</head>
+              <p>08.05.2012</p>
+            </odd>
+            <odd>
+              <head>Geändert am</head>
+              <p>09.02.2021 11:00:05</p>
+            </odd>
+            <odd>
+              <head>Geändert von</head>
+              <p>hsta-genovrau</p>
+            </odd>
+            <odd>
+              <head>Jahr</head>
+              <p>1739</p>
+            </odd>
+            <odd>
+              <head>Monat</head>
+              <p>2</p>
+            </odd>
+            <odd>
+              <head>Tag</head>
+              <p>27</p>
+            </odd>
+            <odd>
+              <head>Äußere Beschreibung</head>
+              <p>Libell 10 Bl.</p>
+            </odd>
+            <odd>
+              <head>Signatur</head>
+              <p>BayHStA, Kloster Wilten Urkunden 1</p>
+            </odd>
+            <odd>
+              <head>Identifier Archivtektonik</head>
+              <p>DE-2050_Tektonik</p>
+            </odd>
+            <odd>
+              <head>Änderungsdatum Archivtektonik</head>
+              <p>02.06.2023</p>
+            </odd>
+            <daogrp id="BY_baef72b3-ad84-4cc6-af29-ba32804ed703_">
+              <daoloc xlink:role="image_full" xlink:href="https://www.gda.bayern.de/digitalisat/jpeg600/baef72b3-ad84-4cc6-af29-ba32804ed703/1" />
+              <daoloc xlink:role="externer_viewer" xlink:href="https://www.gda.bayern.de/show/baef72b3-ad84-4cc6-af29-ba32804ed703/1" />
+              <daoloc xlink:role="METS" xlink:href="http://www.gda.bayern.de/mets/baef72b3-ad84-4cc6-af29-ba32804ed703" />
+            </daogrp>
+            <index>
+              <indexentry>
+                <geogname>Wilten (Statuarstadt Innsbruck, Tirol, A), Kloster</geogname>
+              </indexentry>
+            </index>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

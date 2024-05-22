@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <eadheader langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+    <eadid mainagencycode="DE-2050" url="https://www.gda.bayern.de/archive/hauptstaatsarchiv/">stab_8ffae829-00f7-407d-887a-69f54be0d60e</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Augustinerkloster Tittmoning Urkunden</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        <date normal="2024-03-18">18. März 2024</date>
+      </creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="Findbuch">
+    <did>
+      <unitid>Augustinerkloster Tittmoning Urkunden</unitid>
+      <repository>
+        <corpname role="Staatliche Archive" id="DE-2050">Bayerisches Hauptstaatsarchiv</corpname>
+        <address>
+          <addressline>Schönfeldstraße 5-11, 80539 München, E-Mail: poststelle@bayhsta.bayern.de bzw. Abt. IV Kriegsarchiv, Leonrodstraße 57, 80636 München</addressline>
+        </address>
+        <extref xlink:role="url_archive" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/" />
+      </repository>
+    </did>
+    <otherfindaid>
+      <extref xlink:role="url_findbuch" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/bestaende/" />
+    </otherfindaid>
+    <dsc>
+      <c level="collection" id="stab_8ffae829-00f7-407d-887a-69f54be0d60e">
+        <did>
+          <unitid>Augustinerkloster Tittmoning Urkunden</unitid>
+          <unittitle>Augustinerkloster Tittmoning Urkunden</unittitle>
+          <unitdate normal="1682-01-01/1682-12-31">1682</unitdate>
+          <physdesc>
+            <genreform normal="Urkunden">Urkunden</genreform>
+            <extent>1</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="lat" scriptcode="Latn">Sprache der Unterlagen</language>
+          </langmaterial>
+          <origination>Augustinerkloster Tittmoning Urkunden</origination>
+          <origination label="pre"> Monika Ofer </origination>
+        </did>
+        <scopecontent encodinganalog="Einleitung">
+          <head>Vorwort</head>
+          <p>kein Vorwort</p>
+        </scopecontent>
+        <c level="class" id="stab_d9f333c9-d363-4764-b3d7-7db797fa1d53">
+          <did>
+            <unittitle>Urkunden</unittitle>
+          </did>
+          <c level="file" id="stab_447b912f-d7e0-4813-aab6-9f362151ff70">
+            <did>
+              <unitid type="Altsignatur">Tittmoning (Augustinereremiten) Urk. 1682 X 31</unitid>
+              <unitid type="Art des Schutzmediums">Digitaler Langzeitspeicher</unitid>
+              <unitid type="Art des Schutzmediums">Online-Findmitteldatenbank der Staatlichen Archive Bayerns</unitid>
+              <unitid>BayHStA, Augustinerkloster Tittmoning Urkunden 1</unitid>
+              <unittitle type="Kopfregest">Erzbischof Maximilian Gandolph von Salzburg begründet in der salzburgischen Stadt Tittmoning ein Kloster der Augustinereremiten für zwölf Patres und Laienbrüder, von denen acht dem Priesterstand angehören sollen, stattet dieses mit Einkünften in Höhe von jährlich fünf Prozent aus 20 000 Gulden Kapital aus und gewährt u.a. Steuer- und Abgabenfreiheit.;
+                <lb />S1: Erzbischof Maximilian Gandolph von Salzburg, S2: Domkapitel Salzburg
+              </unittitle>
+              <unitdate>1682 Oktober 30</unitdate>
+              <origination label="Provenienz">
+                <name>Augustinerkloster Tittmoning</name>
+              </origination>
+              <origination label="Provenienz">
+                <name>Augustinerkloster Tittmoning Urkunden</name>
+              </origination>
+              <physdesc>Äußere Beschreibung: Libell 12 Bl.</physdesc>
+              <physdesc>
+                <genreform normal="Urkunden">Urkunden</genreform>
+              </physdesc>
+              <materialspec>Perg.</materialspec>
+              <langmaterial>
+                <language langcode="lat" scriptcode="Latn">Sprache der Unterlagen</language>
+              </langmaterial>
+              <note>
+                <p>enthält auch: drei Abschriften, Pap. Libell, 6 - 8 Bl.</p>
+              </note>
+            </did>
+            <odd>
+              <head>Zusatz-Laufzeit</head>
+              <p>1682 Oktober 30</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>lat.</p>
+            </odd>
+            <odd>
+              <head>Überlieferungsart</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Besiegelung/Beglaubigung</head>
+              <p>beide S an schwarzrotweißer Seidenschnur in Holzkapsel anhängend</p>
+            </odd>
+            <odd>
+              <head>Überlieferung</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>lat.</p>
+            </odd>
+            <odd>
+              <head>Bearbeiter</head>
+              <p>ofe</p>
+            </odd>
+            <odd>
+              <head>Bestellnummer</head>
+              <p>1</p>
+            </odd>
+            <odd>
+              <head>Laufzeit</head>
+              <p>1682 Oktober 30</p>
+            </odd>
+            <odd>
+              <head>Medium</head>
+              <p>A = Analoges Archivale</p>
+            </odd>
+            <odd>
+              <head>Interne Bemerkungen</head>
+              <p>enthält auch: drei Abschriften, Pap. Libell, 6 - 8 Bl.</p>
+            </odd>
+            <odd>
+              <head>Schutzfrist bis</head>
+              <p>31.12.0000</p>
+            </odd>
+            <odd>
+              <head>Gesamtbewertung des Schadens</head>
+              <p>0. kein Schaden (vorlegbar; verfilmbar und digitalisierbar)</p>
+            </odd>
+            <odd>
+              <head>Erfassungsdatum</head>
+              <p>07.05.2012</p>
+            </odd>
+            <odd>
+              <head>Geändert am</head>
+              <p>21.12.2020 10:51:09</p>
+            </odd>
+            <odd>
+              <head>Geändert von</head>
+              <p>hsta-genovrau</p>
+            </odd>
+            <odd>
+              <head>Jahr</head>
+              <p>1682</p>
+            </odd>
+            <odd>
+              <head>Monat</head>
+              <p>10</p>
+            </odd>
+            <odd>
+              <head>Tag</head>
+              <p>30</p>
+            </odd>
+            <odd>
+              <head>Äußere Beschreibung</head>
+              <p>Libell 12 Bl.</p>
+            </odd>
+            <odd>
+              <head>Signatur</head>
+              <p>BayHStA, Augustinerkloster Tittmoning Urkunden 1</p>
+            </odd>
+            <odd>
+              <head>Identifier Archivtektonik</head>
+              <p>DE-2050_Tektonik</p>
+            </odd>
+            <odd>
+              <head>Änderungsdatum Archivtektonik</head>
+              <p>02.06.2023</p>
+            </odd>
+            <daogrp id="BY_447b912f-d7e0-4813-aab6-9f362151ff70_">
+              <daoloc xlink:role="image_full" xlink:href="https://www.gda.bayern.de/digitalisat/jpeg600/447b912f-d7e0-4813-aab6-9f362151ff70/1" />
+              <daoloc xlink:role="externer_viewer" xlink:href="https://www.gda.bayern.de/show/447b912f-d7e0-4813-aab6-9f362151ff70/1" />
+              <daoloc xlink:role="METS" xlink:href="http://www.gda.bayern.de/mets/447b912f-d7e0-4813-aab6-9f362151ff70" />
+            </daogrp>
+            <index>
+              <indexentry>
+                <geogname>Tittmoning (Lkr. Traunstein), Augustinerkloster</geogname>
+              </indexentry>
+            </index>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

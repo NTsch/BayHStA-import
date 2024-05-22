@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <eadheader langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+    <eadid mainagencycode="DE-2050" url="https://www.gda.bayern.de/archive/hauptstaatsarchiv/">stab_8f871368-8b7f-439a-b6f4-f81e829affa1</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Kloster Wilhering Urkunden</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        <date normal="2024-03-18">18. März 2024</date>
+      </creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="Findbuch">
+    <did>
+      <unitid>Kloster Wilhering Urkunden</unitid>
+      <repository>
+        <corpname role="Staatliche Archive" id="DE-2050">Bayerisches Hauptstaatsarchiv</corpname>
+        <address>
+          <addressline>Schönfeldstraße 5-11, 80539 München, E-Mail: poststelle@bayhsta.bayern.de bzw. Abt. IV Kriegsarchiv, Leonrodstraße 57, 80636 München</addressline>
+        </address>
+        <extref xlink:role="url_archive" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/" />
+      </repository>
+    </did>
+    <otherfindaid>
+      <extref xlink:role="url_findbuch" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/bestaende/" />
+    </otherfindaid>
+    <dsc>
+      <c level="collection" id="stab_8f871368-8b7f-439a-b6f4-f81e829affa1">
+        <did>
+          <unitid>Kloster Wilhering Urkunden</unitid>
+          <unittitle>Kloster Wilhering Urkunden</unittitle>
+          <unitdate normal="1295-01-01/1295-12-31">1295</unitdate>
+          <physdesc>
+            <extent>1</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="lat" scriptcode="Latn">Sprache der Unterlagen</language>
+          </langmaterial>
+          <origination>Kloster Wilhering Urkunden</origination>
+          <origination label="pre"> Monika Ofer </origination>
+        </did>
+        <scopecontent encodinganalog="Einleitung">
+          <head>Vorwort</head>
+          <p>kein Vorwort</p>
+        </scopecontent>
+        <relatedmaterial>
+          <p>2012</p>
+        </relatedmaterial>
+        <c level="class" id="stab_31513f90-de4a-488f-a08c-14e1ea78d730">
+          <did>
+            <unittitle>Urkunden</unittitle>
+          </did>
+          <c level="file" id="stab_ec89cc65-4d26-4244-a8ac-fbdc4f7ae1f6">
+            <did>
+              <unitid type="Art des Schutzmediums">Digitaler Langzeitspeicher</unitid>
+              <unitid type="Art des Schutzmediums">Online-Findmitteldatenbank der Staatlichen Archive Bayerns</unitid>
+              <unitid>BayHStA, Kloster Wilhering Urkunden 1</unitid>
+              <unittitle type="Kopfregest">Papst Benedikt [VIII.] bestätigt dem Kloster Wilhering das von Bischof Wernhard von Passau übertragene Patronatsrecht der Kirche in Engelhartszell und der dazu gehörigen Kapellen.;
+                <lb />S: Papst Benedikt VIII.
+              </unittitle>
+              <unitdate>1295 April 13</unitdate>
+              <origination label="Provenienz">
+                <name>Kloster Wilhering</name>
+              </origination>
+              <origination label="Provenienz">
+                <name>Kloster Wilhering Urkunden</name>
+              </origination>
+              <physdesc>
+                <genreform normal="Urkunden">Urkunden</genreform>
+              </physdesc>
+              <materialspec>Perg.</materialspec>
+              <langmaterial>
+                <language langcode="lat" scriptcode="Latn">Sprache der Unterlagen</language>
+              </langmaterial>
+              <note>
+                <p>Schenkung des Ungarischen Nationalmuseums Budapest</p>
+              </note>
+            </did>
+            <odd>
+              <head>Zusatz-Laufzeit</head>
+              <p>1295 April 13</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>lat.</p>
+            </odd>
+            <odd>
+              <head>Überlieferungsart</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Originaldatierung</head>
+              <p>datum Lateran id. aprilis</p>
+            </odd>
+            <odd>
+              <head>Besiegelung/Beglaubigung</head>
+              <p>S fehlt</p>
+            </odd>
+            <odd>
+              <head>Überlieferung</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>lat.</p>
+            </odd>
+            <odd>
+              <head>Originaldatierung</head>
+              <p>datum Lateran id. aprilis</p>
+            </odd>
+            <odd>
+              <head>Bearbeiter</head>
+              <p>ofe</p>
+            </odd>
+            <odd>
+              <head>Bestellnummer</head>
+              <p>1</p>
+            </odd>
+            <odd>
+              <head>Laufzeit</head>
+              <p>1295 April 13</p>
+            </odd>
+            <odd>
+              <head>Medium</head>
+              <p>A = Analoges Archivale</p>
+            </odd>
+            <odd>
+              <head>Interne Bemerkungen</head>
+              <p>Schenkung des Ungarischen Nationalmuseums Budapest</p>
+            </odd>
+            <odd>
+              <head>Schutzfrist bis</head>
+              <p>31.12.0000</p>
+            </odd>
+            <odd>
+              <head>Gesamtbewertung des Schadens</head>
+              <p>1. leicht (vorlegbar; verfilmbar und digitalisierbar)</p>
+            </odd>
+            <odd>
+              <head>Schadenskataster</head>
+              <p>Mechanischer Papier- oder Pergamentschaden - leicht</p>
+            </odd>
+            <odd>
+              <head>Erfassungsdatum</head>
+              <p>08.05.2012</p>
+            </odd>
+            <odd>
+              <head>Geändert am</head>
+              <p>21.12.2020 10:52:22</p>
+            </odd>
+            <odd>
+              <head>Geändert von</head>
+              <p>hsta-genovrau</p>
+            </odd>
+            <odd>
+              <head>Jahr</head>
+              <p>1295</p>
+            </odd>
+            <odd>
+              <head>Monat</head>
+              <p>4</p>
+            </odd>
+            <odd>
+              <head>Tag</head>
+              <p>13</p>
+            </odd>
+            <odd>
+              <head>Signatur</head>
+              <p>BayHStA, Kloster Wilhering Urkunden 1</p>
+            </odd>
+            <odd>
+              <head>Identifier Archivtektonik</head>
+              <p>DE-2050_Tektonik</p>
+            </odd>
+            <odd>
+              <head>Änderungsdatum Archivtektonik</head>
+              <p>02.06.2023</p>
+            </odd>
+            <daogrp id="BY_ec89cc65-4d26-4244-a8ac-fbdc4f7ae1f6_">
+              <daoloc xlink:role="image_full" xlink:href="https://www.gda.bayern.de/digitalisat/jpeg600/ec89cc65-4d26-4244-a8ac-fbdc4f7ae1f6/1" />
+              <daoloc xlink:role="externer_viewer" xlink:href="https://www.gda.bayern.de/show/ec89cc65-4d26-4244-a8ac-fbdc4f7ae1f6/1" />
+              <daoloc xlink:role="METS" xlink:href="http://www.gda.bayern.de/mets/ec89cc65-4d26-4244-a8ac-fbdc4f7ae1f6" />
+            </daogrp>
+            <index>
+              <indexentry>
+                <geogname>Wilhering (PB Linz-Land, OÖ, A), Kloster</geogname>
+              </indexentry>
+              <indexentry>
+                <geogname>Engelhartszell (PB Schärding, OÖ, A), Kirche</geogname>
+              </indexentry>
+            </index>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
