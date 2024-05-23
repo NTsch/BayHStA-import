@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <eadheader langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+    <eadid mainagencycode="DE-2050" url="https://www.gda.bayern.de/archive/hauptstaatsarchiv/">stab_019d14bd-be08-4c12-abb6-38c569d47e7a</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Kloster Michaelbeuern Urkunden</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        <date normal="2024-03-11">11. März 2024</date>
+      </creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="Findbuch">
+    <did>
+      <unitid>Kloster Michaelbeuern Urkunden</unitid>
+      <repository>
+        <corpname role="Staatliche Archive" id="DE-2050">Bayerisches Hauptstaatsarchiv</corpname>
+        <address>
+          <addressline>Schönfeldstraße 5-11, 80539 München, E-Mail: poststelle@bayhsta.bayern.de bzw. Abt. IV Kriegsarchiv, Leonrodstraße 57, 80636 München</addressline>
+        </address>
+        <extref xlink:role="url_archive" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/" />
+      </repository>
+    </did>
+    <otherfindaid>
+      <extref xlink:role="url_findbuch" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/bestaende/" />
+    </otherfindaid>
+    <dsc>
+      <c level="collection" id="stab_019d14bd-be08-4c12-abb6-38c569d47e7a">
+        <did>
+          <unitid>Kloster Michaelbeuern Urkunden</unitid>
+          <unittitle>Kloster Michaelbeuern Urkunden</unittitle>
+          <unitdate normal="1632-01-01/1632-12-31">1632</unitdate>
+          <physdesc>
+            <genreform normal="Urkunden">Urkunden</genreform>
+            <extent>1</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="ger" scriptcode="Latn">Sprache der Unterlagen</language>
+          </langmaterial>
+          <origination>Kloster Michaelbeuern Urkunden</origination>
+          <origination label="pre"> Monika Ofer </origination>
+        </did>
+        <scopecontent encodinganalog="Einleitung">
+          <head>Vorwort</head>
+          <p>Kein Vorwort</p>
+        </scopecontent>
+        <c level="class" id="stab_a8cc3eab-f3d8-4d24-b815-f7995f4f636a">
+          <did>
+            <unittitle>Urkunden</unittitle>
+          </did>
+          <c level="file" id="stab_71a5c2a4-11e5-4673-8acc-1f26e4eeeedd">
+            <did>
+              <unitid type="Art des Schutzmediums">Digitaler Langzeitspeicher</unitid>
+              <unitid type="Art des Schutzmediums">Online-Findmitteldatenbank der Staatlichen Archive Bayerns</unitid>
+              <unitid>BayHStA, Kloster Michaelbeuern Urkunden 1</unitid>
+              <unittitle type="Kopfregest">Abt Lambert, Prior Stephan und der Konvent des Klosters Michaelbeuern verleihen Stephan Schmidt und seiner künftigen Ehefrau Barbara eine Peunt sowie ein Haus mit Garten zu Stockham.
+                <lb />
+                <lb />S1: Kloster Michaelbeuern, Abt Lambert, S2: Konvent des Klosters Michaelbeuern
+              </unittitle>
+              <unitdate>1632 Januar 15</unitdate>
+              <origination label="Provenienz">
+                <name>Kloster Michaelbeuern</name>
+              </origination>
+              <origination label="Provenienz">
+                <name>Kloster Michaelbeuern Urkunden</name>
+              </origination>
+              <physdesc>
+                <genreform normal="Urkunden">Urkunden</genreform>
+              </physdesc>
+              <materialspec>Perg.</materialspec>
+              <langmaterial>
+                <language langcode="ger" scriptcode="Latn">Sprache der Unterlagen</language>
+              </langmaterial>
+            </did>
+            <odd>
+              <head>Zusatz-Laufzeit</head>
+              <p>1632 Januar 15</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>dt.</p>
+            </odd>
+            <odd>
+              <head>Überlieferungsart</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Besiegelung/Beglaubigung</head>
+              <p>S1 fehlt, S2 in Holzkapsel anhängend</p>
+            </odd>
+            <odd>
+              <head>Überlieferung</head>
+              <p>Ausf.</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>dt.</p>
+            </odd>
+            <odd>
+              <head>Bearbeiter</head>
+              <p>ofe</p>
+            </odd>
+            <odd>
+              <head>Bestellnummer</head>
+              <p>1</p>
+            </odd>
+            <odd>
+              <head>Laufzeit</head>
+              <p>1632 Januar 15</p>
+            </odd>
+            <odd>
+              <head>Medium</head>
+              <p>A = Analoges Archivale</p>
+            </odd>
+            <odd>
+              <head>Schutzfrist bis</head>
+              <p>31.12.0000</p>
+            </odd>
+            <odd>
+              <head>Erfassungsdatum</head>
+              <p>03.11.2010</p>
+            </odd>
+            <odd>
+              <head>Geändert am</head>
+              <p>22.12.2020 15:03:18</p>
+            </odd>
+            <odd>
+              <head>Geändert von</head>
+              <p>hsta-genovrau</p>
+            </odd>
+            <odd>
+              <head>Jahr</head>
+              <p>1632</p>
+            </odd>
+            <odd>
+              <head>Monat</head>
+              <p>1</p>
+            </odd>
+            <odd>
+              <head>Tag</head>
+              <p>15</p>
+            </odd>
+            <odd>
+              <head>Signatur</head>
+              <p>BayHStA, Kloster Michaelbeuern Urkunden 1</p>
+            </odd>
+            <odd>
+              <head>Identifier Archivtektonik</head>
+              <p>DE-2050_Tektonik</p>
+            </odd>
+            <odd>
+              <head>Änderungsdatum Archivtektonik</head>
+              <p>02.06.2023</p>
+            </odd>
+            <daogrp id="BY_71a5c2a4-11e5-4673-8acc-1f26e4eeeedd_">
+              <daoloc xlink:role="image_full" xlink:href="https://www.gda.bayern.de/digitalisat/jpeg600/71a5c2a4-11e5-4673-8acc-1f26e4eeeedd/1" />
+              <daoloc xlink:role="externer_viewer" xlink:href="https://www.gda.bayern.de/show/71a5c2a4-11e5-4673-8acc-1f26e4eeeedd/1" />
+              <daoloc xlink:role="METS" xlink:href="http://www.gda.bayern.de/mets/71a5c2a4-11e5-4673-8acc-1f26e4eeeedd" />
+            </daogrp>
+            <index>
+              <indexentry>
+                <geogname>Michaelbeuern (Gde. Dorfbeuern, PB Salzburg-Umgebung, Salzburg, A), Kloster</geogname>
+              </indexentry>
+              <indexentry>
+                <geogname>Stockham (Gde. Lamprechtshausen, PB Salzburg-Umgebung, Salzburg, A)</geogname>
+              </indexentry>
+            </index>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

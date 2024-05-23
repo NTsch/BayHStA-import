@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd http://www.w3.org/1999/xlink http://www.loc.gov/standards/xlink/xlink.xsd" audience="external">
+  <eadheader langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" countryencoding="iso3166-1">
+    <eadid mainagencycode="DE-2050" url="https://www.gda.bayern.de/archive/hauptstaatsarchiv/">stab_12d5518b-0553-4192-85f6-ea0fd9eadf91</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Klarissenkloster Judenburg Urkunden</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        <date normal="2024-03-11">11. März 2024</date>
+      </creation>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="Findbuch">
+    <did>
+      <unitid>Klarissenkloster Judenburg Urkunden</unitid>
+      <repository>
+        <corpname role="Staatliche Archive" id="DE-2050">Bayerisches Hauptstaatsarchiv</corpname>
+        <address>
+          <addressline>Schönfeldstraße 5-11, 80539 München, E-Mail: poststelle@bayhsta.bayern.de bzw. Abt. IV Kriegsarchiv, Leonrodstraße 57, 80636 München</addressline>
+        </address>
+        <extref xlink:role="url_archive" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/" />
+      </repository>
+    </did>
+    <otherfindaid>
+      <extref xlink:role="url_findbuch" xlink:href="https://www.gda.bayern.de/archive/hauptstaatsarchiv/bestaende/" />
+    </otherfindaid>
+    <dsc>
+      <c level="collection" id="stab_12d5518b-0553-4192-85f6-ea0fd9eadf91">
+        <did>
+          <unitid>Klarissenkloster Judenburg Urkunden</unitid>
+          <unittitle>Klarissenkloster Judenburg Urkunden</unittitle>
+          <unitdate normal="1587-01-01/1587-12-31">1587</unitdate>
+          <physdesc>
+            <genreform normal="Urkunden">Urkunden</genreform>
+            <extent>1</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="lat" scriptcode="Latn">Sprache der Unterlagen</language>
+          </langmaterial>
+          <origination>Klarissenkloster Judenburg Urkunden</origination>
+          <origination label="pre"> Monika Ofer </origination>
+        </did>
+        <scopecontent encodinganalog="Einleitung">
+          <head>Vorwort</head>
+          <p>Kein Vorwort</p>
+        </scopecontent>
+        <c level="class" id="stab_ba466f3d-3956-494c-be4f-d39141543c10">
+          <did>
+            <unittitle>Urkunden</unittitle>
+          </did>
+          <c level="file" id="stab_bf2a8f28-1088-4b6b-ba1b-7f2d49ffaced">
+            <did>
+              <unitid type="Altsignatur">HU Salzburg 705</unitid>
+              <unitid type="Art des Schutzmediums">Digitaler Langzeitspeicher</unitid>
+              <unitid type="Art des Schutzmediums">Online-Findmitteldatenbank der Staatlichen Archive Bayerns</unitid>
+              <unitid>BayHStA, Klarissenkloster Judenburg Urkunden 1</unitid>
+              <unittitle type="Kopfregest">Erzbischof Wolfgang Dietrich von Salzburg bestätigt dem Klarissenkloster St. Maria in Paradies außerhalb der Stadt Judenburg (1) die Wahl der Sophia Hornbergin zur neuen Äbtissin. Die Wahl war nach dem Tod der bisherigen Äbtissin Catharina Baschlin notwendig geworden.;
+                <lb />S: Salzburg, Erzbischof Wolfgang Dietrich ,
+              </unittitle>
+              <unitdate>1587 September 17</unitdate>
+              <abstract>Fußnoten: 1) Judenburg (PB Judenburg, Steiermark, A)</abstract>
+              <origination label="Provenienz">
+                <name>Klarissenkloster Judenburg</name>
+              </origination>
+              <origination label="Provenienz">
+                <name>Klarissenkloster Judenburg Urkunden</name>
+              </origination>
+              <physdesc>
+                <genreform normal="Urkunden">Urkunden</genreform>
+              </physdesc>
+              <materialspec>Perg.</materialspec>
+              <langmaterial>
+                <language langcode="lat" scriptcode="Latn">Sprache der Unterlagen</language>
+              </langmaterial>
+            </did>
+            <odd>
+              <head>Zusatz-Laufzeit</head>
+              <p>1587 September 17</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>lat.</p>
+            </odd>
+            <odd>
+              <head>Überlieferungsart</head>
+              <p>Or.</p>
+            </odd>
+            <odd>
+              <head>Originaldatierung</head>
+              <p>In metropoli nostra salisburgensi ... die decima septima mensis septembris 1587</p>
+            </odd>
+            <odd>
+              <head>Besiegelung/Beglaubigung</head>
+              <p>Sg. fehlt</p>
+            </odd>
+            <odd>
+              <head>Überlieferung</head>
+              <p>Or.</p>
+            </odd>
+            <odd>
+              <head>Sprache</head>
+              <p>lat.</p>
+            </odd>
+            <odd>
+              <head>Ausstellungsort</head>
+              <p>Salzburg</p>
+            </odd>
+            <odd>
+              <head>Vermerke</head>
+              <p>RV:  rot 3231; RV:  Erzb Salzburg; RV:  Salzburg 1587 Judenburg Paradies</p>
+            </odd>
+            <odd>
+              <head>Originaldatierung</head>
+              <p>In metropoli nostra salisburgensi ... die decima septima mensis septembris 1587</p>
+            </odd>
+            <odd>
+              <head>Bearbeiter</head>
+              <p>ofe</p>
+            </odd>
+            <odd>
+              <head>Bestellnummer</head>
+              <p>1</p>
+            </odd>
+            <odd>
+              <head>Laufzeit</head>
+              <p>1587 September 17</p>
+            </odd>
+            <odd>
+              <head>Medium</head>
+              <p>A = Analoges Archivale</p>
+            </odd>
+            <odd>
+              <head>Schutzfrist bis</head>
+              <p>31.12.0000</p>
+            </odd>
+            <odd>
+              <head>Erläuterung des Schadens</head>
+              <p>Abgelöster Bucheinband, beschädigt</p>
+            </odd>
+            <odd>
+              <head>Erfassungsdatum</head>
+              <p>04.11.2008</p>
+            </odd>
+            <odd>
+              <head>Geändert am</head>
+              <p>22.12.2020 15:02:07</p>
+            </odd>
+            <odd>
+              <head>Geändert von</head>
+              <p>hsta-genovrau</p>
+            </odd>
+            <odd>
+              <head>Jahr</head>
+              <p>1587</p>
+            </odd>
+            <odd>
+              <head>Monat</head>
+              <p>9</p>
+            </odd>
+            <odd>
+              <head>Tag</head>
+              <p>17</p>
+            </odd>
+            <odd>
+              <head>Signatur</head>
+              <p>BayHStA, Klarissenkloster Judenburg Urkunden 1</p>
+            </odd>
+            <odd>
+              <head>Identifier Archivtektonik</head>
+              <p>DE-2050_Tektonik</p>
+            </odd>
+            <odd>
+              <head>Änderungsdatum Archivtektonik</head>
+              <p>02.06.2023</p>
+            </odd>
+            <daogrp id="BY_bf2a8f28-1088-4b6b-ba1b-7f2d49ffaced_">
+              <daoloc xlink:role="image_full" xlink:href="https://www.gda.bayern.de/digitalisat/jpeg600/bf2a8f28-1088-4b6b-ba1b-7f2d49ffaced/1" />
+              <daoloc xlink:role="externer_viewer" xlink:href="https://www.gda.bayern.de/show/bf2a8f28-1088-4b6b-ba1b-7f2d49ffaced/1" />
+              <daoloc xlink:role="METS" xlink:href="http://www.gda.bayern.de/mets/bf2a8f28-1088-4b6b-ba1b-7f2d49ffaced" />
+            </daogrp>
+            <index>
+              <indexentry>
+                <geogname>Judenburg (PB Judenburg, Steiermark, A), Klarissenkloster: Äbtissinnen, Sophia Hornberg</geogname>
+              </indexentry>
+              <indexentry>
+                <geogname>Judenburg (PB Judenburg, Steiermark, A), Klarissenkloster: Äbtissinnen, Katharina Basch</geogname>
+              </indexentry>
+              <indexentry>
+                <geogname>Salzburg (krfr.St., Salzburg, A), Erzstift: Erzbischöfe\ Wolf Dietrich</geogname>
+              </indexentry>
+              <indexentry>
+                <persname>Baschl: Katharina, Äbtissin v. St. Maria in Paradies, Judenburg</persname>
+              </indexentry>
+              <indexentry>
+                <persname>Hornberg: Sophia, Äbtissin v. St. Maria in Paradies, Judenburg</persname>
+              </indexentry>
+            </index>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
