@@ -14,6 +14,5 @@ return $title:)
 (:for $charter in $charters
 return <id>{$charter/@id/data()}</id>:)
 
-(::)
-for $val in distinct-values($charters//odd[head/text()= 'Unternummer']/p)
+for $val in distinct-values($charters//odd[head/text()= 'Erfassungsdatum']/p)
 return <value>{$val}</value>
