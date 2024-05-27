@@ -14,5 +14,15 @@ return $title:)
 (:for $charter in $charters
 return <id>{$charter/@id/data()}</id>:)
 
-for $val in distinct-values($charters//odd[head/text()= 'Erfassungsdatum']/p)
+(:return distinct values for certain fields:)
+for $val in distinct-values($charters//odd[head/text()= 'Monat']/p)
 return <value>{$val}</value>
+
+(:return charters that contain a certain value:)
+(:for $charter in $charters/odd/p[contains(text(), 'Analoges Archivale')]
+return <value>{concat($charter/ancestor::ead/eadheader/eadid/text(), ' - ', $charter/ancestor::c[1]/@id/data())}</value>:)
+
+(:return charters that don't contain a certain value:)
+(:for $charter in $charters
+where $charter[not(//odd/p[contains(text(), 'Analoges Archivale')])]
+return <value>{concat($charter/ancestor::ead/eadheader/eadid/text(), ' - ', $charter/@id/data())}</value>:)
