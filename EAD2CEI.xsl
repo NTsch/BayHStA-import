@@ -66,20 +66,38 @@
                 </cei:idno>
                 <cei:chDesc>
                     <cei:issued>
-                        
+                        <cei:date>
+                            <xsl:variable name="month">
+                                <xsl:variable name="zero_month" select="concat('0', odd[head/text()='Monat']/p)"/>
+                                <xsl:value-of select="substring($zero_month, string-length($zero_month) - 1, 2)"/>
+                            </xsl:variable>
+                            <xsl:attribute name="value" select="concat(odd[head/text()='Tag']/p, $month, odd[head/text()='Jahr']/p)"/>
+                            <xsl:value-of select="odd[head/text()='Originaldatierung'][1]/p"/>
+                            <xsl:text> (</xsl:text>
+                            <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
+                            <xsl:text>)</xsl:text>
+                        </cei:date>
                     </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>
+                            <xsl:value-of select="odd[head/text()='Überlieferung']/p"/>
+                        </cei:traditioForm>
+                        <cei:auth>
+                            <cei:sealDesc>
+                                <xsl:value-of select="odd[head/text()='Besiegelung']/p"/>
+                                <xsl:value-of select="odd[head/text()='Beglaubigung']/p"/>
+                            </cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
                     <cei:abstract>
                         <xsl:value-of select="did/unittitle[@type = 'Kopfregest']"/>
                     </cei:abstract>
+                    <cei:lang_MOM>
+                        <xsl:apply-templates select="odd[head/text()= 'Sprache'][1]/p"/>
+                    </cei:lang_MOM>
                 </cei:chDesc>
             </cei:body>
         </cei:text>
-    </xsl:template>
-    
-    <xsl:template match='Laufzeit'>
-        <cei:date>
-            <xsl:apply-templates/>
-        </cei:date>
     </xsl:template>
     
     <!--<xsl:variable name="date">
