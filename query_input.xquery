@@ -10,13 +10,12 @@ let $title := $archive/ead/eadheader/filedesc/titlestmt/titleproper
 return $title:)
 
 for $charter in $charters
-where $charter//odd[head/text()='Besiegelung'] and $charter//odd[head/text()='Beglaubigung']
-where $charter//odd[head/text()='Besiegelung']/p/text() = $charter//odd[head/text()='Beglaubigung']/p/text()
-return <id>{$charter/base-uri()}</id>
+(:where $charter//odd[head/text()='Gesamtbewertung des Schadens'] and $charter//odd[head/text()='Erläuterung des Schadens'] and $charter//odd[head/text()='Schadenskataster']
+return <id>{$charter/base-uri()}</id>:)
 
 (:return distinct values for certain fields:)
-(:for $val in distinct-values($charters//odd[head/text()= 'Monat']/p)
-return <value>{$val}</value>:)
+for $val in distinct-values($charters//odd[head/text()= 'Identifier Archivtektonik']/p)
+return <value>{$val}</value>
 
 (:return charters that contain a certain value:)
 (:for $charter in $charters/odd/p[contains(text(), 'Analoges Archivale')]
