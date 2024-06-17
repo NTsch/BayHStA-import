@@ -71,10 +71,45 @@
                     <cei:issued>
                         <cei:date>
                             <xsl:variable name="month">
-                                <xsl:variable name="zero_month" select="concat('0', odd[head/text()='Monat']/p)"/>
+                                <xsl:variable name="zero_month">
+                                    <xsl:choose>
+                                        <xsl:when test="not(odd/head/text()='Monat')">
+                                            <xsl:text>99</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('0', odd[head/text()='Monat']/p)"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:variable>
                                 <xsl:value-of select="substring($zero_month, string-length($zero_month) - 1, 2)"/>
                             </xsl:variable>
-                            <xsl:attribute name="value" select="concat(odd[head/text()='Tag']/p, $month, odd[head/text()='Jahr']/p)"/>
+                            <xsl:variable name="day">
+                                <xsl:variable name="zero_day">
+                                    <xsl:choose>
+                                        <xsl:when test="not(odd/head/text()='Tag')">
+                                            <xsl:text>99</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('0', odd[head/text()='Tag']/p)"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:variable>
+                                <xsl:value-of select="substring($zero_day, string-length($zero_day) - 1, 2)"/>
+                            </xsl:variable>
+                            <xsl:variable name="year">
+                                <xsl:variable name="zero_year">
+                                    <xsl:choose>
+                                        <xsl:when test="not(odd/head/text()='Jahr')">
+                                            <xsl:text>9999</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('0', odd[head/text()='Jahr']/p)"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </xsl:variable>
+                                <xsl:value-of select="substring($zero_year, string-length($zero_year) - 3, 4)"/>
+                            </xsl:variable>
+                            <xsl:attribute name="value" select="concat($year, $month, $day)"/>
                             <xsl:value-of select="odd[head/text()='Originaldatierung'][1]/p"/>
                             <xsl:text> (</xsl:text>
                             <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
@@ -89,9 +124,20 @@
                             <xsl:value-of select="odd[head/text()='Überlieferung']/p"/>
                         </cei:traditioForm>
                         <cei:archIdentifier>
-                            
+                            <cei:settlement>München</cei:settlement>
+                            <cei:region>Bayern</cei:region>
+                            <cei:country>Deutschland</cei:country>
+                            <cei:arch>Bayerisches Hauptstaatsarchiv</cei:arch>
+                            <cei:archFond>
+                                <xsl:value-of select="did/origination[@label='Provenienz'][1]/name"/>
+                            </cei:archFond>
+                            <!--<xsl:apply-templates select="odd[head/text()='Identifier Archivtektonik']/p"/>-->
+                            <xsl:apply-templates select="odd[head/text()='Bestellnummer']/p"/>
+                            <xsl:apply-templates select="odd[head/text()='Vorläufige Nummer']/p"/>
+                            <xsl:apply-templates select="odd[head/text()='Unternummer']/p"/>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
+                            <xsl:apply-templates select="odd[head/text()='Medium']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Äußere Beschreibung']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Objektbeschreibung']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Gesamtbewertung des Schadens']/p"/>
@@ -118,15 +164,6 @@
             </cei:body>
         </cei:text>
     </xsl:template>
-    
-    <!--<xsl:variable name="date">
-        <cei:date>
-            <xsl:attribute name="value">
-                <xsl:value-of select="concat(odd[head/text()= 'Jahr']/p, odd[head/text()= 'Monat']/p, odd[head/text()= 'Tag']/p)"/>
-            </xsl:attribute>
-            <xsl:value-of select="odd[head/text()= 'Laufzeit']/p"/>
-        </cei:date>
-    </xsl:variable>-->
     
     <xsl:template match="odd[head/text()='Äußere Beschreibung']/p">
         <xsl:choose>
@@ -213,6 +250,24 @@
         <cei:condition n='Schadenskataster'>
             <xsl:apply-templates/>
         </cei:condition>
+    </xsl:template>
+    
+    <xsl:template match="odd[head/text()='Medium']/p">
+        <cei:material>
+            <xsl:apply-templates/>
+        </cei:material>
+    </xsl:template>
+    
+    <xsl:template match="odd[head/text()='Identifier Archivtektonik']/p">
+        <cei:archFond>
+            <xsl:apply-templates/>
+        </cei:archFond>
+    </xsl:template>
+    
+    <xsl:template match="odd[head/text()='Bestellnummer' or head/text()='Vorläufige Nummer' or head/text()='Unternummer']/p">
+        <cei:idno n='{../head/text()}'>
+            <xsl:apply-templates/>
+        </cei:idno>
     </xsl:template>
     
 </xsl:stylesheet>

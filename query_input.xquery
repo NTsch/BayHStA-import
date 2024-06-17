@@ -14,8 +14,17 @@ for $charter in $charters
 return <id>{$charter/base-uri()}</id>:)
 
 (:return distinct values for certain fields:)
-for $val in distinct-values($charters//odd[head/text()= 'Identifier Archivtektonik']/p)
-return <value>{$val}</value>
+(:for $val in distinct-values($charters//odd[head/text() = 'Medium']/p)
+return <value>{$val}</value>:)
+
+(:are there empty values?:)
+(:for $charter in $charters//odd[head/text() = 'Monat']/p[text()='']
+return <value>{concat($charter/ancestor::ead/eadheader/eadid/text(), ' - ', $charter/ancestor::c[1]/@id/data())}</value>:)
+
+(:does not have a certain element:)
+for $charter in $charters
+where $charter[not(odd/head/text() = 'Jahr')]
+return <value>{concat($charter/ancestor::ead/eadheader/eadid/text(), ' - ', $charter/ancestor::c[1]/@id/data())}</value>
 
 (:return charters that contain a certain value:)
 (:for $charter in $charters/odd/p[contains(text(), 'Analoges Archivale')]
