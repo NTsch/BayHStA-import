@@ -76,6 +76,21 @@
                                         <xsl:when test="not(odd/head/text()='Monat')">
                                             <xsl:text>99</xsl:text>
                                         </xsl:when>
+                                        <xsl:when test="odd[head/text()='Monat']/p = 'Januar'">
+                                            <xsl:text>01</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="odd[head/text()='Monat']/p = 'Februar'">
+                                            <xsl:text>02</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="odd[head/text()='Monat']/p = 'September'">
+                                            <xsl:text>09</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="odd[head/text()='Monat']/p = 'November'">
+                                            <xsl:text>11</xsl:text>
+                                        </xsl:when>
+                                        <xsl:when test="odd[head/text()='Monat']/p = 'August'">
+                                            <xsl:text>08</xsl:text>
+                                        </xsl:when>
                                         <xsl:otherwise>
                                             <xsl:value-of select="concat('0', odd[head/text()='Monat']/p)"/>
                                         </xsl:otherwise>
@@ -97,17 +112,14 @@
                                 <xsl:value-of select="substring($zero_day, string-length($zero_day) - 1, 2)"/>
                             </xsl:variable>
                             <xsl:variable name="year">
-                                <xsl:variable name="zero_year">
-                                    <xsl:choose>
-                                        <xsl:when test="not(odd/head/text()='Jahr')">
-                                            <xsl:text>9999</xsl:text>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:value-of select="concat('0', odd[head/text()='Jahr']/p)"/>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </xsl:variable>
-                                <xsl:value-of select="substring($zero_year, string-length($zero_year) - 3, 4)"/>
+                                <xsl:choose>
+                                    <xsl:when test="not(odd/head/text()='Jahr')">
+                                        <xsl:text>9999</xsl:text>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="odd[head/text()='Jahr']/p"/>
+                                    </xsl:otherwise>
+                                </xsl:choose>
                             </xsl:variable>
                             <xsl:attribute name="value" select="concat($year, $month, $day)"/>
                             <xsl:value-of select="odd[head/text()='Originaldatierung'][1]/p"/>
