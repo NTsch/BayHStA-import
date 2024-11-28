@@ -1,17 +1,1 @@
-<result>
-    <validationResult>
-        <charterUri>/db/niklas/local_validation/cei/cei_stab_86514ee5-54d0-423a-b373-388ecda3437c.xml</charterUri>
-        <report>
-            <status>invalid</status>
-            <duration unit="msec">18</duration>
-            <message level="Error" line="18" column="48">cvc-pattern-valid: Value '1784st10' is not
-                facet-valid with respect to pattern '-?[129]?[0-9][0-9][0-9][019][0-9][01239][0-9]'
-                for type 'normalizedDateValue'.</message>
-            <message level="Error" line="18" column="48">cvc-attribute.3: The value '1784st10' of
-                attribute 'value' on element 'cei:date' is not valid with respect to its type,
-                'normalizedDateValue'.</message>
-            <message level="Error" line="20" column="30">cvc-assertion.failure: Assertion failed for
-                schema type '#anonymous'. i18n:wrong-date-format-message. </message>
-        </report>
-    </validationResult>
-</result>
+<result/>
