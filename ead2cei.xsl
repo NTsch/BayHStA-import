@@ -50,18 +50,9 @@
     
     <xsl:template match="c[@level='file']">
         <cei:text type='charter'>
-            <cei:front>
-                <cei:sourceDesc>
-                    <cei:sourceDescVolltext>
-                        <cei:bibl/>
-                    </cei:sourceDescVolltext>
-                    <cei:sourceDescRegest>
-                        <cei:bibl/>
-                    </cei:sourceDescRegest>
-                </cei:sourceDesc>
-            </cei:front>
+            <cei:front/>
             <cei:body>
-                <cei:idno>
+                <cei:idno id="{odd[head/text()= 'Signatur']/p}">
                     <xsl:apply-templates select="odd[head/text()= 'Signatur']/p"/>
                 </cei:idno>
                 <cei:chDesc>
@@ -122,7 +113,6 @@
                                 </xsl:choose>
                             </xsl:variable>
                             <xsl:attribute name="value" select="concat($year, $month, $day)"/>
-                            <xsl:value-of select="odd[head/text()='Originaldatierung'][1]/p"/>
                             <xsl:text> (</xsl:text>
                             <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
                             <xsl:text>)</xsl:text>
@@ -149,25 +139,26 @@
                             <xsl:apply-templates select="odd[head/text()='Unternummer']/p"/>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
-                            <xsl:apply-templates select="odd[head/text()='Medium']/p"/>
+                            <!--<xsl:apply-templates select="odd[head/text()='Medium']/p"/>-->
                             <xsl:apply-templates select="odd[head/text()='Äußere Beschreibung']/p"/>
-                            <xsl:apply-templates select="odd[head/text()='Objektbeschreibung']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Gesamtbewertung des Schadens']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Erläuterung des Schadens']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Schadenskataster']/p"/>
                         </cei:physicalDesc>
                         <cei:auth>
                             <cei:sealDesc>
-                                <xsl:value-of select="odd[head/text()='Besiegelung']/p"/>
-                                <xsl:value-of select="odd[head/text()='Beglaubigung']/p"/>
+                                <xsl:value-of select="odd[head/text()='Besiegelung/Beglaubigung']/p"/>
                                 <xsl:apply-templates select="odd[head/text()='Siegler']/p"/>
                             </cei:sealDesc>
                         </cei:auth>
                         <xsl:apply-templates select="odd[head/text()='Vermerke']/p"/>
                     </cei:witnessOrig>
                     <cei:diplomaticAnalysis>
+                        <!--[1] weil es oft doppelt vorkommt-->
+                        <xsl:apply-templates select="odd[head/text()='Originaldatierung'][1]/p"/>
                         <xsl:apply-templates select="odd[head/text()='Interne Bemerkungen']/p"/>
                         <xsl:apply-templates select="odd[head/text()='Literatur']/p"/>
+                        <xsl:apply-templates select="odd[head/text()='Objektbeschreibung']/p"/>
                     </cei:diplomaticAnalysis>
                     <cei:lang_MOM>
                         <xsl:apply-templates select="odd[head/text()= 'Sprache'][1]/p"/>
@@ -205,11 +196,9 @@
     </xsl:template>
     
     <xsl:template match="odd[head/text()='Objektbeschreibung']/p">
-        <cei:decoDesc>
-            <cei:p>
-                <xsl:apply-templates/>
-            </cei:p>
-        </cei:decoDesc>
+        <cei:p>
+            <xsl:apply-templates/>
+        </cei:p>
     </xsl:template>
     
     <xsl:template match="odd[head/text()='Literatur']/p">
@@ -264,11 +253,11 @@
         </cei:condition>
     </xsl:template>
     
-    <xsl:template match="odd[head/text()='Medium']/p">
+    <!--<xsl:template match="odd[head/text()='Medium']/p">
         <cei:material>
             <xsl:apply-templates/>
         </cei:material>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="odd[head/text()='Identifier Archivtektonik']/p">
         <cei:archFond>
@@ -281,5 +270,13 @@
             <xsl:apply-templates/>
         </cei:idno>
     </xsl:template>
+    
+    <xsl:template match="odd[head/text()='Originaldatierung']/p">
+        <cei:quoteOriginaldatierung>
+            <xsl:apply-templates/>
+        </cei:quoteOriginaldatierung>
+    </xsl:template>
+    
+    <xsl:template match="unittitle[parent::did/parent::c[@level='class']]"/>
     
 </xsl:stylesheet>

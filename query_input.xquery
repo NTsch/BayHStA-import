@@ -14,7 +14,10 @@ where $charter//odd[head/text()='Gesamtbewertung des Schadens'] and $charter//od
 return <id>{$charter/base-uri()}</id>:)
 
 (:return distinct values for certain fields:)
-for $val in distinct-values($charters//odd[head/text() = 'Monat']/p)
+(:for $val in distinct-values($charters//odd[head/text() = 'Änderungsdatum Archivtektonik']/p)
+return <value>{$val}</value>:)
+
+for $val in distinct-values($charters//odd/head/text())
 return <value>{$val}</value>
 
 (:are there empty values?:)
