@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 1</cell>
+               <cell n="2">5b1b31d5-43c0-49b9-b1d3-0b50f199cae8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 2</cell>
+               <cell n="2">74723612-a6f7-47c6-a3f2-0a214e03cfaa</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 3</cell>
+               <cell n="2">6fa2e09b-173b-489e-a3e1-1dd8556be327</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 4</cell>
+               <cell n="2">80d2f256-e955-4b0a-8e5c-53ac6b927770</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 5</cell>
+               <cell n="2">1935b004-38bf-4707-b0fa-92f55151d024</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 6</cell>
+               <cell n="2">e2a8b2a9-a4b2-46a9-849f-2a2f03c57545</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 7</cell>
+               <cell n="2">86681a31-3f61-455b-9cbe-a50beb53048d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 8</cell>
+               <cell n="2">0e779db5-faaa-40b9-9516-303058a44f57</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 9</cell>
+               <cell n="2">a88a3db8-5180-4c8b-b7f4-fab33da92de3</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 10</cell>
+               <cell n="2">1767c278-64c1-4d12-99c0-b76dd8d171fb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 11</cell>
+               <cell n="2">592650b1-58bc-4c8f-b09a-298d61d0dd01</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 12</cell>
+               <cell n="2">7a65ec03-1f8c-4f4f-ab1a-4a387140d91a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 13</cell>
+               <cell n="2">f6175126-dcca-4ca3-809e-bddbb88f627f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 14</cell>
+               <cell n="2">1de0e790-e8d6-472d-b991-9f530fceb241</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 14/a</cell>
+               <cell n="2">9633d10c-2a53-45dd-b7dd-666f5976ffa4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 15</cell>
+               <cell n="2">1825671e-fddf-471a-84bc-f8d8de8fee1b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 16</cell>
+               <cell n="2">f7c26066-5b57-48b1-8673-045502fcf948</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 17</cell>
+               <cell n="2">1fdb40d5-2f74-4a6a-bb4d-1f378eff2993</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 18</cell>
+               <cell n="2">a2928d4a-3dea-4de9-afea-e16c2be2d353</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 19/I</cell>
+               <cell n="2">16fd39e7-8620-4d8d-a192-377450214c24</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 19/II</cell>
+               <cell n="2">de782278-c64d-4ae7-8aec-770776be5778</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 20</cell>
+               <cell n="2">e8a8fbf0-16ae-40f5-acfc-666ced33a14e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 21</cell>
+               <cell n="2">bcd65248-d587-4547-9456-0250f0e1e596</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 22/I</cell>
+               <cell n="2">58e5affc-82c0-4af6-aacd-e72362f506a1</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 22/II</cell>
+               <cell n="2">0473bcc8-67ac-4c68-950f-7a23a54ac0c7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 23</cell>
+               <cell n="2">7f98ae8c-05f4-42f1-8219-4ccea216d2d5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 23/a</cell>
+               <cell n="2">9006126b-4b48-40d0-8605-e4707cc62c28</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 24</cell>
+               <cell n="2">a8d0fe80-0310-4fae-b96e-a2c93231c819</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 25/I</cell>
+               <cell n="2">57c34c0b-5656-42fe-8547-68f6a7a6c445</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 25/II</cell>
+               <cell n="2">72857a2e-ca3c-453c-9493-00c0b7799c13</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 26</cell>
+               <cell n="2">75ff2ce3-1146-430a-85a4-1132e39216b5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 26/a</cell>
+               <cell n="2">313d0541-c811-4f0d-95d8-a0410ead6087</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 27</cell>
+               <cell n="2">8096a0b8-ccdd-4e5e-a9c4-59d645c663bb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 28</cell>
+               <cell n="2">7da0393f-0f4b-4731-85ca-2c21508d1fde</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 29</cell>
+               <cell n="2">8e92c64b-8e7b-4a22-a2e8-4275feb7d751</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 30</cell>
+               <cell n="2">10767cd8-1740-4af6-8c11-20c25aec87f6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 31</cell>
+               <cell n="2">5164b342-dd6a-4b67-a718-3024d5f12ff8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 32</cell>
+               <cell n="2">4d059991-6664-4ba7-9797-3751e569d275</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 33</cell>
+               <cell n="2">d9b70e6f-084c-4f96-a496-229fec7c1396</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 34</cell>
+               <cell n="2">96436acb-d304-4e2d-a831-28da09e12a39</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 35</cell>
+               <cell n="2">812e37db-ffce-446d-8886-57dfdcafe460</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 36</cell>
+               <cell n="2">656f46e5-b863-49b5-9945-d1f402ad48c5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 37</cell>
+               <cell n="2">da406ad5-d077-45b3-8908-a8759632837c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 37/a</cell>
+               <cell n="2">22f8423e-0faa-4ee0-b9af-98d575133e21</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 38</cell>
+               <cell n="2">a7059448-8121-4634-9898-ab9fdf60a184</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 39</cell>
+               <cell n="2">70c3fabe-aae9-4284-b1e2-fcaa9a99580d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 40</cell>
+               <cell n="2">440f36f7-c765-480f-9545-dbdbdae24b0b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 41</cell>
+               <cell n="2">6966806a-136e-40b7-b1c7-0b14d38f002f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 42</cell>
+               <cell n="2">3684a9d8-059a-46cf-bc14-cdfaa3dd6f7b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 43</cell>
+               <cell n="2">8c467673-117a-45cd-82fe-6aeca80287aa</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 44</cell>
+               <cell n="2">5b0cec2f-d51e-468d-8b48-8eea17cb0f6a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 45/a</cell>
+               <cell n="2">72a795b6-5ee1-4101-ae0a-19e9b3a684d2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 45/b</cell>
+               <cell n="2">16da933e-2dd4-440f-b037-03099f88c265</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 45</cell>
+               <cell n="2">e62a98e1-9d59-4d89-a8ab-ab51a1ad34df</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 46</cell>
+               <cell n="2">fc170e3a-7b75-4bf7-93f2-a1590e8c075d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 47</cell>
+               <cell n="2">88f062bc-1805-41f3-8050-eb60bccc90fe</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 48</cell>
+               <cell n="2">39a224b8-7ca6-4c7c-be5b-1186aceb6c4b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 49</cell>
+               <cell n="2">ecf68bb6-2f6c-4449-a0de-07c4cf7d4fd2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 50</cell>
+               <cell n="2">c2362e48-7c45-446d-b575-84a4a48aa140</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 51</cell>
+               <cell n="2">f1cefdac-ecd8-46d5-9815-9081310c74f5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 52</cell>
+               <cell n="2">c54a3505-9cff-4658-9ae2-45cdd522202a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 53</cell>
+               <cell n="2">64ece750-8a43-4b09-952f-92391e1301c8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 54</cell>
+               <cell n="2">6ad7bbaa-16d5-4816-bc7f-97ea00c94d92</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 55</cell>
+               <cell n="2">527f27be-f0b8-4a4a-bc8a-53b9e4003b85</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 56</cell>
+               <cell n="2">3c11ec2a-cf2c-4804-a0fd-af7497a4ba77</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 57</cell>
+               <cell n="2">c27ec7bf-eaaa-4e38-ae64-67d19df2a045</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 58</cell>
+               <cell n="2">420699e4-271e-4c80-8fad-62a2239cecbc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 59</cell>
+               <cell n="2">843fa5d9-466a-4df4-8929-441617c22205</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 60</cell>
+               <cell n="2">70ef6aa7-c496-4ecb-a61d-defd7202dbfd</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 61</cell>
+               <cell n="2">16c4d568-5772-4ead-8df2-6cd7e69409df</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 62</cell>
+               <cell n="2">1419f0a7-1f59-4170-9921-edfae5afdbfb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 63</cell>
+               <cell n="2">d905f533-bce2-4ea3-b24b-cc0cc33421ec</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 64</cell>
+               <cell n="2">b508ccae-efdb-4530-a8f6-466d7d2b0644</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 65</cell>
+               <cell n="2">4595002a-a919-4dbe-83a0-1de9578822d0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 66</cell>
+               <cell n="2">7ac7d046-c8fa-447c-ac98-ba09f78f8ff2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 67</cell>
+               <cell n="2">fb736c3a-5bd6-4ec7-b11b-d644be21f86d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 68</cell>
+               <cell n="2">b68bc319-bd07-4379-9acb-fe69d347e7af</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 69</cell>
+               <cell n="2">593600c8-8825-4499-b5f9-c6473674f78d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 70</cell>
+               <cell n="2">ebef927c-a099-4a97-869d-1af10982c177</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 71</cell>
+               <cell n="2">025fb433-956b-4102-85e2-5132d4920472</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 72</cell>
+               <cell n="2">1a2be49a-f2af-477c-8952-5a45b8463218</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 73</cell>
+               <cell n="2">c4a892d2-ab14-486d-ab0d-2426c8277e86</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 74</cell>
+               <cell n="2">f666b0c8-f286-4497-9242-7f29f773b6fa</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 75</cell>
+               <cell n="2">c336f17d-257a-4855-8250-7ca25836f25a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 76</cell>
+               <cell n="2">7471674c-6d77-4f66-b426-f060db059547</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 77</cell>
+               <cell n="2">9a335f38-861d-4d36-90a7-ccb0457845c5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 78</cell>
+               <cell n="2">132a5768-c0d6-4213-92aa-e704344ed1cb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 79</cell>
+               <cell n="2">8cc41c7e-1e8c-4a00-b661-dfafa9308acb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 80</cell>
+               <cell n="2">7e58cc02-f429-45d0-90b2-4b8f886720da</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 81</cell>
+               <cell n="2">2ede787e-4c7d-48ea-8e4e-965a58684847</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 82</cell>
+               <cell n="2">2199bd3b-a10a-47c3-a95b-3690c019de4e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 82/a</cell>
+               <cell n="2">8fb754a6-4ce9-42ca-b7be-f065026779fe</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 83</cell>
+               <cell n="2">95d36524-6aa1-43b8-93ed-06ba056d1028</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 84</cell>
+               <cell n="2">725f69f9-5280-4eaf-8376-ada3e73369a0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 85</cell>
+               <cell n="2">385df69e-6e54-48a7-8109-e440e294ec8a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 86</cell>
+               <cell n="2">3b49c92b-dd31-4335-924f-1fb242b67bf7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 87</cell>
+               <cell n="2">6a75bcfa-20f9-455e-b62a-f1fa5a24f8c1</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 88</cell>
+               <cell n="2">a2b453ec-1098-417b-8430-dd069a0948c6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 89</cell>
+               <cell n="2">236e387b-bf08-47f6-8cf7-42dd32591b49</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 90</cell>
+               <cell n="2">b66f7cb5-dd12-4cc6-8250-0c909b8982ed</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 91</cell>
+               <cell n="2">b7d940bc-ea52-48dc-9599-e1d01fb4aec0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 92</cell>
+               <cell n="2">4f2b1b8f-d989-4183-9483-14a264ea2434</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 92/a</cell>
+               <cell n="2">f5849d5d-cc8a-4491-bde8-b42d58fbcf70</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 93</cell>
+               <cell n="2">95ce00ea-5a03-41f7-bbe9-e8df644ee438</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 94</cell>
+               <cell n="2">3fa0d329-17c9-4154-800a-a844030c59bc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 95/I</cell>
+               <cell n="2">24fde374-7577-4e0f-b6d5-7d49d5f9d318</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 95/II</cell>
+               <cell n="2">ac8eabda-8557-4118-91bb-65f256c94490</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 96</cell>
+               <cell n="2">431f54b4-5c11-4654-8b6c-8d2716866f05</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 97</cell>
+               <cell n="2">50a5f2b1-f217-4f5e-b7fd-0ebca1af70d4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 98</cell>
+               <cell n="2">387583a8-762d-4b0e-a974-0014bd1e06a8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 99</cell>
+               <cell n="2">5951b2b5-4b91-49eb-9ee6-8e9d841142c2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 100</cell>
+               <cell n="2">4aa61143-a0d3-4006-99ea-3d6f2411bed2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 101</cell>
+               <cell n="2">36630e73-34ca-4f7f-a46c-25374e3b7e58</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 102</cell>
+               <cell n="2">a98949b9-dae9-46c2-8a48-2791630f6857</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 103</cell>
+               <cell n="2">c21683db-d750-445b-8552-37878fa57176</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 104</cell>
+               <cell n="2">4ccc8aba-7732-4298-8608-595a5bb9b951</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 105</cell>
+               <cell n="2">bbe2ee35-c75e-4b49-aa97-24b7f393316d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 106</cell>
+               <cell n="2">92a7f461-affa-4b62-9a3b-4f88fe4d14a6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 107</cell>
+               <cell n="2">72e4e28b-be0b-493d-8862-82f28f457f46</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 108</cell>
+               <cell n="2">fe3f173b-1151-4199-bc3b-5274f8f51503</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 109</cell>
+               <cell n="2">d4779835-317a-4341-8d70-97c255cd7640</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 110</cell>
+               <cell n="2">ab3dd7a7-0091-4e3d-b4b7-71bb2111a37e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 111</cell>
+               <cell n="2">f324939f-c9e2-4b65-8b02-3eebe63f2ef7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 112</cell>
+               <cell n="2">65be5683-b9fc-4616-9cf2-69544ace7a12</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 113</cell>
+               <cell n="2">4b7f6c98-f4a7-4740-8622-c51736386dfc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 114</cell>
+               <cell n="2">13f0eca2-5132-4198-855e-4d0684b5593e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 115</cell>
+               <cell n="2">a76d9f8f-6c34-4a39-bfb8-43fcf7f6f78b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 116</cell>
+               <cell n="2">94d7563a-28e0-424f-9f10-180d3bea00dc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 117</cell>
+               <cell n="2">e6d50692-7501-4684-a127-a4e079105555</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 118</cell>
+               <cell n="2">01d77b48-32b5-4de1-b0cc-7616c795e9c4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 119</cell>
+               <cell n="2">e948362c-0657-4c58-9e69-74c1ea089ecb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 120/I</cell>
+               <cell n="2">22a69e4e-b877-406d-8426-f70c89f38d82</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 120/II</cell>
+               <cell n="2">e2d33276-ba7f-48ab-ab50-55ebc0c09530</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 121/I</cell>
+               <cell n="2">c093fc57-fbc7-4818-913a-4120ea04f5d6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 121/II</cell>
+               <cell n="2">f84c163c-7558-4eb1-bd92-af16a15510cb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 122</cell>
+               <cell n="2">adc67861-8989-4aa1-a9c9-7c3450583514</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 123</cell>
+               <cell n="2">61121647-e02b-4323-b20b-80b276b532bc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 124</cell>
+               <cell n="2">d3ae5f45-64da-4064-9759-49df344983cb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 125</cell>
+               <cell n="2">c8c1a491-2945-4900-aef4-d911ab263537</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 126</cell>
+               <cell n="2">4b2d1f0b-8a36-433b-92b4-123570485cc7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 127</cell>
+               <cell n="2">00cf47a5-75d0-406c-ac47-98bd71d3f89d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 128</cell>
+               <cell n="2">6fe9b482-fea7-4920-a23a-a07ffd7923fa</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 129</cell>
+               <cell n="2">f1996e0c-c0b6-4544-a25c-70a455e59dce</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 130</cell>
+               <cell n="2">5918f88c-7b7f-4539-840c-3dfd333b5154</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 131</cell>
+               <cell n="2">f0ad280c-2f4d-467d-bfc1-c89e7520f4da</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 132</cell>
+               <cell n="2">515d18a2-0d84-4b4d-8eab-f94ac4384bf8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 133</cell>
+               <cell n="2">e693d8cb-74e3-44f6-9c48-932855eb827e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 134</cell>
+               <cell n="2">b2087105-4800-4261-ae8b-0001c41de8c2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 135</cell>
+               <cell n="2">8f8dd58f-cbe4-40cf-bf62-7378c92316f2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 136</cell>
+               <cell n="2">32ddbe09-dadd-4830-a347-8428ef137486</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 137</cell>
+               <cell n="2">7e75da3c-361a-4556-8675-31fec7f60db0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 138</cell>
+               <cell n="2">c02ce8de-40db-4e8d-b9c2-45c5465fd722</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 139</cell>
+               <cell n="2">c02ad6f6-da1a-4f88-b215-b85d6f736bd7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Metten Urkunden 140</cell>
+               <cell n="2">bf5ffabc-7980-4b5b-98ce-32cf4ca89302</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

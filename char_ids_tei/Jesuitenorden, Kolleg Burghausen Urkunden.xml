@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 1</cell>
+               <cell n="2">0c2647a0-56f5-4b01-9e57-0cfbbe5e9f52</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 2</cell>
+               <cell n="2">c348e209-6671-449c-b6c4-786a3094b53a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 3</cell>
+               <cell n="2">a35ceb15-7f5f-422f-bb2e-7cc43d93d3ab</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 4</cell>
+               <cell n="2">cb074eaa-efa8-4e11-83ef-4e2a27deb4be</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 5</cell>
+               <cell n="2">08e4bba0-9606-416c-b8a9-2c29e4612068</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 6</cell>
+               <cell n="2">a41c8f12-74b3-4a88-ad21-7b24e7ca8e7e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 7</cell>
+               <cell n="2">802453bc-9afc-4ad4-95ea-759094fb447b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 8</cell>
+               <cell n="2">d71c655f-b465-4a5f-97bf-d95bb4877365</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 9</cell>
+               <cell n="2">0a18b746-785e-4470-80f3-1a33dc7e8300</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 10</cell>
+               <cell n="2">533980bd-67fb-4b3b-82d5-6716afea4d8b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 11</cell>
+               <cell n="2">b9c1e095-d53c-4e5b-9afe-fb26c7c6ae9e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 12</cell>
+               <cell n="2">b2237de2-c705-4c12-ae7b-00383bb3067e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 13</cell>
+               <cell n="2">b1237430-2dcc-445e-8711-045cba9305a8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 14</cell>
+               <cell n="2">8b746855-80fd-4abc-9a98-0ae6af448296</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 15</cell>
+               <cell n="2">af0f55b3-6280-446f-8a5d-262e32d6e025</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 16</cell>
+               <cell n="2">d032deca-587e-4864-bd38-ed0e71a6429d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 17</cell>
+               <cell n="2">9afae2b2-f54d-4100-8f09-b5e164a25c16</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 18</cell>
+               <cell n="2">31d72a89-5294-44a2-a828-2163d927a04b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 19</cell>
+               <cell n="2">2347b720-ff9f-40ee-bd55-827f9eaf631e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 20</cell>
+               <cell n="2">b23cac29-b7ae-4e22-944d-a550c5887cb5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 21</cell>
+               <cell n="2">0f3feea5-3e4c-43f5-a0e9-088c75b9f59c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 22</cell>
+               <cell n="2">6f3ea8f0-2e49-4768-94ec-0b53c0308410</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 23</cell>
+               <cell n="2">9b8aa523-a6b7-49d4-a964-3dedd492e403</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 24</cell>
+               <cell n="2">fc86d6d5-9ee9-4b60-83a0-30a0fba39613</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 25</cell>
+               <cell n="2">4285137f-9910-4950-a5c1-ae888afc7728</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 26</cell>
+               <cell n="2">d21e0a5b-c0a8-4e5c-b37d-8fdcecaabe10</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 27</cell>
+               <cell n="2">0de2dc55-ffb9-428e-8e63-e972e36e9fa2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 28</cell>
+               <cell n="2">aab3ef03-5265-4068-ad75-22affb9c93fc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Burghausen Urkunden 29</cell>
+               <cell n="2">655ad211-d1f9-408c-93b6-090e2af66681</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

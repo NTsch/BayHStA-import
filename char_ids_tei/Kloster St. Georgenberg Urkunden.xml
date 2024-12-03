@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster St. Georgenberg Urkunden 1</cell>
+               <cell n="2">81bda6b6-2cde-4bd7-a7e4-0d4a6f771697</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster St. Georgenberg Urkunden 1/a</cell>
+               <cell n="2">8aa9b99b-b6e6-4311-8d08-95867ac36547</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster St. Georgenberg Urkunden 1/b</cell>
+               <cell n="2">0c19dca9-7082-4c23-baeb-962ba5b02079</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster St. Georgenberg Urkunden 2</cell>
+               <cell n="2">eb536762-98c9-4b6e-9ed5-e2f6e1dacbae</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

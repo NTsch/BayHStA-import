@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 6</cell>
+               <cell n="2">bea19aad-1af0-4f2a-b9ca-054a52e98e41</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 7</cell>
+               <cell n="2">13251c95-2ee4-41d0-8cd5-a49f6f9ea38b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 10</cell>
+               <cell n="2">1aa5725a-1a0f-4d9a-ae08-80fc063c5e71</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 11</cell>
+               <cell n="2">6af401c8-3bad-4037-a2bf-a31955113098</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 12</cell>
+               <cell n="2">1f49e437-e4c2-463a-9d7f-4ff60deb68d5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 13</cell>
+               <cell n="2">e5c53856-98b5-4352-ae28-a39e5bb8d827</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 15</cell>
+               <cell n="2">1e4c0dfb-bac7-426c-91c0-22abd902ddf5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 16</cell>
+               <cell n="2">064c04e5-0afc-4895-bb96-8995b4d66491</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 17</cell>
+               <cell n="2">5439b1fe-a98e-4a53-9ff6-00514fcc1b56</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 19</cell>
+               <cell n="2">4b32ca09-93d9-497e-8744-5833e273c8b3</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 21</cell>
+               <cell n="2">5fd4a9d0-53bf-4e5f-82e6-debf22ee195d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 22</cell>
+               <cell n="2">e0f11073-8097-47c6-8e10-288f5c7e2602</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 23</cell>
+               <cell n="2">ff73c173-53e9-476c-8dc5-397f26079d59</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 25</cell>
+               <cell n="2">3a946242-77f0-4a17-81d5-c9b2e657f035</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 26</cell>
+               <cell n="2">99055c66-b0b2-42c9-a716-c9d49c93d12b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 27</cell>
+               <cell n="2">25c05585-5fea-4acb-82e1-4105b5e1992d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 29</cell>
+               <cell n="2">4e094e2f-0e1a-4a70-9ec4-a6436b449d24</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 30</cell>
+               <cell n="2">7648f973-4445-4359-81f4-ffa72f911d47</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 31</cell>
+               <cell n="2">c1dd50ab-0b1e-473b-a75e-21eabaaa658d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 34</cell>
+               <cell n="2">5a93ee2c-0841-4e15-8aa0-52e6be3f2c73</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 35</cell>
+               <cell n="2">7961d5d9-f0ee-4e4a-8411-4f655d773ef9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 36</cell>
+               <cell n="2">c53ad496-660c-4390-b389-7f28e501780b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 38</cell>
+               <cell n="2">9bc56289-b96a-4495-a1f5-edea7a175858</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 39</cell>
+               <cell n="2">28216d9c-de5a-40b7-b7aa-d46120c0337e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 45</cell>
+               <cell n="2">cdca6386-c8d1-4a8f-8d6e-af518392961b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 46</cell>
+               <cell n="2">5218b1b7-5ef9-4563-847f-31e9b69c9a98</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 47</cell>
+               <cell n="2">2d1c3df6-3f8a-4c93-b66f-ebeb28df771f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 48</cell>
+               <cell n="2">50b504a5-549e-4504-a925-b0a58c6aefa2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kollegiatstift Straubing Urkunden 49</cell>
+               <cell n="2">c22de825-e5a8-471d-991c-d7e074ee8815</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

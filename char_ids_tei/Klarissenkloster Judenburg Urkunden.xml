@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Klarissenkloster Judenburg Urkunden 1</cell>
+               <cell n="2">bf2a8f28-1088-4b6b-ba1b-7f2d49ffaced</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 1</cell>
+               <cell n="2">d92ef542-ac9d-4eca-8d95-1dfd323253cd</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 2</cell>
+               <cell n="2">4ce4e8f3-e645-40f8-8038-7d3b20de2e53</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 3</cell>
+               <cell n="2">a020f8cf-b938-4938-a95b-5c454056a6e0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 4</cell>
+               <cell n="2">c0fa382f-0783-491f-98dd-d04dea0c4bda</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 5</cell>
+               <cell n="2">46134556-2b5f-47f2-8a7d-6f849056ad5d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 6</cell>
+               <cell n="2">91d7f385-d6a1-43f4-a2a6-a0258099c331</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 7</cell>
+               <cell n="2">062c5591-c7dc-4f90-91f0-7e549f758fd2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 8</cell>
+               <cell n="2">d3aa5d35-3772-4254-8edd-1f258fe3b7dd</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 9</cell>
+               <cell n="2">be40fa61-e91e-4fc1-8b4b-40d26b917349</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 10</cell>
+               <cell n="2">50a52d07-9fbc-4aee-80e1-4c98520d1d5b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 11</cell>
+               <cell n="2">03b17589-87e1-4a74-a1a5-ddb8a0c91b88</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 12</cell>
+               <cell n="2">6c133150-10f4-424d-a4a4-a8b68ea2d81c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 13</cell>
+               <cell n="2">7e02926b-e204-4f19-83fb-0946357f5fbc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 14</cell>
+               <cell n="2">3b7fcccd-4762-41d0-a045-fb002a675694</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 15</cell>
+               <cell n="2">d53dc557-0948-4722-9e15-51c03e38af10</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 16</cell>
+               <cell n="2">7eb35165-92d1-4ecd-8832-380f13985670</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 17</cell>
+               <cell n="2">ceaee42b-13c8-40c5-ab56-86c570d565a3</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 18</cell>
+               <cell n="2">7be933e3-1f65-4f93-a919-6dae7c28db4c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Sonnenburg Urkunden 20</cell>
+               <cell n="2">93b48b06-c8b6-45cd-9187-7c0926879431</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

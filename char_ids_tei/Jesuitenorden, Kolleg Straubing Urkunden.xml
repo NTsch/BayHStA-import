@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 1</cell>
+               <cell n="2">3d6eea47-d0be-4a89-8eff-db22ee5c6674</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 2</cell>
+               <cell n="2">b8713572-c9ce-4c03-be4e-d6e05c92591c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 3</cell>
+               <cell n="2">579fa79e-3274-4302-96f8-d8e743db3d6e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 4</cell>
+               <cell n="2">c6736cc2-21c9-4827-a26e-639b960ac992</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 5</cell>
+               <cell n="2">db96d705-264f-4df3-8d2a-28e3034567da</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 6</cell>
+               <cell n="2">62e9f2de-6348-4210-97e3-5e50c71b735d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 7</cell>
+               <cell n="2">b6c5b6d8-0802-49ee-ac6c-b8d9224ce72d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 8</cell>
+               <cell n="2">dfcb9ce6-c79f-43fc-80b2-d0d9143d7e5f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 9</cell>
+               <cell n="2">24da5393-cfeb-4e52-b850-e6c74d15dea8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 10</cell>
+               <cell n="2">74170dc0-74c2-4fca-bd7e-87d0ee7c5e9b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 11</cell>
+               <cell n="2">e2b9a93e-1768-4500-aa1c-088fdee143b9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 12</cell>
+               <cell n="2">3f88afce-97fe-46cf-ad77-8dbb41c790f8</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 13</cell>
+               <cell n="2">0af7ec0e-1c9a-45af-8687-009aba6313b0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 14</cell>
+               <cell n="2">9101581c-06e8-4053-95b8-449492a899c4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 15</cell>
+               <cell n="2">a73dbe4e-860c-4e84-a11b-3e4ee6e9b387</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 16</cell>
+               <cell n="2">10ce4248-b79e-4af6-a3c7-a51cb1492705</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 17</cell>
+               <cell n="2">8ee6cd0e-1133-4e16-8996-9ea3e06d517d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Jesuitenorden, Kolleg Straubing Urkunden 18</cell>
+               <cell n="2">9d75b1fa-d2dc-4f40-8888-1fb1e5a7193a</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 1</cell>
+               <cell n="2">57abaa1d-12ac-4a04-b1fd-e7242445d582</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 2</cell>
+               <cell n="2">b3b4d9d9-1575-44e9-8fff-6802f3a45732</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 4</cell>
+               <cell n="2">0347d2f5-94ef-4ada-8080-5466365c2307</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 7</cell>
+               <cell n="2">befb3198-ed35-4fac-9169-08c5125d8a89</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 8</cell>
+               <cell n="2">8b5beadb-b7ec-4345-a260-4fb44b765964</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 9</cell>
+               <cell n="2">8acccb51-8da2-4160-9587-1dfaa26d1174</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 10</cell>
+               <cell n="2">564b6a6c-19f9-4288-bb1b-236d8249e86f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 11</cell>
+               <cell n="2">76dad548-e801-47df-be96-fb23c0703b3c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 12</cell>
+               <cell n="2">ba357093-cb79-4e6a-8df3-68dab69ba117</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 13</cell>
+               <cell n="2">33d70da7-29b2-4b0e-8d1f-c5ec13f0e6b0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Seemannshausen Urkunden 14</cell>
+               <cell n="2">2389e497-f5d9-438d-b145-4c61ce243d24</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

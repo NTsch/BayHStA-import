@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 1</cell>
+               <cell n="2">57320ecf-b110-48ea-8497-64cb8dc0f74b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 2</cell>
+               <cell n="2">3c65be2f-660d-4aa6-8c19-3602331b2f74</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 3</cell>
+               <cell n="2">6e45bf7c-7995-45f3-92cd-ab88dc8aa352</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 4</cell>
+               <cell n="2">8e8b8589-a4b5-4a2f-85af-1bdff4c40ca5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 5</cell>
+               <cell n="2">ae1cb190-6b46-41d0-bf2f-1d7aeacfebb3</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 6</cell>
+               <cell n="2">43320589-987f-44d8-908a-db12a45f16fd</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 7</cell>
+               <cell n="2">040e11f1-2b62-4aa9-81bc-800a965ce673</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 8</cell>
+               <cell n="2">b61881c8-3dfa-4a77-bb71-bcc74e606bfa</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 9</cell>
+               <cell n="2">53dfcd72-28d7-446e-9aaf-011b9e2095cf</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 10</cell>
+               <cell n="2">467c62db-4999-449d-a248-401247f1b8ec</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 11</cell>
+               <cell n="2">c49f47b2-eb0f-4c3d-9391-c6337240c349</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 12</cell>
+               <cell n="2">9ee8a483-2965-4e18-8924-4c22f60721a5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 13</cell>
+               <cell n="2">332f5e7b-9d71-42e7-97d0-7b7567c822ae</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 14</cell>
+               <cell n="2">d0ef75f1-9586-4dca-866e-29271bb14729</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 15</cell>
+               <cell n="2">e17a3e6f-a861-4a2b-8c38-8c2f45f1e519</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 16</cell>
+               <cell n="2">d1d8e0ff-9572-4341-87a7-61c78650f3ad</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 17</cell>
+               <cell n="2">4afb36e8-b687-40bb-9a63-27156b56221b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 18</cell>
+               <cell n="2">3fd3ffc5-62e3-4316-8aac-7c51dfc81153</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 19</cell>
+               <cell n="2">29742b2b-f590-4122-a0c0-42d9b1e1aa68</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 20</cell>
+               <cell n="2">39d5880c-466a-406a-be72-9180e50ff8d4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 21</cell>
+               <cell n="2">8fbe85d7-01e1-46a3-9ab8-4c9f90600ae7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 22</cell>
+               <cell n="2">9ef999dc-35c0-4d51-a2ed-6ad777851b89</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 23</cell>
+               <cell n="2">f3459335-d289-4166-af6c-21268fbe0855</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 24</cell>
+               <cell n="2">fbbe147c-75e6-4f34-9fb4-1f8c3fe39412</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 25</cell>
+               <cell n="2">78b83216-be27-4f99-a0f5-b04c5b61211b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 26</cell>
+               <cell n="2">de59052d-6820-4656-a0f6-40756e34b1c9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 27</cell>
+               <cell n="2">44056c23-9d78-44fd-834b-d162ae83a8c1</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 28</cell>
+               <cell n="2">54250ef8-d968-4314-8822-1ade79e7653c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 29</cell>
+               <cell n="2">d74bca64-c523-404c-9d44-2e58853c1d5b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 30</cell>
+               <cell n="2">4400167a-881b-4300-98b4-149b73b49d7c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 31</cell>
+               <cell n="2">a2046a78-14d7-4d0f-9501-3da159b15e03</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 32</cell>
+               <cell n="2">d77279a4-4e9f-4deb-9c75-7b19b48a1315</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 33</cell>
+               <cell n="2">dfcbdba3-1ed7-4e54-a045-baf6a2f65b65</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 34</cell>
+               <cell n="2">f8a72585-484d-4d52-b608-ef8f822f185c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 35</cell>
+               <cell n="2">3cfa54d5-40c4-43fa-98cc-9af6ec487b00</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 36</cell>
+               <cell n="2">028b3f81-1bcc-4c43-afe1-d5bd818b1c66</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 37/1</cell>
+               <cell n="2">fe34f83e-3149-4332-ba72-4d94e9501711</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 37</cell>
+               <cell n="2">4f64552f-53a2-49d1-94d4-cf3f469b7c4b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 38</cell>
+               <cell n="2">678446b9-f765-4f73-86d6-43ca57971a87</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 39</cell>
+               <cell n="2">c770dac7-9d92-4521-a53d-5dbbc4ab2bbd</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 40</cell>
+               <cell n="2">d4df1fe3-d2e1-498e-bd9f-417c4f174d2b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 41</cell>
+               <cell n="2">03318fd1-cb7d-4bf1-8899-3670ccdacf96</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 42</cell>
+               <cell n="2">e50a806b-e85b-4faa-bded-b704a17a940d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 43</cell>
+               <cell n="2">51f3710e-b82d-40b0-98b5-fd3ed0ed555c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 44</cell>
+               <cell n="2">5755e0d0-964d-4ed9-ad0c-35b2a3eddfc5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 45</cell>
+               <cell n="2">8fb1e003-758e-4496-bb43-ab50cb920389</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 46</cell>
+               <cell n="2">c36b04d6-9289-4227-a3b7-7b1961b70dca</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 47</cell>
+               <cell n="2">1863556b-6d7e-4057-b82e-c3d279f1ee07</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 48</cell>
+               <cell n="2">f6e057b7-e721-4504-b998-1850a4a5f917</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 49</cell>
+               <cell n="2">ec2d52f4-a675-4c6b-b5bc-b715da243ff0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 50</cell>
+               <cell n="2">968cf79d-bba3-4ac2-9e74-8430e992563b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 51</cell>
+               <cell n="2">f3dae389-2673-499c-8f33-40adb416b673</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 52</cell>
+               <cell n="2">3db29c3c-888d-4e74-a95a-f5aa15a42f41</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 53</cell>
+               <cell n="2">7f293289-9221-477d-8361-8e4e96ab93d4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 54</cell>
+               <cell n="2">278fd2b9-ef7b-47f0-9a71-bb9fea79ef4b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 55</cell>
+               <cell n="2">b809871b-c543-499b-9b86-2c810391f1d7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 56</cell>
+               <cell n="2">2aeeb0b4-2044-40ce-a507-7f9b20dfdc96</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 57</cell>
+               <cell n="2">fdbbbae5-6865-4f77-81ee-e86698becb8c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 58</cell>
+               <cell n="2">f86c5a25-16d9-442b-883d-50f48182fb08</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 59</cell>
+               <cell n="2">ec2766d0-5797-42cc-a87f-3ed9d076b8a7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 60</cell>
+               <cell n="2">2e64c97a-c00b-44aa-8792-8ef1649e7935</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 61</cell>
+               <cell n="2">8ec2b65b-3d86-4c3a-9e57-dcac9f8bcd5a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 62</cell>
+               <cell n="2">c8f05fa5-f868-45c8-95dc-094e6aab2209</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 63</cell>
+               <cell n="2">6f6b4323-c012-40c1-8205-d052a41939c9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 64</cell>
+               <cell n="2">490f07c9-5084-46d1-bf3a-3d08e0431a89</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 65</cell>
+               <cell n="2">880f092a-5c5b-439d-9061-e3d24e053ed9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 66</cell>
+               <cell n="2">a0e7bd0d-465b-4826-8b43-4a7ee4e33397</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 67</cell>
+               <cell n="2">93365274-f32c-433b-928c-9940bf0f9815</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 68</cell>
+               <cell n="2">8de82637-b37d-40f6-9be7-1e13e920cc2d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 69</cell>
+               <cell n="2">fe79b2c9-2a6a-416c-bbe1-04f5bec98f9a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 70</cell>
+               <cell n="2">5723e31f-1c94-495d-a246-a683e3b690cc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 71</cell>
+               <cell n="2">32a33b25-df01-4946-887c-5122316b2b56</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 72</cell>
+               <cell n="2">2c32556c-7adc-4d2f-811c-a45586f13c11</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 73</cell>
+               <cell n="2">f4d723bf-2bfd-4832-b537-40f2f056b620</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 74</cell>
+               <cell n="2">d1731bf1-8e60-4e52-94ee-4e2da2fb62f9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 75</cell>
+               <cell n="2">38655224-37df-47aa-b5b4-c7fff7529f72</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 76</cell>
+               <cell n="2">e7b74aed-8b8b-4bca-9a55-797510c23681</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 77</cell>
+               <cell n="2">ec1d62ec-420f-4d9f-803e-08077dd05075</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 78</cell>
+               <cell n="2">dd5d0bd1-7372-4b5f-a02e-729e8b7ab46b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 79</cell>
+               <cell n="2">80899810-23ab-4985-b47e-10f5b94ca5b7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 80</cell>
+               <cell n="2">6fa95045-4ffb-4afb-97cd-45c6eb8d529c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 81</cell>
+               <cell n="2">d3905b37-26fd-4ecc-816c-738a07a1b2fa</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 82</cell>
+               <cell n="2">d00ec830-e110-4d13-bfb6-d4135946927b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 83</cell>
+               <cell n="2">93f4c56d-cf73-4881-80cd-7093dbec3a51</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 84</cell>
+               <cell n="2">a74a1d55-6909-40bd-a39c-b854e9d79d40</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 85</cell>
+               <cell n="2">9fd106eb-8fa5-4122-91c3-374134497fec</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 86</cell>
+               <cell n="2">e2c2a145-b932-45c0-a57a-d49ae58fe02f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 87</cell>
+               <cell n="2">550a0316-45cf-4a9e-aaf2-9fd0f51b034f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 88</cell>
+               <cell n="2">3228cc63-bae8-40a5-b6f4-ec4d1476100c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 89</cell>
+               <cell n="2">aab1f850-fb02-4968-8f25-40e44472d83b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 90</cell>
+               <cell n="2">20b753b1-4058-4a13-9754-d312cad0a924</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 91</cell>
+               <cell n="2">8673bdcb-5593-4473-83c8-b1f976472803</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 92</cell>
+               <cell n="2">3fc8c637-7e13-4779-87a3-f81018bda4e2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 93</cell>
+               <cell n="2">156e00f7-84cf-41e6-913a-0aa4fcd77feb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 94</cell>
+               <cell n="2">e20df6e3-e3e2-4f39-9301-39c83b8f77c9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 95</cell>
+               <cell n="2">77ef50b1-1148-44bf-bd31-4cfdb22d4e02</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 96</cell>
+               <cell n="2">c79b0e0e-dfa4-42b3-9f0e-07219c7d4a57</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 97</cell>
+               <cell n="2">75509954-3855-4401-8394-93323c4004fb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 98</cell>
+               <cell n="2">52aa55c6-eaf5-425a-a7bf-c6b3d29f092d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 99</cell>
+               <cell n="2">16bf311f-976d-494d-b968-5e53773e376e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 100</cell>
+               <cell n="2">54f8afed-489d-48f0-9a0c-54bcf9d181e1</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 101</cell>
+               <cell n="2">de60ec27-c061-440c-aa2d-b4f8c3e32968</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 102</cell>
+               <cell n="2">d04a9321-1516-4f25-8001-3b77e1cd9f1c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 103</cell>
+               <cell n="2">3163309d-4ca9-445f-8d84-594477b5207e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 104</cell>
+               <cell n="2">40dea872-9477-43e3-b474-a94bacc8d3cd</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 105</cell>
+               <cell n="2">b9519e38-8400-4857-9bd2-f3c8b819f970</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 106</cell>
+               <cell n="2">b99f4113-6924-4fb9-bc92-ad829d6bf97a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 107</cell>
+               <cell n="2">6f341c55-2d16-4f1d-974d-3b3fa5cfa33f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 108</cell>
+               <cell n="2">239764ca-f85e-4146-a95d-51d844dfcc39</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 109</cell>
+               <cell n="2">18c81619-fa1d-471f-b63b-9ea4160ec0df</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 110</cell>
+               <cell n="2">54efc121-ba72-4b41-b9fc-115bb144373f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 111</cell>
+               <cell n="2">44890dbe-ffac-4a0b-bde2-f61a62d2fb02</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 112</cell>
+               <cell n="2">92a98fec-ba7a-4b7f-8357-0cbc126123e0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 113</cell>
+               <cell n="2">d8629d6b-e11a-420c-b24b-4025c06483e0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 114</cell>
+               <cell n="2">8db9dda2-1b14-4bb4-8024-bd8884d407ed</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 115</cell>
+               <cell n="2">9bb563e9-b900-4fcc-b6fb-fd256840e1c4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 116</cell>
+               <cell n="2">799b2712-39af-4b80-9d6d-ac032e2be245</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 117</cell>
+               <cell n="2">5483fb9c-fb21-4a21-8d75-6bc8f52ccaec</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 119</cell>
+               <cell n="2">37ea909b-db7e-4b7f-a6ae-671848db0aad</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 120</cell>
+               <cell n="2">a93eb59f-9bff-4545-afc1-6b67b0df3ec9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 121</cell>
+               <cell n="2">8e6b0f5f-9ae9-4272-b6ee-6b933d8b59a6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 122</cell>
+               <cell n="2">6d33e858-3f58-4bb3-9675-d3793c83d28c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 123</cell>
+               <cell n="2">2a6eeeb6-0c7a-4479-9528-3f37221b4d5f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 124</cell>
+               <cell n="2">ec036a2d-ff72-46c4-b274-213442205eac</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 125</cell>
+               <cell n="2">788359e9-43f8-4690-a646-f9073156357f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 126</cell>
+               <cell n="2">ee9d5bf2-4d4a-401f-8d8b-3925df8dfca6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 127</cell>
+               <cell n="2">fbae185d-863c-42a1-a1df-81f8df618565</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 128</cell>
+               <cell n="2">056285df-ad2a-46cd-ae62-eac248131776</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 129</cell>
+               <cell n="2">166d1ae5-19d5-4e2d-8b67-75f7ffe34de6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 130</cell>
+               <cell n="2">2e3e55bb-dfbe-477f-9784-cea8f704cb2b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 131</cell>
+               <cell n="2">ca5ffaf7-409e-400c-a42c-155e62aaab2c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 132</cell>
+               <cell n="2">6ef30790-6614-454a-a1b9-8d806267b76e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 133</cell>
+               <cell n="2">bd0237dd-4272-454e-82e7-a77ca0bc2317</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 134</cell>
+               <cell n="2">cf358f0e-b7cd-4d52-b756-01a7cf4ac154</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 135</cell>
+               <cell n="2">06578e74-dd58-4774-9398-996abb2ee22b</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 136</cell>
+               <cell n="2">243547af-cf1b-447b-8492-16c965ee5bb9</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 137</cell>
+               <cell n="2">f49d87db-9e00-440a-adb3-8616f101baa7</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 138</cell>
+               <cell n="2">e6a1bc6d-2d8a-427f-bcb3-f07cab4cc71d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 139</cell>
+               <cell n="2">c6aaa4cf-a346-4c72-91ca-0f619694f1c2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 140</cell>
+               <cell n="2">9064e8fd-1f48-4b69-99de-6d0cca8c87d4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 141</cell>
+               <cell n="2">f6485d9e-e174-4f74-a570-079ab0f268df</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 142</cell>
+               <cell n="2">0fa896c2-edf6-43fa-ba2b-facd0554ee82</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 143</cell>
+               <cell n="2">54efc937-93b3-4848-805d-ec3a7cd9ed86</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 144</cell>
+               <cell n="2">5f9e1c84-e4e4-437c-b0fc-ab343e08fbff</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 145</cell>
+               <cell n="2">14a33c95-4b96-4b58-8cad-288761ae8c35</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 146</cell>
+               <cell n="2">d27074c8-8b9a-4430-8bdd-b9a25ea7a816</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 147</cell>
+               <cell n="2">efa202c0-8ecd-4d09-8b5f-5b6714788516</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 148</cell>
+               <cell n="2">c0210fee-46db-4e3f-b172-27b4ee972472</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 149</cell>
+               <cell n="2">7b6752a5-30ea-470a-8858-799034870615</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 150</cell>
+               <cell n="2">bf0233bb-a8d9-4279-90a0-7d35d60a962c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 151</cell>
+               <cell n="2">26e189ab-9fd2-42fc-827e-e931cf94d3e0</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 152</cell>
+               <cell n="2">1a9ce8ff-ab7e-42d4-9125-a8f33f38db1c</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 153</cell>
+               <cell n="2">89453490-e504-48aa-8615-b9052b9269c6</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 154</cell>
+               <cell n="2">70af69df-8c0e-4e6e-a6fb-fee22c4824bb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 155</cell>
+               <cell n="2">4c8ef255-0124-4de7-83ef-a45b3d502b62</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 156</cell>
+               <cell n="2">ef85cae9-c032-45ea-af81-013ee79c0e8d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 157</cell>
+               <cell n="2">8a9812b8-c37a-435b-a922-68ecf6fa67fb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 158</cell>
+               <cell n="2">2b6ab648-bae5-445c-bed2-81f7481575ae</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 159</cell>
+               <cell n="2">f2a52546-2c36-45b0-8f34-f71cbfa0434f</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 160</cell>
+               <cell n="2">3d3ca5ff-19ea-47ce-965f-1e5f86995f1d</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 161</cell>
+               <cell n="2">8f4e890d-10c8-4fc4-9177-064bb4531f18</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 162</cell>
+               <cell n="2">1e795510-8a02-43c9-9807-4e73d4ecdccb</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 163</cell>
+               <cell n="2">6bd52c23-d316-4d5a-827d-55ce6d721f14</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 164</cell>
+               <cell n="2">75344811-8192-4039-8499-3bc96ba5347e</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 165</cell>
+               <cell n="2">a2efc1e7-dcfa-4058-a36a-9f74294d6ea4</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 166</cell>
+               <cell n="2">767bc8c5-05c6-442a-83ed-8102a4790ea2</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 167</cell>
+               <cell n="2">85176162-3e18-4d31-bf98-122e8787e8f5</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 168</cell>
+               <cell n="2">885e24ba-6bb4-4e17-9deb-2c28adbda231</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 169</cell>
+               <cell n="2">06d18e8d-29be-44e4-ba9e-3261d1ebda24</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 170</cell>
+               <cell n="2">f64ac79d-aad5-4677-908e-56fb4659320a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 171</cell>
+               <cell n="2">e6b59a4c-7d28-4779-b87c-567ce8bf2fcc</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 172</cell>
+               <cell n="2">2e9e4101-238c-4b09-a772-fb33daab0b41</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 173</cell>
+               <cell n="2">14390f44-3e04-4dd0-ad05-c469bc4ea6c3</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 174</cell>
+               <cell n="2">7d2218fe-a9e2-42df-a095-5e8dcfe90a34</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 175</cell>
+               <cell n="2">b5bbecf1-f981-4b3c-8abb-9974b32c9446</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 176</cell>
+               <cell n="2">659b0ca7-b904-4a0c-9947-717d5c9a1fd3</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 177</cell>
+               <cell n="2">b0607851-d26b-422f-afc8-6da952553830</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kloster Weltenburg Urkunden 178</cell>
+               <cell n="2">d169a70e-2bb8-4579-a9d6-c6faf4d01733</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

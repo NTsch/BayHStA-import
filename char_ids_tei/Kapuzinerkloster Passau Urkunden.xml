@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A TEI file automatically converted from CSV</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>No publication statement</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A TEI file automatically converted from a CSV file.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <table>
+            <row>
+               <cell n="1">Bestellsignatur</cell>
+               <cell n="2">UUID</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kapuzinerkloster Passau Urkunden 1</cell>
+               <cell n="2">d3935430-2bd4-4ff2-b7ab-471ab449a8ff</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kapuzinerkloster Passau Urkunden 2</cell>
+               <cell n="2">e1fafee4-844b-4231-b589-d984c587da6a</cell>
+            </row>
+            <row>
+               <cell n="1">BayHStA, Kapuzinerkloster Passau Urkunden 3</cell>
+               <cell n="2">8c59c4b1-ad6c-4282-a2b0-173f2f2ebde3</cell>
+            </row>
+            <row>
+               <cell n="1"/>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>
