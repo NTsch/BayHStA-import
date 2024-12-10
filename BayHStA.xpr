@@ -14,7 +14,27 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>insert_imgs.xquery</String>
+                                    <String>oxygen:/eXist-db%20localhost$monasterium-live/db/niklas/publication_workflow/check_charters.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>live_query</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>query_output.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -34,7 +54,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>query_output.xquery</String>
+                                    <String>insert_imgs.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

@@ -60,65 +60,9 @@
                         <xsl:value-of select="did/unittitle[@type = 'Kopfregest']"/>
                     </cei:abstract>
                     <cei:issued>
-                        <cei:date>
-                            <xsl:variable name="month">
-                                <xsl:variable name="zero_month">
-                                    <xsl:choose>
-                                        <xsl:when test="not(odd/head/text()='Monat')">
-                                            <xsl:text>99</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="odd[head/text()='Monat']/p = 'Januar'">
-                                            <xsl:text>01</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="odd[head/text()='Monat']/p = 'Februar'">
-                                            <xsl:text>02</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="odd[head/text()='Monat']/p = 'September'">
-                                            <xsl:text>09</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="odd[head/text()='Monat']/p = 'November'">
-                                            <xsl:text>11</xsl:text>
-                                        </xsl:when>
-                                        <xsl:when test="odd[head/text()='Monat']/p = 'August'">
-                                            <xsl:text>08</xsl:text>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:value-of select="concat('0', odd[head/text()='Monat']/p)"/>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </xsl:variable>
-                                <xsl:value-of select="substring($zero_month, string-length($zero_month) - 1, 2)"/>
-                            </xsl:variable>
-                            <xsl:variable name="day">
-                                <xsl:variable name="zero_day">
-                                    <xsl:choose>
-                                        <xsl:when test="not(odd/head/text()='Tag')">
-                                            <xsl:text>99</xsl:text>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <xsl:value-of select="concat('0', odd[head/text()='Tag']/p)"/>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                </xsl:variable>
-                                <xsl:value-of select="substring($zero_day, string-length($zero_day) - 1, 2)"/>
-                            </xsl:variable>
-                            <xsl:variable name="year">
-                                <xsl:choose>
-                                    <xsl:when test="not(odd/head/text()='Jahr')">
-                                        <xsl:text>9999</xsl:text>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <xsl:value-of select="odd[head/text()='Jahr']/p"/>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                            </xsl:variable>
-                            <xsl:attribute name="value" select="concat($year, $month, $day)"/>
-                            <xsl:text> (</xsl:text>
-                            <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
-                            <xsl:text>)</xsl:text>
-                        </cei:date>
+                        <xsl:call-template name="date"/>
                         <cei:placeName>
-                            <xsl:value-of select="odd[head/text()='Ausstellungsort']/p"/>
+                            <xsl:value-of select="odd[head/text()='Ausstellungsort']/p/normalize-space()"/>
                         </cei:placeName>
                     </cei:issued>
                     <cei:witnessOrig>
@@ -278,5 +222,104 @@
     </xsl:template>
     
     <xsl:template match="unittitle[parent::did/parent::c[@level='class']]"/>
+    
+    <xsl:template name="date">
+        <xsl:choose>
+            <xsl:when test="odd/head/text()='Tag' or odd/head/text()='Monat' or odd/head/text()='Jahr'">
+                <cei:date>
+                    <xsl:variable name="month">
+                        <xsl:variable name="zero_month">
+                            <xsl:choose>
+                                <xsl:when test="not(odd/head/text()='Monat')">
+                                    <xsl:text>99</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Januar'">
+                                    <xsl:text>01</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Februar'">
+                                    <xsl:text>02</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'September'">
+                                    <xsl:text>09</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'November'">
+                                    <xsl:text>11</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'August'">
+                                    <xsl:text>08</xsl:text>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="concat('0', odd[head/text()='Monat']/p)"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:variable>
+                        <xsl:value-of select="substring($zero_month, string-length($zero_month) - 1, 2)"/>
+                    </xsl:variable>
+                    <xsl:variable name="day">
+                        <xsl:variable name="zero_day">
+                            <xsl:choose>
+                                <xsl:when test="not(odd/head/text()='Tag')">
+                                    <xsl:text>99</xsl:text>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:value-of select="concat('0', odd[head/text()='Tag']/p)"/>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </xsl:variable>
+                        <xsl:value-of select="substring($zero_day, string-length($zero_day) - 1, 2)"/>
+                    </xsl:variable>
+                    <xsl:variable name="year">
+                        <xsl:choose>
+                            <xsl:when test="not(odd/head/text()='Jahr')">
+                                <xsl:text>9999</xsl:text>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="odd[head/text()='Jahr']/p"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
+                    <xsl:attribute name="value" select="concat($year, $month, $day)"/>
+                    <!--<xsl:text> (</xsl:text>-->
+                    <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
+                    <!--<xsl:text>)</xsl:text>-->
+                </cei:date>
+            </xsl:when>
+            <xsl:when test="matches(odd[head/text()='Laufzeit']/p, '(\d{4}).+(\d{4})')">
+                <cei:dateRange>
+                    <xsl:analyze-string select="odd[head/text()='Laufzeit']/p" regex="(\d{{4}}).+(\d{{4}})">
+                        <xsl:matching-substring>
+                            <xsl:attribute name="from">
+                                <xsl:value-of select="regex-group(1)"/>
+                                <xsl:text>9999</xsl:text>
+                            </xsl:attribute>
+                            <xsl:attribute name="to">
+                                <xsl:value-of select="regex-group(2)"/>
+                                <xsl:text>9999</xsl:text>
+                            </xsl:attribute>
+                        </xsl:matching-substring>
+                    </xsl:analyze-string>
+                    <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
+                </cei:dateRange>
+            </xsl:when>
+            <xsl:when test="matches(odd[head/text()='Laufzeit']/p, '(\d{4})')">
+                <cei:date>
+                    <xsl:analyze-string select="odd[head/text()='Laufzeit']/p" regex="(\d{{4}})">
+                        <xsl:matching-substring>
+                            <xsl:attribute name="value">
+                                <xsl:value-of select="regex-group(1)"/>
+                                <xsl:text>9999</xsl:text>
+                            </xsl:attribute>
+                        </xsl:matching-substring>
+                    </xsl:analyze-string>
+                    <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
+                </cei:date>
+            </xsl:when>
+            <xsl:otherwise>
+                <cei:date value='99999999'>
+                    <xsl:value-of select="normalize-space(odd[head/text()='Laufzeit']/p)"/>
+                </cei:date>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
     
 </xsl:stylesheet>
