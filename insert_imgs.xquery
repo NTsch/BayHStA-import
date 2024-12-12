@@ -12,7 +12,7 @@ let $id := $charter//cei:idno/@id/data()
 (: where $id = 'BayHStA, Kloster Weltenburg Urkunden 1' :)
 
 let $entry := $correspondence_entries/tei:cell[@n='1' and text() = $id]
-let $fond_name := replace(substring-before(substring-after($id, 'BayHStA'), ' Urkunde'), '[\s,.]', '')
+let $fond_name := replace(substring-before($id, ' Urkunde'), '[\s,.]', '')
 let $img_dir := $entry/parent::tei:*/child::tei:cell[@n='2']/text()
 where $img_dir != ''
 

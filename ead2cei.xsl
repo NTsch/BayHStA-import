@@ -52,8 +52,8 @@
         <cei:text type='charter'>
             <cei:front/>
             <cei:body>
-                <cei:idno id="{odd[head/text()= 'Signatur']/p}">
-                    <xsl:apply-templates select="odd[head/text()= 'Signatur']/p"/>
+                <cei:idno id="{substring-after(odd[head/text()= 'Signatur']/p, 'BayHStA, ')}">
+                    <xsl:apply-templates select="substring-after(odd[head/text()= 'Signatur']/p, 'BayHStA, ')"/>
                 </cei:idno>
                 <cei:chDesc>
                     <cei:abstract>
