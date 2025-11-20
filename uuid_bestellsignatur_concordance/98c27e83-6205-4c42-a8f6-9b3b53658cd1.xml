@@ -1,0 +1,3220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auftrag>
+    <auftrag_id>98c27e83-6205-4c42-a8f6-9b3b53658cd1</auftrag_id>
+    <comment>Wandlung für Herrn Seliger</comment>
+    <user>
+        <kennung>gda-kirstein</kennung>
+        <email>Michael.Kirstein@gda.bayern.de</email>
+    </user>
+    <archivalien>
+        <archivalie>
+            <uuid>bb61c6fc-88c7-487d-9e78-a88a609db4a6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1747</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>134a27c1-f5b2-4cae-aeb7-6c23000c43da</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1616</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b83f448e-7a4b-4e28-ba0e-5c4ffd2798be</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1322</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e462ce5d-f96d-499f-aa1f-4cca53f77273</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1580</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed8d5021-e5a1-412f-b6dd-378312b54ea5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1773</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7bc1371-46b7-4394-af36-c6f2fbcfc069</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1075</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a4abd50-5821-41e1-aa69-5ac2397d3ae9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1690</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5a0e61b-8df0-4fc6-a20b-8a2fa3daa48a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1090</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3b1941e2-daef-44bb-a1e0-0d4d815f4450</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1229</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>08193010-2c34-4742-a00a-466ca0fdc915</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1230</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>db8c0279-fba4-4b14-be3a-2ee1f7dfdc75</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1488</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc605fe6-ec8d-42fb-b7c5-973973874b33</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1055</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c3d6989-cb49-4378-b28d-3baabe1745e5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1057</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9aa1ed07-ff24-4ee0-935d-7dd8078387f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1158</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0b6144e-ad9c-4f62-99d4-9b612f83f7e8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1785</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5dce7dc-2019-4609-888c-778fa3fd1b7f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1019</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b8ee0b4-b191-43f5-846d-765186389219</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1725</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eaa74d87-db73-4070-94a4-4aa111d129c9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1014</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb586a7e-8f3a-4293-872a-ac45f0bac28b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1641</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6df8f7c8-ace1-4ee8-ade9-c8acfd25b109</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1010</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>122bd681-3a6f-4942-9710-09ba55ba00bd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1181</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d08fef5-9701-42f5-a63a-cbec8c7b7ca8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1212</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9423f41d-6bc9-43df-995c-852493f9d24f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1700</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6e5e3550-a240-4a27-81c1-f46d826a7446</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1380</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>490ca882-4e9b-49ec-aed5-a71d82b8b297</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1385</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1987a7a7-debc-4948-b818-b079849d2e25</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1363</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b3e8878-0aff-4744-b5f7-b135cf00c189</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1152</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a38b803-d648-4fc8-ac99-387c35900c1c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1295</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88ae4254-e28e-4fc1-8cbb-cf0accdb9583</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1522</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df47b360-eca9-42e6-92dc-9b6a899ddacf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1467</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29b8e116-cbd4-43dc-aa5e-efca05afd0c1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1156</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1d5aa96-df81-4697-b230-3867550e8b8f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1265</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33b8fc4b-3165-4c9b-b093-fdf475c240a9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1022</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5f478bd-9ccd-4619-baec-9d1862f5cf95</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1627</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22a61774-7296-441c-9695-eb5b84c2e4f7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1364</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0418af0d-fe56-4a6f-8d06-029091c1d48e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1653</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd1d7bd2-eff3-4a9e-92d8-76b1609ff54e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1434</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f3904de-69b1-488b-a14b-1dbc02684172</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1801</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdff45e1-5d74-438d-bfd5-b2fa61262df4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1154</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d2b2603-1af1-41ba-9234-8fc344dea9f0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1686</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f33a6b1e-da18-4a5d-bff9-58672afea04b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1614</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ea6fb70-1f0d-4394-a5a0-4931fd85cf58</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1021</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e06084d7-96e9-4cd5-aeb1-6d9ac58d6710</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1383</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e2349bd8-1f26-4ffd-8bcd-e03239a3d1c1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1327</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc9efdb9-09b6-497f-b6d3-4e7d3cd41922</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1020</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07eb68f8-17ae-4e41-946a-5cfa553ddee8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1457</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>693d5ab0-1420-4540-8650-b83a02afa69b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1018</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbede925-b178-489c-891c-7477b870366c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1736</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4f368a0-04b9-4b2c-a164-1fdf10585548</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1642</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66a74d9e-4ad2-4f33-b3c8-0e64136697f7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1275</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>259736c8-8a12-4d35-95cd-3b8fdb583668</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1351</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e5605cd-0870-4e8e-b5e6-17db3f85520b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1564</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa15aea8-2e9d-443e-89be-006b51e39ff1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1180</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23eb471c-6d6c-402f-ad65-eafe44f8b283</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1623</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2dc2ac79-8853-43c2-9322-e62e17c00118</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1588</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94b01e4d-7110-4959-ab2f-b09d81b53168</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1161</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d977a16-1688-4dd0-b97a-b1f455bf4c46</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1231</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63c3c36c-49dc-4294-8382-fae592b3131e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1214</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60bc0d47-6f75-4aac-8352-c3a4b5dbe217</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1581</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aad2872c-bf2a-4425-af01-bf835aa85020</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1406</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76b6b1f5-229c-4a5b-901b-fa34c18cfec0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1081</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>329c4e47-61f4-459e-886e-30904a238bff</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1368</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25567778-5a25-4fa1-8086-49e71d3f40c5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1675</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aabe2948-9ae4-4d74-b722-27e24a1ebaae</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1742</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6c6b5e8-84e1-45c6-b37e-3881e6b447f3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1068</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e63c9797-ebb7-4861-be49-1b6f93f81e42</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1662</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2b50ffe-661b-47a0-abd2-4c9b3d842cd6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1347</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3aca359-c57c-436f-81de-640356767763</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1570</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9adbb0d0-4c75-4a56-9210-12806228a305</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1692</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a9706ed-074d-4deb-92a4-6f1a26ebc1b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1374</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>41f6627e-d24a-409a-b296-b4e4f0b3e3ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1418</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6cae847d-73fa-4caf-925e-b01c04781051</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1577</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>270f9e62-2623-4b72-8d19-8c6636d2fa08</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1535</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>92035a8d-6349-4f9e-859b-4ccefe9c359a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1366</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c14dfff-62b0-4783-a4a6-25c46c2dbcf1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1750</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a0820b9-c6cf-4a1e-b464-b9df3ddcb5e9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1160</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ccb0f12-09c0-4e3c-bff6-13eb1e0cecd8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1695</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1a13c49-09b1-4b1f-9075-652638145e62</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1507</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3014aa31-abd2-4ef7-89d6-f9750c081718</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1554</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc416bbd-39c7-466a-b02f-db27e2eaf8b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1188</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ae8e7b21-c106-4670-afc9-78c07e0471f2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1696</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37843c86-ce75-475f-aae6-514f0e6aaae0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1715</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39021a75-bcc5-451f-8b50-9002a768e450</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1767</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ed61461-3286-491e-b92a-774a96300fa0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1621</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d37ff78f-a94e-4f08-b0ae-9424a077f507</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1740</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4b7bf37-305b-418a-aefc-a084fdf436c9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1233</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35477386-1157-4658-bf04-9b538f655d3d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1394</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9e63cdb7-1490-4644-a1c6-e8297ca33db1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1412</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c8e1b92d-998e-4835-8768-f13abd6864f9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1255</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6961382-eca1-400c-b638-44a9e6dbbb0e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1601</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f209a5d7-e5d7-4300-8364-3e7be4d8475b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1141</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16389cd9-3be4-4113-941e-0f3c953c5577</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1605</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfd41ac8-36b2-43cd-a130-fc1abf247d4f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1099</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4d10a216-7037-47df-a7a5-173bbedafa14</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1520</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f9dbbfc3-e980-4c1a-964a-6504e08fa8c0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1052</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ae90678-740d-4d5a-b328-1b3f46173cba</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1002</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de344f94-bad8-49eb-b031-c751b52a33f4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1017</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>adca8b50-dc51-487c-af0f-d8368544e91d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1096</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7cdd9dec-c06d-4b6c-ad69-75ffc24d516a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1681</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63cce490-f3ac-49cb-bd6a-bd4e4564c127</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1292</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8263a7ce-6898-4b37-9421-dc18426bb9bd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1319</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55ce5abd-9d6b-4d73-bc9d-3928daf893b1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1769</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c81237f2-59fe-4c2f-8fcb-e683d1aa0f09</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1654</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a81bd00a-e6f3-4907-8888-bd9ee1da2edf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1350</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>640177f5-7621-4569-849a-6115096d768f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1528</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>401adf99-ca60-44fc-bbcb-fb4a3e697923</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1197</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6fa5ccfb-1879-4b9a-b330-f135919e564b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1556</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f00f7e56-a4fb-4cb3-9533-ea8a2a956b7c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1643</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>443b240d-a674-473b-99b2-4ec9e44fab65</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1058</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f9a088c5-65a5-4f81-ad75-3f2a88fb4440</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1691</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f7a8480-12fd-4d7c-b1ec-881eb5a20253</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1359</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7327529-65f8-49a1-a75e-8436da02ec22</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1123</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac26d942-2582-4a2c-b926-79e3f9c92d27</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1168</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>243b99b9-ed35-4f23-a058-77f658c4d599</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1133</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ea9af0f-91ca-411e-a9f1-19b86922e2db</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1187</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91a1a5e5-1cd2-4f1f-b94e-4a8f8c4f442f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1234</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dbc39c50-c9fd-4914-b8a2-8e9282b84367</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1793</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c422eaf-0f24-4b9b-963c-9706a2fc628a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1042</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aba8318a-3c6d-422e-b1bd-a4e0822c1047</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1456</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3aa53b7d-92c4-4937-9f0d-43e4aeca39f8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1098</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81dc07d5-27b9-487c-8e8f-d7b1652f78bb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1708</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32716057-2d92-40ee-b206-a891405ee1f2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1005</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>237c7c25-1005-4459-afe9-f56f3c88e6df</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1625</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d4550a6-3611-45d5-a25e-2b18064bec00</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1644</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>414bc0cb-446b-4903-b2be-c40f1aa0fb64</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1421</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f11a36ae-b1b2-4fd6-b135-2bec7c573c0d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1109</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb71b80e-c7dd-45df-b521-f38e861a1869</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1659</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>893c43a4-daa3-4c95-9c84-453c77cc3515</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1035</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1eb1a20c-a4c5-4b05-91e3-b4df38b42711</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1036</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>639fc859-f3e7-427d-8200-e9d70dbb7211</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1526</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f1ad1929-50d0-4cb5-850b-7eb162f57668</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1253</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6bacc96-c30f-46d8-baab-86a25c207538</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1354</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a1bfe45-664b-4b4c-bb7d-97121ad1ac63</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1770</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>34f02be2-0744-4e60-9d6a-5110294e6e68</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1395</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>529f12c5-b897-4e3b-b0d7-28c19b4ff5cd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1808</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8255abba-f98e-4f68-9bef-911f01377a27</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1517</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b156ea4b-3492-456a-be89-643f651b5ac1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1724</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb851ffe-b179-44eb-8aaf-835542ba2d54</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1748</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>256fdd56-122f-498d-9897-26d2ba750b49</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1687</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65d733cc-3f9d-4489-8723-ee2fd310666c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1699</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6672cd47-9250-48a9-9822-6a60f7aa915c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1077</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>415f446d-ce90-47ed-89ca-a099a3874765</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1591</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1a016d3-b51d-414c-b0c0-719c65757877</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1634</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50d31483-c942-48bc-94af-f2e2c15a012a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1325</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a725bec-a82e-431a-b5e7-5d07263ea857</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1802</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d8da84c6-eeaa-447c-a919-7e1aa1bab8e6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1753</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbb29e45-ae23-4608-bffc-4cee1f332990</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1281</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81300347-43ee-4be3-b921-a0fdc1d61e44</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1606</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c358c7ed-5453-4c7c-b742-b44db2563ae3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1502</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5fef156-77bf-4ad6-9f38-f7efe4f2528a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1139</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25d2c4e1-6661-490d-9bbf-6675b80b9874</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1415</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85e89a68-4516-4fc7-8af1-5538a40c2f9d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1003</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdfdeba5-938c-403d-880f-81de75d61287</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1447</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce7f44c3-0410-4bfe-9338-196db13a9579</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1105</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9deb377c-13ab-4086-b8c0-38118d17bbea</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1379</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc318d22-47f3-45cd-80a9-71c897f2ef0c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1260</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9684436b-ff74-4b85-80b8-82eed1cd0a32</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1461</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5a72574-81ed-4772-97e1-b41c33fe38d8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1422</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e5c9561-8ba8-42b1-83c3-5ce7bc1e5b69</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1207</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07d481db-3c5f-4aa6-8a3f-55415e604289</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1565</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5325f44d-d65e-479b-bd50-77c27762be30</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1575</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a37ebfe5-6f86-40ed-b2aa-f8e54cebb633</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1593</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7db808e1-19f1-4bb2-a3a9-8d2ffae31747</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1300</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c4bb57f-1d50-4803-95c6-0342e3146e9f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1306</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a15a27c1-04fa-4a44-a369-1f310adfe590</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1381</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd329a48-e150-482f-81c6-c95384695634</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1477</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>470be88e-5fe0-40a5-b2dc-645852c2b5ec</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1712</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a299d8e-42a3-4ae5-9c2a-42b5edaf3fea</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1620</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f50e7c3-0fa9-4082-9eb6-3cb861e946a4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1110</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>942071b2-0364-42a5-a3fb-9f4f6087e4ee</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1131</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f37af54b-179b-4f27-b4d6-2fb193f04a4d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1084</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd0e09f9-5da2-4652-9894-a030296f9c42</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1460</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c551a56-cc3c-41c3-90fd-bef3c4bddafb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1547</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91dffa3a-bc7a-42b9-b74f-e9e7cdcb2739</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1284</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e14bb848-aa35-4533-8653-2e0316465bc3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1424</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>760bc3ee-8577-4b25-8748-62b4240ca254</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1562</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1867cf1-5d51-4e5a-95f3-ce609a5ef2b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1459</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5371871d-ca83-4984-8e6b-ed9d87be3e9e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1470</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8891360b-7f1a-4f93-aaed-4805fa025dba</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1726</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a78a951d-d4e8-4d42-8bc4-1594b14e2cdd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1392</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9317c11-8d72-4767-af7e-71bdff1c3c53</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1006</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fdfe219-05d6-419c-bd1f-e58138b87a96</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1668</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f00db4d-2650-4ca2-8c94-f3b4b8ef674b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1032</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6688fb37-4ea3-40e1-97f4-9920b74e336d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1398</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>101708d8-8619-42d8-aef7-60a46d15f97f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1013</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28f00cdd-9ebf-4dee-adf7-3884918d4455</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1664</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a73c0c20-8b15-4892-b747-42c12a39ee24</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1126</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f6e704c8-7814-4976-92db-60b312fede22</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1503</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc8af512-5b18-43b7-8ecd-2d4e72cf2780</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1474</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7fbabf44-de44-4e19-a827-989d7f14f7e0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1091</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be4bd2af-f82b-4230-bfcf-16b0789d640b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1178</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1620068-68e7-4efd-b682-1413d8ca82db</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1703</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>856a7c30-7743-4457-b7cf-dff579686495</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1119</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef9f71c4-54c0-4b0a-8a0e-0bb0989537c5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1315</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2320374c-b326-4012-816d-2efeb734faf5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1273</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a337b302-ee3e-4332-9273-f6c596d24d98</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1783</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9967d8c7-9e7b-442d-87f7-bbeb4d811b80</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1455</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>134b899b-f4f4-4670-afda-a00627cc7cd5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1279</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ef25939-c235-4bc7-8f32-02b0be1e7738</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1294</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf37fec0-9d59-4e97-aab6-0e5a6e150654</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1555</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78d68068-d838-439b-86b5-e171ca889b6b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1312</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8873b1bc-39e6-41fb-be1e-37466ab6ed74</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1463</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7989b7e4-8dda-4006-8f3f-10d74e657ad9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1290</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3aee057d-5735-42f2-addb-09e8c76c8e5b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1138</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55288b81-5eac-4c6f-a1d2-c74d7fdac69e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1407</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>963a98f7-d708-420c-a9de-da83e2f305da</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1216</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5d67f0f-b251-43c9-9e8b-89cc3f8bd4e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1697</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7d54d48-e9df-43b5-a9b2-dd4ef4af9156</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1261</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e30e99ba-f9b5-4fe0-aad8-ca7a990122b9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1780</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ecd20201-0123-42ec-8870-b677a9f21f97</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1513</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04742ff8-5a30-46ef-bac9-e53c723383fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1751</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8114897e-5f51-4ca9-b5a1-e6c42b0afd25</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1402</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbe39a8b-af77-4f10-8a08-7cb7631f3289</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1624</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fc90674-7e67-43bc-8013-5a53253deb5b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1706</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a41f880-c6d2-4495-b4f9-dc0b9fb7db8c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1468</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1e20d5e-a0c1-425a-a6e1-0ee390b9a463</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1120</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b244cf7e-4562-4f36-8382-1ff070215080</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1355</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c75e85a5-edac-4f42-b88f-33a75716186b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1116</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc3c645a-3360-4b98-be5a-8a6d55ed3875</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1645</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6f35720-c449-4ff6-846d-cffb1dacea80</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1184</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aaba874a-4cf8-4f74-b3dd-499504832199</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1433</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c550cc6f-4eb2-46e5-929a-751907eda745</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1761</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e96fbe0-93c1-4858-a5bc-5ad646ef0032</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1106</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>420d3306-74ce-4bd8-8095-4e8eb766495e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1192</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70022dd2-6ac9-4a1d-8d16-435eb8653c94</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1103</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7782fe66-10fb-405f-87c0-227d1dd38881</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1186</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19de1fa3-596c-44fc-803f-c7750271cbe7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1799</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f9ef0bb4-5fc9-4b36-bd09-acdad3df466a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1489</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>986c2803-a04d-4889-ac61-dfccadd6cb44</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1571</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ee5f009-6a2a-4bd7-a37d-4948dfefd88b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1362</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b95f5bf5-5da1-47bf-9648-6d7d1ffbfcfb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1360</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e51f0cc0-d21b-4f96-9d6c-7d3031a5c247</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1619</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>087bb61f-856e-43b5-9a72-298df75f0c92</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1249</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0862675-6495-4832-bbf9-62fe09a9c1af</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1446</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9363e250-7ba1-44e8-abb5-ce02c95a87cf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1182</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8e31a2db-f9b0-4327-aa5b-90794b482f38</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1276</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea45f540-a41f-4537-8eda-2487a464ac1c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1448</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3aefb293-78fe-407f-ad0c-f442560218db</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1196</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f23cedc0-d495-48a7-a247-06dd752e7b6e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1597</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>634bb032-a699-4d89-9bcf-04775f833969</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1519</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>471ae405-4d3d-49e3-b552-0e0597fdd046</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1175</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15227b47-c70b-4d34-a2e7-6f8d4666bf97</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1752</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11e30a5c-8964-4b7b-9047-e7aadd3ac123</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1499</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7fb49530-c52e-48ea-be90-344a4303629c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1144</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d403dcf1-5adf-44d6-845f-77f3ee7ffbc0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1727</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47e1f0e6-e0b2-48f3-ac1b-2eadef470767</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1011</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef30f924-69d1-4e7b-adee-9acec0b3544e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1269</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d837afd-1910-495b-89cd-e02a9930a72b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1389</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74b69191-24a2-4ba1-b03d-2e1813941247</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1000</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3107c904-bc95-4bdc-9fbf-98f895f8aebd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1080</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88ff7e73-efaf-44a2-b926-06fd8cf4ad0c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1787</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff46c875-5942-453a-a303-34d31b81759b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1628</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c07556e-2fce-4631-bfd9-e4bd888d0581</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1685</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4937c9e2-a922-461c-a600-9ba0f72c2c46</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1527</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0c58332-19fb-42b6-8da8-ace380f274f3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1578</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb559a1a-408d-46f7-8020-186141b71789</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1768</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c543b99-562c-433c-b0ec-41a7de5086f8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1213</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>176f2c7f-064d-45bc-a3c6-fcef93578690</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1376</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1293b05a-33ff-49ca-a701-7b9a729327d8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1493</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6bc94418-5761-4aa7-a918-7ef48151aaab</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1007</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eda1fcd7-caf3-4792-b4a0-af66fcc4abd0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1544</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ee1abc5-f8ca-4277-8f1b-be0b23d70de1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1183</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>40e066af-93e9-4406-97cb-8f74ab7fb4f5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1316</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>53a9fbb9-8d37-48b4-ae12-9aa41bf6866a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1333</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14116183-0770-46b3-85b1-c1d76c0c9f7a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1334</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7b70a91-dd8b-4dfc-a1a0-fac5412253ee</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1514</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f37ea9cf-8782-4964-95bf-fa3648532ff2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1600</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd0f6eb8-e7d5-441b-b8c3-fbe2d2635241</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1262</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>beda1a52-1269-4d11-9c74-6b54bfb2e3e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1410</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d20d2312-5716-41b0-9019-2c607721ff65</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1583</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>87548c32-22f9-4bf5-a289-fe66ef4777ad</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1240</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6aaaa73f-aeb2-471e-99a9-0adbacadd636</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1586</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbad9939-ff3e-4067-ad52-a128b579296d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1669</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cea5c6f7-c303-49b0-8dd1-6b79370fcb39</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1599</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64df21f0-2a5a-4acd-bec9-3cf47755670c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1104</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>532e355b-5605-4ea7-93b7-6f68aee86031</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1480</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f0a0442-f866-4da1-8fe8-70146f93a509</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1454</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89340396-407a-43c1-894c-f6b4861229c7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1473</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86f65b9e-e3b4-4ac0-99d6-05967fe9bc27</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1310</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6def040f-39df-41c5-953d-afdf80d59f42</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1095</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>037e1fd9-558e-4f28-8467-9ba68dd7834d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1245</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>644c3ade-3596-48e4-8e80-788f85650016</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1611</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0a5ce46-0425-49a8-b11c-f92f8669f69a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1602</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a432473f-6d32-4cfb-ab29-7be9bdc5d4d6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1191</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9efe3a19-88a9-4c33-8e89-08546f51bf4d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1250</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>863a6cc9-d732-4a8c-aa7e-bad065508a33</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1287</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>87e374d6-cda5-427e-b08b-2cb381fe3803</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1107</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df3e0796-0100-4ed0-93d8-c0720d3dfc1e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1092</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f1d646ca-95be-4793-b66b-a77810eefdca</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1651</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3956aef0-e7d2-40bf-8909-cf57a505de8f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1257</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3aedc5b-3ca4-4400-9381-5dd563df1893</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1702</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e3e4910-9e35-4ffb-828e-3096a5861f86</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1352</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b2c1ea4-3a0e-48bf-acbb-8d385377ab9a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1388</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5f677f3a-a8a4-4457-8bb7-3b06721b808b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1505</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0725188d-a3b8-4020-8e70-80033081ae71</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1063</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73824c9a-b90e-4ad3-a02b-2dc874d0340e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1112</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7a3daf3-2efc-4caa-90b1-9de71e94fa5c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1155</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97489f4c-49b1-4259-89b7-125e99fb9ed3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1431</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1969ef4d-434c-4302-9e89-783113eedf79</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1148</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25d5f0e8-5911-4eea-8f3e-123fcbbea049</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1471</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>30d40b2d-f089-4c59-a5bb-9c82f214debe</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1174</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>628606f3-bc2d-478e-809b-4f14aa2d621c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1756</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67600ad4-45b7-4904-a824-d55528d269ae</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1440</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b34790ab-7ab7-459f-ac94-d6da81224224</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1029</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8990526a-65d9-4038-b0a8-e6d297b675e3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1438</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1b284e0-94eb-4e11-964b-1ffd6926d55a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1639</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6664d01f-6f88-4c65-8410-c33695783c02</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1278</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d20912d-642d-452f-a1a5-18a2fe41ee41</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1733</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9034d1b-0d7e-4710-ae8b-ec011fb1131c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1190</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1fd95d4-6404-4574-9939-b5088ee7939f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1215</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50817641-0eca-4700-8ca6-5ab1eea1ab21</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1307</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de8b0aa8-8576-4e31-ad1e-687fbbf65f8c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1097</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>93952638-bbb5-4ffb-8dfc-6efc4373e23d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1483</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d75ea00d-db6c-464d-8340-cfc3a3d30b96</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1592</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2c320e6-8d87-4606-bd6a-fab2257feca9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1607</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4d0351c-de88-4f91-8254-8b973b290891</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1536</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8c81302-de9a-4116-b338-845c60c0bdad</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1331</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>419718de-de76-4020-a3fd-763f1fcf8d09</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1720</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a97ea13-c187-4adc-95e2-66a816d84c1d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1056</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>92ac5530-d973-4c68-819c-15b0cf3eab23</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1425</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2493a7e-2549-4275-80eb-5c9aec340996</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1400</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc26b0e6-8abe-425c-a3ed-9e993a795722</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1078</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a829d9e-9722-45dd-b11e-8257b79d61ab</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1423</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7bcae2ac-100f-4b74-a34c-bc8ab5efcb3a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1476</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15ef884e-8bae-4540-81c8-8d0d52655bcf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1661</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50d0659c-ab1d-43de-9152-39c1cdcba10f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1225</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35358635-758b-436e-8007-28ce8d44a4f1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1679</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4729fbaa-bdf0-40ec-8dc9-146fd6bcfa64</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1670</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c3b35b0e-9fcf-4283-b4f5-699f56cdc94e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1572</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59bbd14a-81e2-483b-b918-32e6031ad9de</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1129</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4bfa3e1b-8f7e-4e5e-8314-282b95b0fef8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1722</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>627b2bc3-1254-4950-80fc-a712975b8af6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1232</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a6a2c79-3226-4745-a53b-cd444945e127</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1437</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01369904-8823-4b03-b3a9-41a5e917c9c7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1223</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b80753a7-a74f-4a89-9de7-a7dfb8b1b637</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1718</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c943855f-d735-4659-8bb2-44a99df757f7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1033</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8713a90e-8a41-47f7-afe4-3f591dde424e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1496</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a596beb-04c6-4c04-9f1e-3b11b7e9e075</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1698</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bee759a0-2d50-458a-b9d2-063136430664</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1282</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>313c1536-b754-4fe1-b171-2b948aaca079</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1549</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ffc16428-cafa-481c-9ff7-0f46248f5e06</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1070</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>caa4de42-4ec3-4928-baaf-9bfbc38980c4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1707</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>497eee7f-1dfb-4e7e-b60b-e00009ce2bce</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1076</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>93c44ba7-7543-4bcd-ba15-d942f7e5ec55</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1217</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e56e8f4-daa0-4523-9d39-9e009eaba2fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1162</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e8d8983-ad99-4de2-9a34-657da9efe5e3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1617</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f9d981a-8d15-473b-9485-becea4963d1b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1246</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fa8e8af-2015-459a-a130-2e23dbe29f24</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1324</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d061099-85ad-4a23-a1f5-7df235f23738</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1271</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be15005d-1556-41da-930b-7fe96d43d599</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1088</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81987b2a-ef54-4ace-9c23-43680bba5891</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1509</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6750188b-1a40-44c6-b781-99a1259073ae</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1648</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f7c3068-3456-4656-a605-628aea3d82da</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1256</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d1fb315-07d2-4bb9-98c0-330f2e29983c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1403</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>214a332a-c3c9-48a4-ad2d-e61fc0e9a251</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1631</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f813aada-b62e-46e7-857a-9eda0f9d9e28</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1296</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a761aecd-b70f-4e49-bed5-7c90efc3cd15</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1465</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>61703a35-0b75-451e-802d-64cd5360711e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1660</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7157cdfa-0f86-4d58-8150-d4e708973b90</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1680</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d65fecd-083c-4c35-be94-786dbff7ad4e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1396</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa3eb1cc-b9a4-473b-863d-5539214acff3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1330</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>811133a4-1010-42d8-ab7c-e62c114f31c1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1053</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ad24f2b-756a-4fe1-9244-40a5c86bd83f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1375</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7af6b7cf-5c2a-41d0-af58-e20f5199918c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1497</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7a3e56f-c40b-4485-b6fe-aa932d6631d6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1635</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca2cd4d6-ab9d-4d6d-8f27-54a1de9ef92b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1693</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b56430b-11a6-40fa-83eb-688d92157af1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1671</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e9d9927-2a8f-4ee2-89dc-575e050d04dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1009</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4e4c11b-d678-49d9-9fb7-6911f456026e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1243</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c52441c4-367e-4f77-a5a0-8192a9051a16</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1435</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c89a5f09-8795-4585-977c-0c9f014f6e7a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1538</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac384e7b-1f5c-4182-bfcd-9c89f27c7320</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1087</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f46be724-495e-4a8f-b87e-fc4c4b74705d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1649</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>165f361d-23b7-471e-ac76-b5f5cf7eb566</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1516</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd086378-7fdd-4a10-b170-34b37640c51f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1674</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82b3ab6d-bd80-4a31-b980-32d51cd8b9b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1339</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35cec9d9-8ae6-42ab-8b23-a178f09055dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1317</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e21cafeb-283c-4205-b714-64e40d66c1b8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1663</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>938af6f4-4f4f-4e9a-9747-0ba2e16e54f0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1495</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de1afbc4-2202-4ecf-b6a8-e05134f0e952</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1530</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d207da0-567f-49d3-9cb3-9ee5e34a4efd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1222</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a533d07c-f992-4463-a831-b031cb094737</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1485</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>636db282-28a0-4e79-ad29-27b8fdd7a280</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1267</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>777c7650-2b74-4174-b77b-b523a545e741</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1046</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52116e2b-c438-4583-83c4-e5de7498e132</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1302</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac8ffc63-9ca7-4093-b1b5-d303470d30fc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1266</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b969805a-ff79-45c7-9979-536e0f840f9d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1349</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83416d2e-e8be-4c6d-87ea-e7e1e58a3b83</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1083</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44df4410-88f3-40d8-b442-c5aeccbc1b10</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1557</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa5c1dbe-43b6-4e2f-8687-b21e58a65cde</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1475</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73fd5ed1-ee38-45b9-bb7d-55a67866e85b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1608</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc33a7f1-111c-4fe9-86ce-71ed2c5ea4eb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1512</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c1111ce-5988-4111-a001-f837c3fac7e3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1532</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9fc958d-8597-4f94-bd96-cbbf46be280a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1258</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ab5461b-11d1-4ff4-b45c-847ada549688</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1539</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eacb2fc8-3df1-487b-8dbb-46ca72334780</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1203</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd583ee5-e357-4d6b-bb93-f654cc4c9a3c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1373</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14336499-2fcb-461c-8dc7-a3b98ea92713</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1297</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>142408bb-f91e-40e8-8980-d6733ebce0b3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1291</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5239eac9-591e-4cb0-bdce-3ce34d8212b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1061</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8a3df96-1126-429c-aa5c-4917e5b7160b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1371</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3dab302-b71b-474c-b7b8-35c60c97b7e6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1293</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11bbb75c-c8e3-4624-b98e-f32e309fe1fe</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1420</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39087c28-9a0b-4470-831d-a89fff92718c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1140</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d521b9be-81af-4e38-86a7-8e1e33c43e3d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1124</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f013b4b2-3feb-47ca-b29b-01911f9584b5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1346</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78d94a74-16b8-4e2b-b246-357f7faf14be</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1277</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3e49221-523f-4128-8d06-68698fdbe4c2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1755</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>349b8a65-ee11-4a43-beb1-d67fa23d115e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1781</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc3af98f-3e36-4469-86e2-b48fa88cf283</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1071</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f4c98ba-3efd-4224-b703-7838cff41f93</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1594</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b54a5a6d-b76a-4cda-bd72-3bb0175abedd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1285</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>51c5ba9f-daee-4240-be92-01ca0069bb14</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1051</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26c6001c-cf70-4cc9-9afc-64d12e9de08e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1613</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>097e66e2-7d2f-4bd6-bda3-9731c6494ec3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1401</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f68e94e9-6d59-41d5-90c1-42da2bca0031</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1786</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ebe556a2-46ad-4921-b063-b70decad8a09</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1432</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9951aea-0a3d-4745-955e-edf9686fe085</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1784</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b140c467-efbf-410a-a199-d73a6294c505</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1595</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac5a9e38-25cb-48db-b547-dd56c799f100</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1118</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b57a592-581e-4849-b1d3-f2039d3ac643</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1219</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7cf9ddf3-819e-4df7-8f4f-d557d75041c9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1101</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81e7680e-7a41-48c3-9ff5-fa83412cee12</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1226</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38ab35a1-d7fc-4b12-96de-2dbb77bfbbac</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1357</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>736a9bdc-47ab-46f0-9917-ccf979bfd911</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1524</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfc2a7c5-e54e-4d83-996e-b28251ee0d90</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1045</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50e3b08b-7acd-42bf-8248-50bc09dcbc8b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1100</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0939d7a9-28e4-4a8c-bc1e-c8ee1f8af82b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1199</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddacf44f-53f4-4238-9c72-d7e6e493b9a3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1384</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67b75242-936f-4a70-b28c-c23d0fe195c4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1804</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55236bed-4ce0-4b09-8ca7-975e93ae7a09</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1386</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df128283-e921-4583-83b0-e3d3cb353ec8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1739</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec36ddf6-f7b0-4628-b760-c010e2fd6e5c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1093</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d62a71e0-2660-4cd7-9c28-9cedf3277307</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1337</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3cec336a-897a-421c-a00f-3fecc107071c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1738</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8804c59c-3ff8-4b35-920e-3b4a8cc30882</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1458</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ea48100-0f11-4f89-99a5-af114fe2c62c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1490</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc55ed0e-8a0c-498a-8f27-7b574a389811</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1382</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4463c4d8-a572-47f1-8979-014cc5c5eb08</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1714</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80a8d49e-1952-41a9-975c-502d71bbf5b8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1486</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5f867d34-f064-414b-bebe-75121d853ff2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1397</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7180b46-b31a-454f-b513-b748a2bd1304</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1809</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14b5d824-bbd6-41a8-bafd-c9412702cbc5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1369</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4e22253-ba2d-45a6-aefa-e41af0c1cb54</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1308</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58e3908e-7743-452f-b9dd-f21cbfab4933</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1778</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2643ad8c-1b3f-40e2-a66d-db83f9e1c812</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1741</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46075321-754c-4672-99a4-8ba4498d2b42</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1264</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9786efba-bf55-4d8e-81aa-bb5e444563ae</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1372</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77e62ec9-09f2-40f7-8e9f-af0b7ec17d87</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1153</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>942089d3-64f0-4960-add6-a48c069900c8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1304</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc1be5b9-3924-4998-9e5b-c54dc3c41471</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1074</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>114b92e3-0f68-4e79-b261-98f46c621930</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1283</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1a46265-155f-4aa6-9131-aa594193edf0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1566</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7487f33b-0f24-4558-b1a8-b94e2b110ae3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1615</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>071e114a-b7c3-4068-afe2-df5d3cf42f8a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1678</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d64747e0-6a51-4e52-9809-1a63defccac9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1501</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc98537a-a4ca-4c7c-aea7-84efbad1b35f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1193</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f204e51-a07b-459a-a056-c0e24a93eaf1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1713</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e013d1e6-d2b5-4972-96e3-191cdd568382</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1286</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abb5c01a-4a1b-429f-b086-4188dd36c0bd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1428</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb895fa0-2290-4183-9745-dd36b4c48554</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1244</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>688d475e-36ad-403f-bc2d-42ca6f835ea4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1066</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9bd2623f-c79d-4960-bd34-9c42d2afebc7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1113</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f102cf32-3347-4647-93de-70c0839e3e74</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1338</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f67e97f5-6de9-4c51-acef-4ae7eb4cba6f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1048</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d4cfb5e-b76c-4466-b649-8a2a41252fb9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1004</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c944070-15d3-43d4-9f1d-7b2a7d58a489</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1506</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81b04ba9-db4e-4734-b611-8a456205df9d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1429</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ded456ac-242b-49d6-86c6-dc6687a64cd1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1558</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d3eb943-cfab-4715-9439-0a6155148a5b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1040</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a72ae28-31f8-4ccb-94a7-6403cae66f96</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1172</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>529eb834-05ba-4423-9b42-60c40cc2cd89</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1072</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c39c72d3-2e11-456f-93b0-bd26fd5c5163</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1559</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8db8185-e8d3-4f18-a800-6562d7c98304</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1684</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>573c4f20-c1e1-4d11-bf60-1f7dc85fccab</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1796</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>134b94cd-6668-4e8a-adac-ca62877a629f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1137</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a50652f-484b-4347-808d-25c7bc36ad28</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1728</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>51d90415-4a17-495a-82f8-9fbb231573bc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1198</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9d629d9-e882-42a2-a232-b3fe6d75ef26</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1164</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>21791e43-8265-44ef-b7ba-4f731e9ad44f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1667</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32ecd1af-7317-422f-b8bf-ac6c459a1476</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1060</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0732d8e4-41b5-4fad-8dd4-d98b7cd3163f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1136</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79457ccf-a33d-42d9-91b2-5d5c11d78f6a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1026</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff1c18a9-6867-411a-bcfd-a1743a16f8cd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1039</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32275729-93b0-4f9e-8017-f13b812dfdd3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1320</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90e789e4-c755-4a3c-b6eb-e87569ab5f23</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1251</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9976f637-24d8-4fc0-a2a6-9f3196106bc1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1043</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ede8b9e-05ad-4602-947e-0274a92507b6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1408</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f082577-c696-4594-941a-de934708ff50</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1303</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dde0bd0f-b008-467d-aab9-080a57167e11</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1340</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c66a030-aa8a-4f17-99e5-5728b7d754be</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1504</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b76b0237-b5fd-4bec-a570-801814c3c82f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1128</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e261add-dce6-4652-bc24-6b0bb5cc80cd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1807</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1fc7966-485d-4bc3-9f2a-5896ca1439e7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1585</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c19115f-de84-445f-ad9c-ca0b47ac5fe4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1252</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6540cc14-f57d-4e0e-a070-004325cd0583</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1417</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4352661b-583e-4b61-8dbf-61fb5351250b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1737</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2305139d-099c-42aa-b842-8f0329e85e8c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1391</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c18c895a-b941-47d3-be50-171299b216a3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1031</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>382218ad-773a-4df4-86c3-3a078990229d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1064</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e20551df-1ba8-455b-a069-6674067c7373</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1657</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4434517a-1773-4d14-aef9-7a1e79e3e1b2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1125</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c958a8be-de93-4480-8345-1c0957b77ec4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1025</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>569019f8-8231-4e79-82cc-0bcc9d4ebf86</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1683</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>936e898b-fb94-4ef6-8cba-8469ed5a7b0d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1612</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f43e2a7-7044-4b75-921b-5be666cad248</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1318</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58f5cc7d-88d7-4251-ad5a-02dbd37ddc71</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1069</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6dfa9339-e430-4bc6-967a-eb213937e00e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1719</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc340f2a-c7c6-4fa9-af15-19824d08aff4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1370</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0b571f3-66cd-4c96-aa85-91ff6f84b39d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1345</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2fd2446-475d-4484-9cbf-43145c379c24</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1210</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04fd453a-aafb-4309-b910-ffda1fd92e93</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1603</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dcd04fac-c50d-410d-94a1-741943132d67</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1810</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ba9cd0b-5984-4881-bfea-20038da06bb6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1179</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac932a74-6aaf-41b6-8d0c-78761e791dfc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1356</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>393f7b71-19ed-436d-814a-df4d96387e70</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1609</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ef94edb-6782-4d00-b109-a6d18fc8375c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1079</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80242e1e-ddc4-4f1e-b7cd-d4723a8c06e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1309</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90efc706-db0b-430e-b039-384a863d74bc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1529</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>634be07b-95ee-4d76-a465-9d3cac1d3993</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1228</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7841c37-836d-4b51-b034-b87f0ca7a7c3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1326</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>209e2fae-ea78-413e-955c-b15bf5f6f459</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1358</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72d4a729-1195-4d8c-a861-8940d0b8abc5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1242</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6dc4b6b-3e20-45e1-81a4-4dfd108b0e0d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1416</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a82cdb1-0d8e-4cfe-9776-4130d0d30d5f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1534</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2da00020-e22b-4121-8b86-5118d7f70298</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1353</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62275c70-0310-4589-ae0d-f6b069ea526b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1610</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d05c75f-479f-438e-9108-c3085cde92fa</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1618</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>deee7484-72d2-4529-8390-ce3d0abc4d7c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1469</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0795bee5-66f0-459e-ab1d-8ef28fb4a419</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1387</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29a5c242-15b4-4a68-a7e4-88b085a87bf3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1028</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98e8b01a-e500-467d-8046-a0db86b8bc71</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1157</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb7f2b52-ea5a-49d3-baa5-e7f27277cdb0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1563</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>08b81be4-f775-4e40-b144-8476c9c19ade</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1508</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>746d4f6c-dfe7-4f88-8cc4-c4014f00e508</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1766</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50614f1d-2205-44fd-962d-435f698a18e0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1443</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97573513-ccb0-4e40-ad74-eb90aa830ace</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1024</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fcab5594-2d0d-430c-b8d8-11f38dcceb97</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1238</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6cdde364-4801-4267-8314-97bc3404221f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1314</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a2e498c-69bf-45bd-a879-5ac8e0ade6bc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1177</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e2567ac-d86c-40ea-858a-6d056db250cb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1567</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01b9a390-2727-4c17-bea2-204d5a89bd04</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1744</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>363c3075-7fdd-4135-8458-bc393f80b4c4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1596</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fb6db09-eab0-4230-96fe-c01460f5ead7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1689</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b36091f-99e6-43af-9af7-a7ccf4ebd268</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1150</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f21c229-52c4-4714-ae8e-305d7b4dfa31</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1151</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2dbc3b2-4c10-4a77-9cde-1f997dc32c5a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1510</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>589f40ec-f388-4503-8c95-81b0e674e64d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1745</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c119509-8be2-42a0-a661-be078d4d12ae</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1044</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5044f688-b834-43c7-b8a7-bdb2f77b6bf9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1540</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad63142d-c315-4e59-87d8-3cd62dabb2c1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1115</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26be0bf3-889a-43e1-86e2-9683ee79bd8c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1729</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0e8368f-c04b-47b2-a964-dd651290373f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1067</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ec8fc9b-e995-4c01-a349-e12cc047d62f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1169</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4d822da-e4db-4d1e-9c15-e792d9a38e2d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1533</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>daa015e5-383e-440a-94dd-c56412cd2c2d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1636</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da8f4beb-67a9-47c6-93eb-a9fe6c4db648</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1344</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dbf6b4ae-0de9-4e1d-9981-14c609cdd3b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1589</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25a9b0cf-e002-4b6f-9cca-ad4518ce5d0b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1365</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>899cbe5c-36ff-4605-b76a-ed25ad247a6c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1633</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9751d32e-b9c0-4815-9e31-1bb251db56fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1321</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>005735a7-a9d0-4c33-8114-ccfd73bdc8e1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1102</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ef047fb-9fdf-425b-ad95-99f6362a0574</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1299</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a186e0ce-8b0f-4d23-9fa9-d2eca4c77ee8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1409</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81d999e6-b661-476e-8d35-d35c1a58870b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1453</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d14f98db-b615-4d99-9635-86d699951e74</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1200</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5aca4a0-6726-47df-9cee-4ea883adaa2c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1135</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9101743d-4a50-4099-bdb6-484155483d7a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1146</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad56ed77-3113-49ee-ad41-883c3a39c2fd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1111</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0829172-6f18-4675-b29c-ddb39b404ae4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1746</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>652b8ef0-e75f-4040-b17d-eb993e50ab39</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1579</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7037ba4-4b65-4584-85ff-906aecd4fdbe</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1117</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bbd7f7c3-7c29-434c-961a-ee1bb584697c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1413</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4289f1a0-58d7-496b-951b-ac38033c96c4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1730</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97e27ebd-0b4f-4248-b8f9-d214a8ef281f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1632</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64d5ead4-1215-4e3f-b1af-6d96110e5238</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1089</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a5b85af-92d2-414d-b2ee-94cc77bf9657</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1298</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>222f6565-cad3-4047-83cf-d215ee2eb423</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1094</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29e86ed6-0bef-491e-85d2-a3cc26664a27</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1361</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>51aad685-0897-4db7-b2a0-88e5f588ce52</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1248</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce7c1623-d081-421b-984d-e8603edfcdfb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1134</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d88d1623-f474-4128-af3e-14b15b07a3dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1202</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6838ecae-c99b-475e-b1ca-abe86dadd825</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1650</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26b127e2-4902-4ed6-a1ce-e42a5fc9764a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1341</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4dd5007f-6f0b-4664-8914-405518bb4fba</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1561</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ceedfc3b-d651-4718-b0d8-66720b4d1cca</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1771</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>afd24afa-ca49-4810-be38-7daeda4d649b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1268</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12ed4762-ef09-40fb-bfa6-c0fec5519652</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1328</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2df55223-50f7-465e-a9df-e15eb7e4878e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1587</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>635503c6-6371-40a7-acd8-0327199082c9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1676</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5582f93-a010-40be-a9b6-deff8d887ded</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1221</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f79bcc6-9ff8-4a2e-8151-a97f8ee27347</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1511</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d6cf95f-a592-4a0d-963b-731dce286c13</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1208</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f12eb50-8dc6-46a1-a07f-1d8f08cd9b0a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1211</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3af12679-d0ca-42fc-aa30-b41b52bc9cf0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1227</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>614208b3-fe4e-4b95-8278-8414f31982a6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1444</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d80337f-ccec-4da8-bfc9-70e8066ec5cc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1711</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d39dc31e-9b67-41d5-b4e2-8bd6d824caf1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1335</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7869e5a7-281b-458d-a453-7f594327ffd1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1797</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d7eacf0-fbbf-44ac-9997-898337921801</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1050</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>718b1e50-d0e4-4ca8-a5aa-d6eb08658430</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1426</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f49698de-35a9-4f9b-a16e-04e5d1a229c8</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1652</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ee67a82-380e-4b6a-845a-4ce0b934b8d2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1717</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83ffdfe7-14f6-4cc9-aa7f-255732ad42dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1677</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a0beb98-5e9b-4e50-9991-b7141573c2bc</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1622</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea6a74ec-e174-4301-b9ec-29fef4b44148</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1478</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a7c4e74-4c33-4313-b669-297c2f295c6a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1626</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>419c8002-fe52-469f-815e-fb3954e73a5a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1491</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7c8aa34-adc9-4418-8584-bc85d5e282e2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1189</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d010ea3c-8c7f-4602-884a-57ccc07f0c72</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1494</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a08ea634-f6d9-419d-b8d4-18cebd2c8791</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1466</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f18b2eee-c475-4a08-816e-fd47b66a06e1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1541</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ee92afb3-6a62-425f-82f8-1dfe33c0e83a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1548</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46e060c1-bb24-408c-88cc-c8f7ab79e158</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1721</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48894bb6-4b43-40a8-bdb7-097c763c96e0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1030</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d5b7b10-7eff-403d-af8a-bc6ccd33ddb4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1551</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c33a114-eeda-4b3b-9d8d-79d56d39693d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1656</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6de42ed9-1818-4a33-8382-3ed3115ea30c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1167</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c5d1b89-003b-4c5b-bdb6-7abb144503ea</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1001</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76083a78-5a1f-4663-b1c5-d8bb15d1f870</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1289</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff812390-3c0a-4ff4-9f11-7e8582a237fd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1122</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c8920435-faa0-4404-a4c4-63b2059a4108</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1205</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3cb4e1a-cdf4-41ff-acd2-0d6ea759625f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1640</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0eee96f-3f79-4f3a-9fac-d6e5c0120e9a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1254</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ffd538e-8154-476f-bcd9-99797fa7f93e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1776</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>494e1f8c-c3b1-4e20-a435-73beb3585948</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1688</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70b05d67-5391-4d69-9343-2d255cfa77d1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1450</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f1f7fdd-1d21-4820-8d8a-9787db52d70e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1336</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ba05b52-e7e8-4b58-8294-7a48cd5c4d2e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1159</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78bb9d47-ad17-462d-add4-cab51e98b419</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1241</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>194d7bed-34fa-4c7b-9516-1545aab908b2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1537</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d5acd91-f73d-4b74-baf5-2f7632ef692c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1451</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50e9c102-9d9c-4f23-9f69-160481350ead</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1479</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>302d7c79-347f-4a41-8e0a-665fa438c139</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1165</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7302de36-0b82-446c-bddb-648c2b7624eb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1658</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>732c25ca-9562-43ce-9a47-1adee9be4f84</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1059</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>582890d3-ec9a-482d-99b0-45b298d40ffb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1777</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45143f23-20f1-42c4-9279-3f4746c38646</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1705</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>adf3e205-37b2-4ef0-925e-1258d8c57141</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1481</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d388ad8-2543-44b0-bbf5-44fe5c691c91</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1132</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f0118af-be7d-447c-9464-8bafaf4d2764</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1404</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aaa56477-85db-4087-a1d6-f2b7077ab811</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1638</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff10bd48-8386-454a-b10e-47abfd15c61b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1782</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57c515e5-e099-4b23-acad-4ae58c73e75f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1054</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7e9b90e-8352-410c-8d69-9363d20686fe</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1637</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4151bf46-6e60-49c4-9d15-76fd15746f00</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1378</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f857d0a5-13c9-4609-bd34-eab3a8f14d6a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1523</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c7cd660-cbd5-4b1f-868b-174746c1376f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1170</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eac9a1b8-6276-4ce6-b62f-551757ed65df</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1343</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a4be889-e396-49d4-802f-fc7e617bef55</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1701</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2d08d69-6329-468a-8bd4-ef3b92d3f251</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1390</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c8ae52fa-fb04-4240-baef-ad95abd5715c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1500</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44e50270-f4bf-4c1c-8502-336146067830</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1062</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36567f56-28e4-4df8-9732-d73685e419d0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1201</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f64dd79-1e1a-4d23-b99b-c7191ef4d927</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1171</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0536def-b37e-4a9a-a30a-3ed0af4d8e3c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1142</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6fe2d35a-5c12-4c52-bdca-f750019b780b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1521</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7f825f9-f3dc-4137-ad32-6d009608f93b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1647</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0de5a134-2ade-40c8-ae59-67a8486f4716</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1452</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac1b62aa-3aa8-4279-8799-23fe6b1ac596</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1195</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8df4d85-24c7-4191-b6b5-3f9f938a1d62</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1798</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>386cfdcd-30f9-438c-abfb-c9a4974da64d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1263</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8da5d1f3-df7a-40fa-aade-6c0f9c1019fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1377</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5da61841-db61-48d7-9a9d-a57f19b8ca0c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1646</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1d875ec-6db5-4d21-9cd8-e1883b66c012</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1449</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1afe8c3c-65b7-496d-8a1b-a91407b1ff49</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1518</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da3b1418-f667-41da-877c-c8fa2edf81a5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1313</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7f867bd-bd9b-491c-9b90-0166245c9017</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1757</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be780963-cc12-4bda-a41c-875e544245e6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1236</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c32cb031-aa59-4d8b-a7b0-691242f4f359</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1082</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9289179c-6c73-4568-953b-c881d3018454</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1546</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>621820a7-106c-4b28-97ca-6cbc8f1b416e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1552</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d18cdae9-e31b-4004-aafa-7584674d5eaf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1749</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14f21e6e-b487-4955-a622-e39e50279212</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1774</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>753345f3-a1ee-4ec7-83ad-55a24961884d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1185</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f83f84e-13ec-4be7-b137-4ec107124cfd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1672</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3feb711c-483c-4d8a-b8d2-3a4668c85601</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1710</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99dac322-f7d8-4d3c-83bf-9515c317ab57</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1224</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ff6d695-7177-4f72-8bda-31e92825e2b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1436</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>517b4587-3943-4378-8b9c-97b0864b2ed6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1569</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>354ced7d-b40f-41c9-a65b-3b010d36e5a1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1220</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad79d271-a996-450c-9ec3-1aa87cac2617</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1604</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cae80c10-4ddf-411f-ac01-af7587ef8424</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1237</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a77d49af-bccb-4538-bdcf-e24a2e741d2a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1218</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54d4777d-1472-4767-b681-389aecd6dcef</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1694</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4f9075b-780d-4565-9741-d75bd778fad9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1550</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d50f2697-5932-46bd-81e5-967c5cc6ef73</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1772</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6854fbd3-3658-4fbc-b916-f52aee6874b5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1085</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8075164d-8d7b-4854-913a-a6b3fb61e96c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1482</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4b43be3-611d-45ad-8629-9c33e29448fa</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1414</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91775f65-8a97-4140-bf78-a285ba871a77</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1247</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>127fd512-7f12-4383-a4d0-7d8a4f4d92cb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1754</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>270936b2-9198-4145-a609-6b91516066f4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1016</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d66965e1-1165-4a31-8fe9-0707ffccbe70</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1114</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>41b97222-fc7d-4bb6-b40b-9c4bbb51ad23</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1145</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>192eb924-89b9-451b-83d2-a93b698ce375</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1543</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4618be41-10fe-460c-9d63-907eab53bfa2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1367</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b460b914-4ab9-4468-89ae-c77c4c3a17a6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1301</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d1972c9f-b491-4af1-b67e-cc3cca5a5933</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1803</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4f23df5-4685-41d4-859f-c3bc3288eec9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1792</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73011de1-f215-4b7e-ac00-ce144a6990fa</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1176</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37e65c3f-9df6-41ca-a3cd-9d8f6e8b55f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1130</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9f6423f-540d-4e2f-b1bb-ea9b867b9616</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1149</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eaf2d993-6992-4049-9e1e-93973d6e108a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1041</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46e764b0-2471-4f31-99ba-d75b119bf7a9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1665</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>583d788f-afce-4cd7-8c61-74cd4f695b7d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1732</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2220d2d1-f047-4474-b943-30fae827319d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1492</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60f22715-6588-4be3-b0db-a2bbab4aaf63</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1743</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8e7e3cb8-6f86-4908-a5ea-1b9ff1c8283a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1399</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e90a27e-8df0-41e1-b169-56eb964425fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1759</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d42e0771-9c2b-45e3-822b-e547b76967db</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1574</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1186f865-03ee-442e-93bb-e6e32b0bae33</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1411</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3f53301-1393-457a-9b05-da463d2880f5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1427</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>717447d6-b7a4-4c16-a4bf-4c53c55c40ee</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1775</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5cb13e21-3db4-4d14-bfcf-49e9b599d427</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1047</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>149ed7fb-81b3-4b1b-a85c-4bfbcb4e4066</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1763</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0918e910-dfe2-4768-97a6-c9758b7ccb8f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1259</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5be8d390-f692-408f-b32d-9572e13e43e9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1239</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>989a7dd8-53fb-455b-a21f-f52eede8b26f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1012</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf6657c4-d6ce-4ee1-b49d-c36c31a64c0b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1484</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1379dc33-fedf-4a7c-a4e4-ce9bee0141a1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1204</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>624f7aaa-e2ec-4f6e-b733-6225c4309581</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1560</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d1104b12-c634-433f-a36b-06097c2496b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1762</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a8fad74a-286c-48ef-85b4-b68245165a70</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1329</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>640a0a41-9365-47d2-bc8e-106234037383</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1487</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5dbe2d3b-9c09-4e42-89f3-61707f5db2cf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1673</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07b3c645-6403-4baa-9e36-16b3bf9fb897</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1573</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba4485a1-8bb9-4746-8b5c-41bbff13d4b6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1073</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2447bdcb-0b6b-4ae9-9624-c3521e2da313</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1462</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6bc83d5b-773d-4ec4-81b6-1c66e0a12513</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1194</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1b04eb9-917b-45b9-a3d8-4b6c5d803dda</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1143</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0b12a03-29c7-4216-a69d-1fd51e9d9c8c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1209</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b846c8da-5e3e-4aa8-9b3b-63d38823ac57</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1034</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fecb301-3794-44fb-a283-e3fc2b871614</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1274</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3da3ba86-b376-4551-8494-7640f5d896c1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1419</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9bf2b7ac-11be-49a5-9186-07e675ffaaa2</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1630</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00a71fc9-b1e7-4e4c-b98f-582c0cda9b96</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1108</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37112b03-432a-45f4-b07a-cf0ae8391461</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1765</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3bb653da-90dd-4c58-b8e6-52ba98d0845b</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1015</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>463ea45c-d666-40e0-834c-4c929ceed2ee</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1270</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1387575f-8ee3-4096-be71-995efd026e95</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1441</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4642792-aa2c-4ee4-b3bd-a6bf822503b6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1590</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c4556b8-9801-4b00-8628-b5dbb49fd9e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1666</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5b4330b-d7a0-44fe-bbbc-74058c4de7e7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1173</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f52d6a1-238b-48b4-888a-dd0ff79638ad</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1288</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5bb82a2c-ee0b-4e9d-856b-19f626a2f4ca</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1779</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f761ce34-4320-418c-83e5-494bc63d7bb1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1121</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>354f92fb-6c8c-4c13-a422-8bfcbbd87cbd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1598</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8cd0783d-ffa4-4f36-939d-b1e34cd324ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1027</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26a352ea-50d2-466b-abd8-6fd38f2000d7</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1342</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>761d33f6-c5b3-49b4-8b8f-0539ad951b97</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1764</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b80eaefd-9a2b-41a0-bdfe-f90a483527b6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1430</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4661734-9ffe-4438-88bc-dc14b5a08985</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1305</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be051792-26b0-4825-87bc-2c9576a79489</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1584</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c31c2454-919c-4265-8b25-ba7b24b1b075</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1723</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70314747-9951-489a-bcd7-ceb5500b9c23</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1805</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>066db806-34b3-4441-afa1-536cd61d6f84</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1280</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5fe1bcd-d6e1-4cb4-ac5f-22b8c5b6c581</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1568</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7eb5d8a8-5c6f-482b-af5a-680e86409258</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1166</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>835933d4-503d-4cff-b200-1d6fd2eabad0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1311</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>40e7dff3-498f-48fd-9293-c09f003c1a5a</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1086</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7832ad5a-c014-4a51-81a1-846443c7023f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1811</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7017a45d-2487-4414-946c-fd0804fef635</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1704</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4542080f-754e-422c-830e-03447e4faebd</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1445</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb1dd06f-80be-4120-9d0d-4c3fd86ea211</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1498</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80c60ebb-0326-435e-92f1-d4b3ac236288</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1760</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>883b85f0-f451-4257-8376-83a6a27c003c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1147</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6546de35-1aac-4e46-a120-81b0726281d3</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1065</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0380ab28-fabf-490d-ba08-0787f8fce730</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1323</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4b61e8f0-6a92-4b3b-98f5-24c2987392d5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1038</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80f5e017-46c5-425c-87ee-f6dbb9a82000</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1442</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00173be6-f062-4be2-b8f9-15d587e0dc87</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1629</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba48152e-36ef-4a50-89bf-eeb64a59ca68</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1439</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de9fe448-a437-4dcb-9bae-caa5b4c9d539</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1235</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4aa724bb-c602-43a4-b6b1-71d194c8b619</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1576</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0a8c17f-0e49-4302-8377-18ead100bdc4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1806</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>315a78e0-ea24-4f91-be07-cec0aab830d0</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1163</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d81b91e-c719-48c1-b72a-ca844efd53d5</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1553</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fae8ab33-5b03-495c-a184-dee0aa1bd71e</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1716</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbfd3402-3609-46f5-81f1-170d4d52f278</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1655</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a69aef00-c8ab-475e-80d1-329c21aa7b1c</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1758</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfd632d0-08cf-402d-8c48-d6ed2479803f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1464</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b63f386-b103-4eae-b4a0-a43938f2b22f</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1731</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e6a25c3-7abb-4374-a253-b8871a7dda83</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1709</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e60a01ef-7909-42af-a0a0-e092a4b6f12d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1734</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c45bb1d-1aa8-48df-94e2-69f989b1d8e9</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1582</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb9259ac-0ba4-42a2-b040-b333f74984d1</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1037</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58014b93-67a3-43a6-aeb8-511ab8bf91ba</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1023</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3efbabfb-fcd5-435f-9bef-90880c02c282</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1049</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38cd968a-707c-4a76-8cfe-617453b624cf</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1206</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9ce1b5b-209d-4f4a-aaa9-60bcbecb3b83</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1348</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f75c018b-1fa1-46d8-b3b7-847492fb7e22</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1472</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25fedc8e-5c50-4bb6-8422-902c99394870</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1531</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15d03f9e-6acb-4264-9175-ef94b92a7522</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1525</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6185dfdf-9f37-4070-a2d3-5c501edf148d</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1332</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50629bd6-48cc-47ea-9efd-3074eb0fb796</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1682</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9adc857-b984-40fa-acb8-6fc077af9668</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1542</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>112d38f4-46a4-45a4-8de7-9587ff248abb</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1008</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9ee2d46-98da-4463-b475-890910d317b4</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1515</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84fabec4-7896-4467-ae0c-b889233f2253</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1393</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>367428f1-eafc-4f3b-b007-7765c774e8f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1405</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69a26a76-db77-426e-945d-3f11deeb7672</uuid>
+            <bestellsignatur>BayHStA, Kloster Oberalteich Urkunden 1735</bestellsignatur>
+        </archivalie>
+    </archivalien>
+    <export/>
+</Auftrag>

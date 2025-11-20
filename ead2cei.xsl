@@ -11,6 +11,10 @@
         <xsl:apply-templates/>
     </xsl:template>
     
+    <!--<xsl:template match="*|@*">
+        <xsl:message>WARNING: Unprocessed node: <xsl:value-of select="name()"/></xsl:message>
+    </xsl:template>-->
+    
     <xsl:template match="ead">
         <cei:cei>
             <cei:teiHeader>
@@ -48,6 +52,7 @@
         </cei:text>
     </xsl:template>
     
+    <!--individual charter-->
     <xsl:template match="c[@level='file']">
         <cei:text type='charter'>
             <cei:front/>

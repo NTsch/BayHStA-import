@@ -1,0 +1,3124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auftrag>
+    <auftrag_id>54b30b4d-658d-4edd-9f0f-c1af65131bf9</auftrag_id>
+    <comment></comment>
+    <user>
+        <kennung>gda-hubselig</kennung>
+        <email>Hubert.Seliger@gda.bayern.de</email>
+    </user>
+    <archivalien>
+        <archivalie>
+            <uuid>cd2667b5-e022-4d67-b881-3fd0cb2922c4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1600</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19230235-996a-4354-a832-48ff5556b8fc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1602</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>21e8dca1-5b22-4055-8de6-f1d3efb8d370</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1603</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>92fa91d8-dd01-4654-9fe4-c8f56bd65baf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1604</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f98b2629-b227-4318-9563-cb58ef6807ea</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1605</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ca38126-846a-4e2e-8749-8d073279d78f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1606</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36d1320d-139b-4907-8e00-928d779ea501</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1607</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf802140-f465-452f-9f7b-8287fc3f4376</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1608</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62fdd386-a45e-4b31-9907-27cdcb68ff39</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1609</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>998ee096-28b4-4cab-9868-0b51f58c318c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1610</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a70b1d2-24af-4bb5-bc67-9341f5580372</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1611</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4d7b049-0f01-4e9b-ae00-5a9b570668f7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1614</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd6775b1-8f04-4d44-8f5f-0bae37d7349a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1615</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fabf190a-9390-42ee-9c6d-59d10f595dc2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1616</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf3be9b8-a965-4d10-a211-339dde5246f4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1617</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28709a8a-05d1-4569-9af1-76adb8e2cd95</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1618</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71b826cb-b129-4926-b830-0ad9cc0dbe0c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1619</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>086b48b9-af97-445e-9f70-baac0e710eb5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1620</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d1a095b-c8e6-4a25-8d4f-099e81986f09</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1621</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88f3ce38-67ec-4111-b34d-ba24a435d4f7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1622</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b22801a-b0d6-4362-b4f6-d5ef82f3703d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1623</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6b26d15-1e8a-473e-841e-e329d08fb335</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1625</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9510044-b5b7-4baa-b1c7-8e560ef20114</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1626</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fc392d1-3dc4-4e4b-953e-7e346258caf2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1627</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>919497fd-eacc-45c6-8ecb-ef8dadec1ca1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1628</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>820adfd2-6e3e-43c0-abee-76f779926bc7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1629</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5adc59c-84bb-4c23-9392-83a732b77d39</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1630</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9cbca708-a3ac-4dd6-adf5-09872526b58c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1631</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2eb41fc-b152-493e-8617-7ba3758e15cc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1633</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb40d015-f616-474e-9b94-772e293b44cd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1634</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b84402d5-7df1-4fcc-82eb-33bcfde76b46</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1635</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c785b48b-59b9-47c4-8821-a7ba2413eb7a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1636</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c27391c3-fe48-4bec-914c-5ff57b1bf525</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1637</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38ec0c14-b036-4ec7-b6a5-43ee6d84297b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1638</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c94718f-9144-4271-a499-ae8e9c1ccfc6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1639</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6e7d146-ea1f-41d1-9e07-56aee563379e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1640</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1d9465b-dcc8-4bdb-ae59-2c17de86cc60</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1641</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2830ca70-7f1f-4a9c-bf73-0811b5b357ca</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1642</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4b22f7cc-a533-4d00-8023-20991ca1afd5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1643</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15d111b3-3e81-4823-b305-7211ac489a37</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1644</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d33b9000-e126-4eb7-823f-e7f9a7451222</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1645</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>779e1a2e-2435-4799-adae-74ff4077f7ae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1646</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05b64764-c8df-4ec1-8998-2c30f3cf97e4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1647</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7aab5e40-4146-4bdb-9056-94307ccacb45</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1648</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0431b8ea-ffdf-44dd-8d93-c55f771a7505</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1649</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da95d429-0917-436e-9ae4-67bb43ccb2e4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1650</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>17de0263-838e-4847-a443-137304b6036d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1651</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a54f2c35-8e0e-4e77-903d-b856d1f55f38</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1652</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5485e364-76e5-4d60-8938-dc3bd1ee1c66</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1653</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c00060a-8394-421d-9353-344edc8959ab</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1654</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f23fe183-9aff-46c3-ac1a-a8d206ccd850</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1655</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f17b3d9-4930-41c8-b1c0-aadce6fae0a8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1656</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a19932da-c9e2-4e38-af09-2754c1785ed2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1657</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be4920a0-c628-41c0-b703-eb6bc9c2e40a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1658</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45bab4e4-1a64-4215-b718-3b726b198e1c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1659</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e44d848e-63f4-4447-bf1c-e2d50b7a2f70</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1660</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>854de804-4ee7-400d-97f3-90f0489840b3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1661</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>346491ec-991a-4e54-9c7b-eba2f92f0613</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1662</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7943bf74-8976-4ddb-916e-a81a474e7f6c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1663</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d60a4d2c-44b8-48e1-85e4-56651e074466</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1664</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25f234f9-6e58-4ca4-808f-74cb7d647971</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1665</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7972dd1-cc51-45f2-9d20-a5abf761eff6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1666</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1408f52d-56e0-4a1f-a809-7bf7065e3c5c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1667</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d75adbe-bed2-43a1-9e1e-c751d7ab5bc8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1668</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e7468b1-1418-4c06-9e04-738ab0409482</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1669</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0462bb4c-07aa-4d13-8ff1-deb387cb4dad</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1670</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6f6110a-52ff-400b-90d6-eca8948c9df1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1671</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d2326ae-a99a-489a-bac6-7dcc010955ac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1672</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e152a6fb-2a72-47cb-8611-d5757603278b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1673</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26c21347-e642-4e9c-96c6-fb77ddab7fb3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1674</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d4a63d6-bdeb-4323-b7bf-c24d8187e420</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1675</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32fb6365-b545-4a49-9cb2-75a23eb7973f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1676</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>893697e8-5837-462f-a79a-09ac08c466df</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1681</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6f1a4ef-a9b8-44ff-bd2d-0a4888d62a91</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1682</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea8c391d-3cd0-4452-b363-e554b10b0f99</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1684</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b352b56-5c7a-4a19-925d-3bfc636dc4fd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1685</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59d47bf7-8e49-4ba7-8ff3-1eec58d01cf1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1686</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c77cfe7-f482-4a67-aa90-54c66ac40d16</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1687</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2277a597-fc97-44d9-b124-b47970bb8d88</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1688</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbdc0121-1d85-4bbc-b529-d1f907ee3b1f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1689</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4edf4719-d218-426c-9eba-9b52bf8d6b30</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1690</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7acc12b-74e0-463d-9444-dbbca0ab1b2f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1691</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4db50ed8-ee91-40b4-8ad9-836d7d3ef237</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1692</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81f4d38b-3b77-4e49-84af-78deb06e222c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1693</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca174bbd-4260-4425-b4ba-81b04f9474d0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1694</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef21dfb9-ad60-45d9-9718-3810be418220</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1695</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>883442ba-107e-4927-883f-4309eaa93b00</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1697</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a81f7b2-4bbd-4573-9fb0-b4d3050e87be</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1698</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8103b69c-2f0a-4aad-9462-8dbad63f5e12</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1700</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b278875a-3b4a-4df0-b9dc-bfe63a28db40</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1701</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df5c7141-0f78-450b-81bf-c7d87af06303</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1702</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54a746e2-d377-482b-bf3b-ef20b7a789fa</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1703</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f8c9ee8-852b-4708-bc64-6232db4d4aba</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1704</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>27799763-baa5-4861-a997-7ca63cb48be5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1705</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44db9a5f-011a-442a-9197-70ebf7872c51</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1708</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2af7a72-c314-4c8b-b0a5-959ff8209f3c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1709</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f57b4820-908e-4471-abdf-7c8d47efe7a6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1710</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62bd89c1-0fe0-4d47-84a1-53020846d8fe</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1711</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d1bede4-354c-435a-92cb-0edaf812613e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1712</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d9ce61e-107f-466e-b132-a7e66bc9e488</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1713</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a180033-f71a-40aa-a7ab-ea91abfd168b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1714</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54443c53-9ffb-42f1-b3b3-65be94cfb969</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1715</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>92cc5c45-3807-4df9-982c-dc84751d0ba4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1716</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e0217b7-480c-4076-8bfb-cc87aa01e261</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1717</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c67d75f-56e6-43ab-93fe-80e36b96e23f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1718</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a905444-b154-447d-b3b1-fd00f3da0127</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1719</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fe65254-7cdc-470b-96c8-f99f2912a667</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1720</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83411d81-14a1-4ac2-b9fc-f19a656f8f4a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1721</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5231696c-e591-451f-ab52-f022156ee1cf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1722</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc2a2ada-0c6b-4eb3-bc6b-8a69895731bc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1723</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9203cb29-6c50-4a26-b13e-954ac2db6701</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1724</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>42dca34a-7403-460f-b7ab-97b228be80f2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1725</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>511fea7a-de63-45f8-9439-7b7f7f42e66c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1726</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94efce97-f93c-4833-98d1-ecffe5257e3e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1727</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e35539a7-9008-4621-9fe7-7f23371dfad4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1728</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6da51316-5208-4617-8cc9-5907384134d3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1729</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81262a26-7c99-4dd5-8900-cf0d6674d215</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1730</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>27298c76-5806-42a6-b20e-f66a1da4822e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1731</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d4adf24-2f55-4eab-b08f-73f2f7fc93e0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1732</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11da4dd1-d94a-44d1-bfae-8dee5a445443</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1733</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4efac08a-7df3-47f9-8928-b0ceccb01c34</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1734</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>932d076c-727a-48a7-8fe1-0b14e3214192</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1735</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>988f0f23-4cf1-407b-bc24-3c49a2099863</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1736</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6e17db6e-c489-440d-a82f-ade461f50fda</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1737</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1d16833-a0e8-47a8-a0ec-85f811096e7d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1738</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eca937a8-0828-435a-9871-382f83719ef2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1739</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3906a0ae-c144-4b5e-9dd7-7d21acbb98af</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1740</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5a33edd-51e3-4820-8f05-0217c3a4d550</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1741</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89be3802-7733-4ad7-a3b5-e003eff02ab8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1742</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea1d8727-f9df-49ac-b9c8-f8e6d5ca8f4b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1743</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d47f069-0c6b-4781-918d-519258797148</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1744</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd033f6f-5e06-42ac-a1fd-61497f8b6ae5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1745</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5490de3-7a7c-4c4c-b4bf-4c57200e973d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1746</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f3467f8-594e-4013-8264-028bc411bae8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1747</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a58a70e-e603-46b6-a7da-393e9b22722d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1748</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74d1c8c7-dcd6-4489-978e-fbe1f559a8b4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1749</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c245225-8172-4fdc-bf22-8bb7eed74946</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1750</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5eaf0fb1-2a95-4c1f-8f35-6314babd4f1d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1751</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>75d69d88-2ffa-45d8-848f-18ffe25fee97</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1752</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3481ee5a-fe3c-4db5-812b-7406b2fb7800</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1753</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>630c6b34-3aa5-469b-8847-c5997a4f7d7f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1754</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35f54808-3445-428d-8936-e6fbedc15f04</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1755</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b0a92d38-dddf-4a71-bb5a-4beaf6dfdc4c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1756</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7b7037b-30c5-433b-9342-f7db5aa3c610</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1757</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2286e534-08cf-41fd-a5d5-6c1a6474b643</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1758</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39c026b4-3cfe-41a1-8680-26bd11bb9fb6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1759</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9adb332e-a661-415b-bc00-0c2ae2667691</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1760</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14eb7ce0-e7e3-4b51-a4c2-c63fa88de887</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1761</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>355162ec-105f-40aa-b690-1e45bb82fd8c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1762</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d08e30be-c391-4bd1-907c-ed902604b333</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1763</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0509833c-32a6-4c12-9405-eeda465e7201</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1764</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a65400b-42cf-4df0-9cb3-421727991d9b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1765</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc121e90-501b-4c7f-814e-10928bedb2b3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1766</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a4c13a6-8ca9-4d1d-a2d2-a9c6434b3d34</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1767</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c2874da-a5f5-42ef-8e6b-b459ddd7bb44</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1768</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f84ba05e-9658-4f02-a4bf-d512c295fd88</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1769</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e153b109-f8ed-46b6-a7af-34e9a228ca4e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1770</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6ff604a-9aad-484c-9416-ea063c3798f3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1771</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>666ae922-ab7d-4256-a0b8-d9957c3fac9f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1772</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>953ac8fb-0dfb-4294-b6e1-c6714f577b65</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1773</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6764e41-e3af-4147-b8df-473c40df1af3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1774</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>961fff2c-b9f0-465b-87d1-892f97a4c607</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1775</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0f1ae5f-e924-483b-a72d-23e66dea74ca</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1776</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>390a23b5-5a1a-419b-8bd8-e93c6dbc05c6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1777</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8dd44211-d931-46e0-b82d-e4b4a578c35e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1778</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfa95c4a-5316-4852-a353-d618f357787c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1779</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ec7001a-c323-4cb7-b549-2c4c2b3fa97d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1780</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd30f3d5-f998-44fc-996f-a701020fe0ac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1782</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef605b7f-8b3a-45e8-a4d3-752e0a6552b4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1783</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11c752a5-ecf2-47e3-b4b4-2efa62b004d0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1784</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69486090-f739-486c-9c61-312e51a98497</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1785</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9e1c0d02-d298-40ee-80af-9733dfe7ec96</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1786</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9c43738-25fb-42b6-8e33-5f65bbbe242b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1788</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31ac6104-9098-4cda-9243-f0212931bdb5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1789</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d286dd07-9345-4b73-98d0-59874ba02f24</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1790</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a92c978-c99b-4d84-ba00-906d6cb819cb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1792</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12fa2749-7fdc-43c8-9cbd-3c46b8dffc95</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1793</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd01c291-e4b4-49d3-beaa-908359e47278</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1794</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>40bae7b6-7cc5-4c48-98b4-02232bc54de6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1796</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e2333acd-5ef3-448b-aa77-b56595fd7b6e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1797</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>790edebd-3e3f-4cba-b4d3-9c2c55513ffa</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1800</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b809b5a-f5c5-44c0-a36b-b101eb20db93</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1801</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36bf58bf-9a42-40e6-a2a0-a1c555f5e670</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1803</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d718720b-46f1-423b-8e01-45624b0385bd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1806</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2bb98803-92d9-48dd-939b-8d30d5ceb2db</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1807</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>724e2591-c28a-45a7-ba50-17a67e74c901</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1808</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3595c5d5-3ec5-489b-ae0d-dfadd64e645c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1809</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac8d0f26-b2fc-4558-9c7e-c4fdcd77f880</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1810</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8bc4b66b-c3a1-4866-b06b-9aef848c2cd2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1811</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a718b2cc-8d4d-48d9-b629-be7e895ab28a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1812</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7258bce-e4ae-48fb-8f28-92951cf1bbf9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1813</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94623b86-b7f6-40a0-b48f-936ab756c36f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1815</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5f0e07f-4db2-4bbf-a376-a608c2f635e5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1816</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a37d3432-a89e-4546-b9bb-f6ef6b2f79e4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1817</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71a6b097-8d47-4b73-9651-0daccf496839</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1819</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e815235-ddd8-42b6-b6ad-55fcb0301440</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1820</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>045e8e75-2b69-431e-85ee-5112ff395e52</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1821</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f42d6ea-fc25-4d4e-a65f-53caf5d90dd0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1823</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac03666f-e554-4241-9f9e-4175cfdbef0e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1825</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a3d4e06-98eb-4905-ae43-ac4ea006a141</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1826</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5159b28-b885-4c57-b2c6-edeae7073f89</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1827</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2819fd76-a971-4e34-8aa3-18e05e35a5b3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1828</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea38133a-db96-41b2-979f-1660746f4388</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1829</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45eaf5d6-8cd8-42ff-899a-1ed12f7f10e8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1830</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b97d2495-1925-4558-a116-bb84c02223d7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1834</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65b7ea57-904d-48df-b214-5a3ce2a87e2c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1835</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>555b0584-4c6f-4151-8f29-0e445f2e8ed9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1836</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6abb3695-9ae2-478b-8308-35a1c10b3e0a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1838</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84ca4c5d-ec25-4d2b-ba67-3d1ea83a0509</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1839</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a5190d7-386a-453c-a5ec-03a6e8e8332e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1840</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79a06865-0d9d-4db5-9ce4-4c60107176db</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1841</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a873260-d001-46ec-8284-998f3304801f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1842</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9119da8a-5543-4dd7-9b0d-04cfe0e0bdb1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1844</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4733842d-2f86-4f9f-98c1-57e27d57918f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1846</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d73dc75f-07b9-4ec4-8aa5-ca78c00c33a7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1847</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>760719b0-5a01-4dda-9ce9-0012121eacc8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1848</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6764cefe-7206-47bc-a7ce-81b8f685b96e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1849</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7da65cb9-abee-4697-844c-d7b054e57531</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1850</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e4c942d-7718-4dbd-b53c-9095306341b9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1852</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>02efa0a1-e9b1-4df0-9dd1-1a70c6c52f2d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1853</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a87689f-9c13-4aca-afd5-1ff2691d0f94</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1854</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>787bfd64-1478-46d5-a094-e87dfe108691</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1855</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1964c1a7-2da2-4147-bf76-21fe07b96947</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1856</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a03e02e-ad42-4a01-abc3-ae5f06ddda7c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1862</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9cecd55d-6d40-4130-b9da-56df2de28f39</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1863</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>843d8708-b58e-4a63-879c-626aa008c56a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1864</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ee1ad81c-caad-40c5-8bc2-fb5f5ae3ac0b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1865</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4bef036-a28a-4e70-b863-6ef68ccada1c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1866</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f21a338f-8e30-45db-88bd-8d0b5745a20e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1867</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4a191c0-f19b-462f-9193-75c4a1276314</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1871</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2238a28f-49ab-429c-8d84-25dc401c19e9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1872</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e9a1032-9988-4cca-bc40-603b5d4f5dda</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1873</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>858d8009-1cca-42b1-8c7d-bd644a4d4f01</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1874</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9ee759a-8007-446d-a5d9-f863fa837c78</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1875</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24d08e86-04ee-4f56-bf6a-2ed6e8d176f6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1876</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cebeb0ac-39c1-4bb1-aa40-05ae6ea0ff47</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1877</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9105f213-c199-4ee8-a7ff-be5d612d5cc8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1878</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>641d02ff-54a8-4d9d-a6fb-f89064428e58</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1879</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>427b11a2-5339-4e6d-862e-a129b223728c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1880</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e13cf511-87ab-419c-b464-2d01c1dc1e43</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1881</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ea7bbdf-1c3f-4782-84b8-e9ff2398e3e3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1882</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8e2bf08-5597-4597-9ad1-792bdfd4f6cb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1883</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6836679d-138d-4814-9041-8146e5c0fdd2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1885</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32d75aa8-718a-4c49-9846-c64af7cd8661</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1886</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cacf2bcb-69b5-4e96-95d0-da62d546bbe6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1887</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62f602d0-0526-48c4-b8ea-9ceb5c47ebc2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1888</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a1874d7-14ba-4c85-8f20-48b4dbc0d20e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1889</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c3ba681-7d91-486c-9585-a087eee5c864</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1890</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52c3a2ce-1218-45a7-a309-5826c584c12e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1891</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55322493-f3ec-42a9-859b-19cd9600f715</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1893</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a75eb8a-dd82-4498-a10e-4ce72c82b3c3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1894</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e24f54f5-a054-4e50-9da0-e53832561dc9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1895</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>721df657-bdda-42b9-ba59-956c5e4f2089</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1896</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ac00ed2-5fd0-411d-954e-f60a7f4100d0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1897</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb63f28d-88e0-4dce-914c-886a9d23683d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1898</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>add88493-3bfd-43da-a8b0-760bcab14d7c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1899</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>120d42a6-5d4e-4848-8381-c15ccd24388d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1900</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3acdff4-a486-4b75-9752-fdbed79a447c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1901</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8e978fd-c911-4070-a8ba-4267b5cdc0cc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1902</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a96339b-139e-4f74-be11-ade3e27959a1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1903</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf579871-e14d-4d4d-962d-5d2029ab0318</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1904</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3dc43750-0543-4e17-b5d5-e5ba50d9d60f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1905</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36d148cf-f394-486e-b3f0-a30753b6502d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1906</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d18e943-a605-4887-a8c5-97c4cf346dac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1907</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7bd2e2a1-8b0b-4db2-a809-868c67d87ca6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1908</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2357d5b8-f064-4abb-a049-b5933ba2d662</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1909</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7efd102-b7a8-449d-a245-313fc532d9ae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1910</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd0fbdac-f43e-4343-8c15-665a2b542a89</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1911</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4026138e-9c05-4c23-8ffd-5776091b5ab1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1912</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4627df3-34f4-466e-9998-a9efaaa68937</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1913</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0cc9d35-4c68-470b-87df-c221d71626c7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1914</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58a4ff00-84d6-49d6-8de2-16829ed85841</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1915</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3acbb47b-a293-4c3c-8f93-7f5b56444b4a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1916</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2ffe82a-441c-4958-af00-9627c9bb8309</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1917</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7b6ead2-0128-44fb-8748-8f4a3ad4bb26</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1918</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>274d49e3-eb5e-459a-af53-74c739fbc351</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1919</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9635eff6-910f-4764-ad25-0639465c5579</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1920</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>084cb168-4fbf-431c-a3ce-fecc29d0178c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1921</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>235786e1-02f6-4492-b56e-fb79d9fec1b9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1922</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07a5b9c1-9b82-4e90-bdc0-8d98be0fd030</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1923</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91b5b558-f11e-4fbb-ac18-ff685243820b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1924</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f22d6b08-2804-473c-ab4c-044253e49637</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1925</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4ef950e-e8d4-431c-b826-305dc45f115e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1927</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83360c48-60e9-42aa-b096-01d0eb1b8d4a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1928</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6bcfe6c7-6491-4ff4-ae98-3c337e90b548</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1929</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76fd2782-ddb6-4e85-b30a-659b270c59ae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1930</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c870bd0-8dc5-4a85-859f-f13cc9c25d94</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1931</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3001a032-232b-47ba-a82e-96830e5b9465</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1932</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9d78cc1-43db-43d2-99d9-cdea40c8e799</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1933</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b1c950c-3e1c-48df-8b01-15a4b91c9981</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1934</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>42a9429b-7e4f-435c-9475-e2fb429b9f36</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1936</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f11e92e-39dc-4849-a28e-46397ca0715c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1937</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fefcaf26-0e27-40ea-9ee7-3a6b8f29372c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1938</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a3aef08-d73b-4526-875c-15d62055957a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1941</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e24a3d77-e714-489d-a179-4b6d7c6deefb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1943</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ceb32aed-f86c-4406-b6be-6e8706919f8f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1944</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c6edb4c-5b28-4897-a5b2-49d8aadac90f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1945</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd1026cf-3912-414d-b0f9-ae02dcf88785</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1947</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>124566d1-2c6a-49cd-b666-3e1c297eefda</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1950</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5382b4a-014d-4252-aa12-29bbb51bbe3c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1951</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f70d2008-8054-4f97-948f-6195ba357fc0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1952</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6b39490-fcb8-4c1f-8df5-deda11af1635</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1954</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abca571e-6d98-4457-a4d1-c629373dd2cd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1955</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ea5e9b9-0d75-4b6e-8ad0-504cb33461b1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1956</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf2506e8-fd6c-43f1-8c17-507d130ad93b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1957</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d2d310e-26ab-44ee-b3ba-4899572b7e60</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1958</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9c117f2-0ebc-44e0-b9e4-2601ac0554e4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1959</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d7d4e6b-beaa-474b-a719-5d1b535b2922</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1960</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbe757ae-baae-4a8c-800b-8cfac84b2714</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1962</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fed0593a-ced5-4a24-a78b-41394083d9ab</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1963</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4440061-5a8f-4292-b357-7cd11677d216</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1964</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83786cbb-f35d-46e2-b49f-45f706f99d21</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1965</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d14becc-0f5a-48d6-90df-4ac281426cac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1966</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d82e332-152a-4f77-87d4-7ac5a622b520</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1967</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c46f53e-dfe5-458f-8f73-4b3f767fd38b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1968</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>370b9e5d-bcbd-4071-bf13-d8c7b1a63e6c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1969</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de564a3f-b29b-40f2-844f-eda66ab30029</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1970</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64794530-5a43-4eb5-89b0-352f3a06c051</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1971</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>679fdbfd-49f9-4c36-a38b-bac9dc4cde9d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1972</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05a9cd5a-e15a-43b8-aec9-4f2149c2be7e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1973</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fde91f27-0c3f-41f2-bed5-a4c1d9081d6d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1974</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d3be402b-fbb0-4f59-be3a-6786b37ba1a2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1975</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd2fc412-ed6c-4154-afd7-d5df79a19c99</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1976</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>30de475d-b99d-49bd-934e-6e2e488fda61</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1978</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47e5182c-1fdc-45d2-9b48-ae0ed06ea454</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1979</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65720844-bb7a-4d3c-8741-b5784654cd40</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1980</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a327549-ad9e-4601-b4f9-9010f1f71d5b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1981</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23e84356-f9b3-4941-b434-6de0b4daaddd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1982</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4cb709ae-55f4-4f4d-9728-583f9cb8e9d4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1983</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98055c40-2aba-4c10-92dd-4232804050fc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1984</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12529efe-b285-43cc-a236-1efc0e0f055a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1985</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>976f3c1b-c060-4439-aad6-dc789782d3d9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1986</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29912010-0a9b-4e98-88d6-88e788aaaac0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1987</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>834598d0-0cba-4263-8022-fe124aff89ef</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1988</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63409618-86e0-4ea6-a1e5-ff81cc2f7e2a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1989</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>575da730-a0fb-43a4-931b-6ea309ffab6f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1990</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea47036c-e335-4efd-a8cb-f56a025e87b8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1991</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5d7b556-67a8-49ae-a9a6-7d8fcefd04a1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1992</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1218985a-49df-4eb4-b672-8bd2acf1c47e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1993</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59572beb-a2bc-47ea-8024-69dd2a8dfd6c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1994</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f547e45-a9bb-4e0f-b169-830e7b9a3c66</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1997</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fdee90c-1ca0-4bac-852d-323b3b952917</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1998</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3677450e-e049-4922-8ec4-a97e37b29337</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 1999</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2bbfe21-2539-45a5-aa2e-8cafe4e98ece</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2000</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df1759b1-dd8b-47ee-ab12-ab8be641a388</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2001</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0cc4989b-f372-42e8-9723-605c8db853ef</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2002</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>053147a6-5f29-4a2f-986f-84be42dba50d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2003</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65465f41-1767-4957-9aaa-7204688fee91</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2004</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7aa4866-9d0b-4ba0-a5ec-3f646850f7be</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2005</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f27b6a1-5c14-453a-bc0d-602e72403a17</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2006</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5c6ae87-1d2e-40ce-8e2b-66f8b4d835fe</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2007</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>239c3746-34e4-4362-b616-6886becda52b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2008</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98020689-38b2-43e1-93b5-8da2cf6f51eb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2009</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6af79356-3f33-4d75-8227-547720bf6305</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2010</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90e7b26c-703f-48d0-a128-4a0a2bca2ba5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2011</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ff1dbf3-423e-4674-860a-2645853ef923</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2012</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e98cb7d2-8848-4956-94c8-44f2b335362d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2013</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6c40cde-80e3-433f-a695-986c8308a19f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2014</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25b80329-d1cd-4dc9-ab7f-95e78884f52e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2015</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c6187da-a78a-4917-9c02-95706edeb828</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2017</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a05c6653-a38d-46e0-aaef-4495b35bf78a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2018</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1188be54-c005-4741-b2b3-899471c84e75</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2019</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2cde231-569d-45d4-883e-37670634df26</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2020</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58e90ef9-e662-4afd-addf-64a5886d3eb1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2021</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45705393-cd33-4aa1-87fd-e9ef3c4030d4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2024</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8de47e8e-f3ab-4ce4-ac59-1dbd9cd9d16f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2025</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7eec0bf7-2a49-443e-be3b-622567d38227</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2026</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1cdc8365-5480-4136-8e5e-54efeaf8228e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2027</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd218cb1-e8a3-41b6-8c9d-08c4154e1dd5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2028</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7845667-3925-4ed9-8a56-d2060f4112cd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2030</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b031bb3-044a-4644-a938-c5823e7a2147</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2034</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98a3d99a-b6a3-4635-a3ce-ed16ae51098d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2035</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80c0ee97-b15f-4131-9f7a-186a639a56c0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2036</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0677ada7-2330-40f5-bfbd-9fe3ab9b0337</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2037</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59d82c43-cb8f-4845-8b1e-68fd659b014a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2038</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94da3d5a-f8c9-40b7-a6f4-0634161779d7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2039</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32ea7376-871a-4c2a-b359-e98751c88aae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2040</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7811a005-45d2-4dd8-a528-d69750d8342f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2041</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4567a30c-a6d9-48aa-979f-8533aa8e084f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2042</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>49838794-eb87-4564-90ca-23c1e1759c67</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2043</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0f5d52d-3ea8-40a2-a13f-8ce7c96daef5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2044</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1139d256-6794-4ab8-9c8e-d7f56f6d65ed</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2045</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f09e0a4f-94bd-41bb-b1b2-e5234bfd6acc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2046</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1d569fa-2e5f-4688-95af-651c43473a6b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2047</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a17e4b9-4a5e-48a0-a363-bc026de10050</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2048</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e60ec388-a4b3-4a0e-8acb-e22d00e3979c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2050</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e47be04-52c9-447b-b02b-818708053dee</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2051</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ce584bb-3679-44c7-99da-81c89aa85f20</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2053</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86c1f372-3663-48ee-b8a9-733883aa3e8a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2056</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac7775c9-947f-41e6-afef-4ce15004f2f3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2057</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d336afe8-e5c5-4a4e-b90c-4934ffe715ea</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2059</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12cc5d85-fdcc-4658-82c1-a2d98a5c3329</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2060</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>016c914e-3678-4379-a37e-13cdf39b7055</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2062</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73551c4f-63a3-43de-8d17-2ed4e9aad36b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2063</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33bc488b-c8f9-4032-a998-6db7dc9aef09</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2064</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ad14305-1707-4a74-8a9b-550025d2a4b1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2067</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>806cbd37-bf92-4767-b7b1-7f26170158c7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2068</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72d9785f-4d89-4fa2-a265-999c081e2d7b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2069</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>758c3466-5156-4215-829f-40543cbd3070</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2070</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66d36fc3-8a19-4a7c-bad7-c4b9a0e6a8b4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2073</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d6d0b8c3-6242-44f8-80d7-1a5a23ac735a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2074</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60732e9a-845c-44d5-935d-7c5f2cb36f0b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2075</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66c77d25-047c-428b-a9d9-3717e9a50b2a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2076</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1bb3181-b61b-41c3-97d3-1e8c300cd0e2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2077</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2cba95b3-647d-4102-a7dd-0bc70d697694</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2079</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>edd27ca9-6004-496a-b870-f47f39087c3b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2080</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3b7074bb-9326-493b-bf07-b667bdc74394</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2081</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3ddf392-1620-4e64-9850-5ec21d8c5198</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2082</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a84427c6-2663-450e-9fe7-0bcd7a07990a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2083</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e189797f-9a77-4adc-b4c9-da64eaf6305c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2084</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5abb11dc-e5ad-4989-8652-838c068792c2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2085</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16cb8fde-e9b0-4db4-893d-a7efc55b8e7c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2086</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7cf60c18-c1c1-4b1a-9c2a-6a8735428af0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2087</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d16e6b54-4254-401f-a9c2-26342e583fae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2088</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>411d522d-5497-41ce-bfe1-a0464f6800e0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2089</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>160f59c2-62c1-42d4-94ff-3c7b10d54502</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2090</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af0dbbb7-5079-4650-a013-ee147996c469</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2091</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc17d0da-d20a-4eaa-ab2d-c4758beb9ed8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2093</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2fce1654-ce4c-43b8-b058-1c33cfab702d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2094</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e1a195f-28ef-47d9-bd09-5e979b36c7d0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2095</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65b90932-9b73-40cd-9f54-f64e3b233bb0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2096</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2e638c7-a1b9-4e65-bab3-e118daf96049</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2097</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f62e9a01-d111-46ad-bd1c-5968353ad428</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2098</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>404d9845-3760-43ba-a540-700777e099ee</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2099</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c802f16-e458-402c-93e7-ef2b6c1198fa</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2100</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff613573-47e3-4e72-874d-649cfcdb3eca</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2101</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>184b8f6a-4e57-4114-aa8e-f9c29fb422be</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2102</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b70749d1-b8cd-465c-be95-3baf2e288869</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2103</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>315ecb1f-ab76-491f-bb38-008a517359e2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2104</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd9bc49d-2271-453e-ac0e-0aea52c02a90</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2105</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63e44f2d-b849-4f25-a4e0-10b413f7d5ec</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2106</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e8f56ec-3988-41a1-a90d-b42c820229d4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2107</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91e4e7b4-a781-4499-87db-676307229edf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2108</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73be46b3-ccec-4b7c-9eed-8c6c102f59ab</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2109</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d23d951e-75a2-4f51-91f0-8130512f5c75</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2110</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b53f7d9-de63-4c50-ad3a-b439fcce5f0a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2111</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d68a3cc-3cec-45c5-b074-fc2dd93bd391</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2112</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6f41d8e-25bd-4a84-baad-a4d1674e5c45</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2113</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a1092d7-cc5c-4a17-9251-a9091130f737</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2114</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ffed1292-c64c-449d-ab28-fe0cce0affb8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2115</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b9d3d9c-ed7e-4704-9c68-bc9caf679ef6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2116</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6324fbf9-80f6-43ef-ae16-fe8dbfb013ce</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2118</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abccb129-9dd7-4a96-bb10-6880f215f2d7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2119</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>757e48ae-87ad-456f-8186-915b7c6a3485</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2120</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>675160aa-936d-4ad6-9d03-ad46d8c64ddd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2122</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>864ea859-ae00-43e2-b8e6-a47efc76e299</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2123</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a5c55d7-b3eb-4dc6-a51e-2d443f13caac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2124</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c95cfbda-542d-44e7-b1d4-0801e4dd3073</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2125</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f31f0b0-f3d9-4d6f-85ee-7cf3882c62c1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2126</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff43c728-ab56-4e99-8e53-c3054a09735a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2127</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>493f3f41-65b5-41ef-af3b-4f0d2749ce41</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2128</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76749ad1-5141-4584-a63d-809ed6a1a25d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2129</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdedab64-b1b5-4a60-ac49-191f51ea0eee</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2131</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a349638-095c-49a6-87ef-03661f6ca8f9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2134</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d648ae9-2380-413d-af7e-915df04039bf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2146</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e12d4de-3867-4a02-b198-19249390fbb4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2172</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a8f379b4-4cd6-4c46-9810-2744b03cead5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2179</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89fe1750-3233-4e7b-a4e8-69d26cf0d819</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2181</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c06188a9-c32a-4fa1-8201-354942c6246d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2182</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b30cf6ed-55c8-4521-9d3f-fbc2fe14712b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2183</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f66e254-1e84-4b17-b70b-bf186ce4675a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2185</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90044a20-8d62-4485-a60c-915c3cd81d98</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2186</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1bde4726-843a-4325-aa7d-eaac9cc44952</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2188</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1be23a76-1782-4b56-b0fc-01cb99f8fb7a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2189</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b699187c-3752-40fc-835d-9692f009900f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2190</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b308c7c-609e-49c9-9154-ce3e31e18d6c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2196</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>768886f5-29a7-4218-b077-8b55ffe506d8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2200</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19809674-dcd0-4117-ab66-c95ea4b36bf0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2203</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>effb4a78-41fb-4fca-8994-3bffbd37fd34</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2204</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aed38bc7-272d-420e-8c4d-61524ed32291</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2205</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b2aa960-684a-47dc-bd94-cf69c5409b29</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2206</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d6280047-683c-4da7-bb43-471bcb995128</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2207</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aab98864-8868-4937-b479-efdfbf01f34f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2209</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3880e79b-e1c4-4ad1-9167-65b7b4ce5219</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2210</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ffa4de93-f492-4fca-bdba-18b6e3a17c11</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2211</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>171dfde0-f33c-485e-947a-735614b3b2f2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2214</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3becbb3-a0e7-4277-88dd-b609ecdc217a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2215</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>922a63b2-0fe4-4c9f-a93d-02ba1c0a855e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2218</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6167995e-7bf6-41ff-bf75-730f4ced2163</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2222</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>080f86a8-4472-49d1-895f-de62ccf16de4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2223</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7a2124f-9509-4fa3-89bb-45732f6ce805</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2224</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d76be2e7-d045-4d25-a9eb-6df2b9f55253</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2225</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>09134f5f-9640-49b2-9782-2bd1fec34b68</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2227</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4e0ea8f-cfed-4e7c-8d71-91485d8fe5b6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2228</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4d61dbc6-0559-444a-ab5c-b3feb9f0b28d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2229</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2c359d0-13df-42d0-8472-c2f42d7f72dd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2230</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e33ba138-9431-40c4-9539-51b0abfcdcfb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2231</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd7ba00b-21fe-4ba4-86d8-54b05895d36d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2232</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf07ff0e-d9be-4ef6-8810-7c49c99bf370</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2233</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e5441c0-60ee-42e0-8caf-474c697f0193</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2234</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>333b6b00-34a9-48e4-9bcd-8d7bf0b6b500</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2235</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbc96ad2-0ff6-4d67-a8d0-a1ac1ed0321c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2236</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59b85522-6b46-445a-8054-34d355e971fb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2237</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81ceb58c-d011-400a-b30d-8895646b8452</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2238</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>888ddd97-e7a2-4b07-9fa0-0a9eb5e3f94e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2239</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>61ab59d6-2070-40e1-a49e-b18f7a326846</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2240</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8d065d6-4281-4086-957c-bc7dc3058d94</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2241</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a19cecff-4831-4c6e-ba25-dd546a2e2909</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2242</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11babbf1-70ea-4d99-937d-34c8820016c1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2243</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f9eca02-851b-4748-96f8-244d988536c2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2246</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f65ce2e-8566-4d26-9db4-2c478f8e0836</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2247</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>267a86b5-2b14-4da5-9e35-015840ba3008</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2251</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d7def5a-977b-47dc-9f2a-cafa33481236</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2252</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f108db7e-b747-468b-b7f6-0330fe6e68a0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2253</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c4d72000-5940-48c0-8179-3f653fb9ff0f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2256</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d5bb0f1e-c0f8-4106-93c0-1add82db8d20</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2258</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65874b69-5025-4b3a-8d3e-9f35d3c6f0b3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2259</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d73b7e0-ba6f-4e51-b288-0100790dcf2c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2260</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c321b48-1114-47b3-bb4f-76e1f126452d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2261</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8330648e-c37d-4719-bddb-2046772080bc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2262</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f419c905-acd3-477b-aa4b-e13892145da9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2264</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>779155c4-e604-4962-aece-64e669f369e0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2265</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>51d1e604-9c0e-4e43-a330-1a4c89d1a0e6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2267</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>566ec1d0-9206-47b2-8fdb-a0cb6564e1a6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2268</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>babcb836-b8af-4e13-b5f5-db7ddcb2365e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2272</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b983fb86-2d2c-4f81-adf0-986247f1e32d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2273</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c842378-fe98-494b-a08c-aaff5ec28143</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2274</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65a4d582-d11a-4bea-a453-bb984e394501</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2275</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6de74df-ee09-4e93-a894-b329b1913c8b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2277</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4173c09-8b9f-4582-80e8-39525525356e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2278</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c04c2a39-00fa-487e-9530-b98daab6c645</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2279/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e8b82c2-4087-46e6-80e8-9d369d01ebd6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2279</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83b17d33-0494-4c55-84de-4f50eaff1123</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2280</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>221077bf-5d38-4e88-b7d5-4eabdf88f67b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2281</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ee565fbe-9f53-465d-b928-57d006581da0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2282</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d0d6c43-bf07-49df-a675-1627a86b4880</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2284</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f8e7343-1edf-4582-a114-9a468e49c219</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2285</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d697472-078d-4594-a6ee-87daa9c7a8df</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2286</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73782b83-3f1b-49fa-8dde-46fd298eed73</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2287</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8aa45b4b-ce5d-4fc2-89ec-0a36b00cd309</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2288</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0275b441-f1db-4d69-8da6-0aa93725b342</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2289</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ff31302-4806-46d4-8ee4-c81604b5d0a7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2291</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7778b32-7b49-4801-9c34-b796011f1c9f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2293</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f15d729-1398-4a12-b5f8-99d1cd124986</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2294</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f923f15b-db81-460d-bafa-2769125d2dc5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2296</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48bc609c-1d6b-4a2d-a236-030acf93bd62</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2297</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a9018cb-c949-497e-9ac9-e3659557c5a1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2298</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88ed2f28-dc84-46dc-8b99-d9a9e0326c98</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2299</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66d9bc7f-fba5-47f3-b81f-89a014cae360</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2300</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>158d69ef-a5ee-42e9-9f85-0cabb3716202</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2301</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3029ff69-e701-4d3a-aff5-26b1611ab68b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2302</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ab7e956-3324-4481-9b16-42a0589688b6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2303</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2893f8da-ca0f-4d24-9b96-b2257b528f43</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2304</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44b2b679-0c6e-4427-9e94-149086501632</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2305</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>089b753a-bec1-4dc5-8617-6fd8d7863df1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2306</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c87aadfb-c0a7-4e25-bf99-138e0d895c37</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2308</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3cd7546-a5fa-46ed-a6c6-4cb103543f98</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2313/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d8601d20-27e0-40fb-a299-33f637c92dfc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2313/2</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3e28685-7183-4205-896d-8a2852a0ad62</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2313</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d26dd87-f93c-4a67-b404-abc6ecb25fdf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2314/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac1e3665-b1a6-4705-81f2-2b2016746c32</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2314</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec6c1728-2963-4b84-af3a-b7ede30384c9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9e24dc45-5c7a-4287-9b7f-dd912a03a11c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/2</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>792b91a9-6663-46d9-818d-1e27e6ebd056</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/3</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce1bea40-5bc8-4d42-b54f-a3a5f9057fbf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/4</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f54f979-d206-43d6-8e33-769eecfe9ee9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/5</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7778b747-6bea-46c9-b7d0-a0c1e57a4dc3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/6</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9cf90768-8a39-4c0b-93a0-191ccf146ea5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/7</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6df0c23b-92ec-40d2-af89-76f9895b0efa</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/8</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d9d072c-7689-4f93-87ed-4690ce690660</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/9</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0541e1b4-a7f5-43a5-9ad3-15a3b5b54382</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315/10</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6517a049-88c6-4847-87f9-13ba782d76a2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2315</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>27315a33-2380-461e-aa33-d7aee8876e86</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2316</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3ee345c-0501-4d8a-8b77-752f73ec8234</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2320</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2039de12-9843-4bde-aaac-a4dab471a98a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2322</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88129ee3-b91c-4b4a-b839-e4e48df65dd4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2323</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06997712-8a4c-4617-b346-da7428441cef</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2326</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e67e52f1-0f8b-445a-b22c-30b73ef9e7b1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2327</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c900efb9-b8db-433a-8e0b-3b964890ecd3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2328</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d39488c7-9469-4a72-a003-297f190aff46</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2329</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2bd74aa7-0026-4cf1-a5dd-126286b8e3f1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2330</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58ce781b-81f8-4ba7-acf7-c041e7a5d059</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2331</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b21abb0f-f1b8-40c2-bd56-21c38f7c23ae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2332</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88af187b-e5ab-445a-a0e7-de7a0d22b79a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2334</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b41ecae7-5db3-4278-a56d-236f35f72755</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2336</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>786acd50-3c6b-4a9b-bb59-375f7eb11417</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2338</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1c33c0a-310b-4448-b47e-755b3e75285f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2339</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9462db1-3669-41d6-bab2-2ef05f3c047f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2341</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>685de4e4-c0c9-4609-bbd4-b06a00cfe489</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2343</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>419c4549-ff47-45a7-b2da-8d2dc75e6be4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2344</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed0077df-b468-4fc2-8da2-a411592b28cb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2345</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2255b4e-b0cd-4cdc-8216-fc6df736d6d0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2346</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>212c6dd0-c1d4-4c2a-b981-a811acb99e3d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2350</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2e7a537-9b0f-48c0-8f67-c6d5e2f3e81a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2351</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb285380-37db-4c31-a472-af862ae98df3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2353</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76afea48-c7c1-4e4e-8d71-b18be083688c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2354</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5063e7bf-8850-4089-a467-5f2ce83379b5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2355</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6bf76f4c-aead-43d0-84cb-54557de3ceb7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2356</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35446b76-86fa-4fef-b9da-9291f63ee221</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2357</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77029bf0-1865-4f0a-b80e-1d5e27356923</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2358</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd7f7e46-20cd-4312-95c2-83f5b6e6eb74</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2359</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9947d56-bb79-437e-aa35-68789917abbb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2360</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abb1c95e-e7ac-49f1-b43a-269677fa39e2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2362</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8aa16fe6-2a71-465b-b5fb-735f4cba4dca</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2363</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58dc2655-8380-428e-af68-1eaf20f4aa16</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2364</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72cae405-c066-404a-a691-bf14f287ea67</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2365</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1cc6cc1-c2d2-4485-aea3-52070b452740</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2366</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>564beb4a-d850-45ec-8e95-8d8fc3ec10ae</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2367</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>262d9e61-681a-44ae-b4c0-c0b183efa158</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2368</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c0a762f-282e-4565-bec1-24d7df44268d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2369</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>905c3574-ee3a-44b4-9ad6-64cf9291a6e0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2370</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aec92c33-dd2d-47a3-8f1e-aff09cacf503</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2371</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2577a76c-3e3b-47bd-b903-d7641283b0ac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2376</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1245df8-1d66-49b5-a6d3-9b907b814c83</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2377</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8308c9e-08ed-4dd9-93c5-dceb5a42e09c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2378</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47d37de2-4e85-42b3-a266-4518a0cb31c4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2379</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60491a07-8caa-4743-808d-f2088699b7de</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2380</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5366609f-92c2-419f-a9f3-8fbe11c182dd</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2383</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c96bd937-cb55-48f3-8d95-28d557df3509</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2386</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab60e64d-552e-4912-a986-691ae3cc9a24</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2391</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44a0fc8f-619e-4608-a967-3f84d1394a11</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2392</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06807434-e636-4cc9-b51c-476fcc9ab967</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2393</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2781eaf9-7c23-4310-ad01-dd7328029814</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2394</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fe5f1167-2e0d-41b7-bcb4-ac2ec383ae44</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2395</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f754d83d-40f0-49ab-980c-388932ab1145</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2396</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43898218-d0d7-4b4c-97bc-edc6a5ad1720</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2397</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>087e29a4-541a-4e49-8858-8558875d2d13</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2398</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a9d19cb-3f37-4a81-8efc-4f10987c5806</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2400</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9be251bd-db3f-4848-94e8-23608720ee89</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2401</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>818ba586-4b4b-4152-8bff-e3133ca8a917</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2402</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>09172c51-3af6-4636-ba2c-6452718b4b2a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2403</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd7e5f59-165a-411a-a7ed-2bb4489342ed</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2404</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28880c6d-7114-4c08-9f45-b9adc5c0234a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2405</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86123016-9eb0-47a8-9c23-287cdafe7bb4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2406</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eaa76158-4625-4aaf-b3c0-ffec8f4bff3c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2407</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63d636dd-5aae-4a47-8466-14987aa726fe</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2408</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>425f4d32-09ae-4270-a823-4d819c082a48</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2409</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ade25c44-9997-4bf4-8d9f-f03fa154da99</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2410</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c95e158-9577-494a-8d5d-5a60c7f3dc29</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2411</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de1eec9a-74c2-48cd-8114-c6ca66291e27</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2413</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c3975ab-66e9-446e-a231-6eb15d5071fc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2414</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>330a0a51-dde2-4eb3-9a7c-ee161746ab4d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2415</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>904e8c9c-599e-4eb9-9189-bc61b25f5b22</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2416</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d758d8a-d607-48ff-86f3-b2633a81fdb2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2417</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5aabcddc-5890-4b9a-bef1-805513b7d0df</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2418</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c3133b4-a7a8-4081-846a-093d005f188e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2419</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4014406c-d3c1-4e0e-82b1-ae83c97d9e27</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2420</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ada63874-c43f-4c2f-a6ea-25db3a83c609</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2421</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39007111-4977-4d18-9cda-98860e8d76a0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2422</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e4e71f3-a737-403d-a2b7-45da3054279e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2423</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47b90b77-b289-40ed-a116-bdf33d7deae7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2424</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdf1bf87-f1c8-4d56-978d-7b89e0ae6e21</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2426</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5f62980e-e0cc-404e-aa52-73c468c29517</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2427</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>68dd6990-7d8e-44ae-9b33-7a80b289345e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2428</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a16fd9e9-fdf9-4844-92e9-e48d76572a3d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2429</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a423eaf2-d37c-4350-9227-ea072d460f91</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2430</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab2fd6e0-6c11-4528-8fd8-63edf9d53783</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2431</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9699e19-7ca2-49ee-ba0e-043ff36c65cf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2432</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74df3044-d452-4c3d-baf4-fe626427f2ea</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2433</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>369e863e-54b4-43d2-9925-b3da738154a5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2434</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad77ab24-6048-4553-aaa1-99b847b73ad8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2435</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f02b6ab9-d069-4bcf-af64-7a516d206f35</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2436</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d2a35d4-8875-4935-8acf-a4520d777264</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2438</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9d8c65f-036e-48a2-a10a-786cb6117e7f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2439</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fcf1d840-34ca-4314-9dd3-4940ac8d7336</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2440</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45b413a5-4964-4c7a-acb2-2074088cd3ca</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2442</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c8156b6-3061-4d56-bf97-97b520f1c8d5</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2443</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a8c3d479-c905-40bc-8f4a-023b81ff3490</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2444</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef681f35-f2d6-4880-863f-91c58fcb5f0c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2445</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b42ca6c-5a09-49e3-8e93-adb87d8f184c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2446</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>27b5037a-6846-49e3-9038-6775fd5ca88b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2447</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07b899c8-112b-4e54-85fc-2dabb88e2589</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2448</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8cbb45aa-5733-4fb0-bfad-8df88b51bbea</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2449</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd6e6f53-2979-4ae7-9fee-9ac2593562e0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2450</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>09963844-3f39-4d8c-8246-2e6a5d1359b7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2451</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>efea423a-6283-4d23-aa3a-ddf683f0b12f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2453</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce0463b2-7ad3-45e0-be8b-154e435ac205</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2455</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23818a31-e2fa-430f-a890-f26964f6fd13</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2456</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5acf267b-eaf3-4d7b-95dd-2ce6608e5730</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2457</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69cf9938-1a0e-40fd-97d4-ed56033fa81e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2458</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50a11d1c-b478-4e39-9903-ecdb20f0d1e6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2462</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>334cf655-0189-48ea-b59d-bd6b0fc8c812</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2463</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7ad46f4-1977-4fae-95df-8e00507900bc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2464</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>272c5a3a-b416-4d70-9a48-5e39a13f4ef1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2465</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f25d8b93-9d8c-4801-a6b7-075e10b79b3d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2466</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>17405181-cc26-4102-8eeb-871dfaa0c3c8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2467</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c460add-dc00-4064-9834-da5602cc8709</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2468</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>117a00f3-f3ab-4c0a-80bd-dc3160e9f36a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2470</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>575bb42c-bbd0-4d63-a6a1-c2a7cb055b05</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2471</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e70a3fce-3cf9-48e1-a486-84c52c976afa</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2485</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b69a3a8-91bc-4bd5-8655-bd87a587d041</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2486</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ca06e1b-dad6-4ed6-aa70-998b1fa970a7</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2487</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28ea8b1f-7848-4950-8348-b4978cb1d86c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2489</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfacd968-c5cb-4085-82f3-0bccbe2997ac</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2490</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4b603332-f5ee-4ccf-847d-28261f1726bb</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2493</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>95e2da76-76d7-4b16-bc59-885b6225a4ee</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2494</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d00a2a53-dfcb-4365-9375-552eb897dd01</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2495</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06d4520a-a775-449f-86bf-dd73036a3847</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2498</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9d5d138-e2f8-4055-8859-188411e25915</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2499</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>914de14d-0a11-4df5-8685-f85340f639c9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2502</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ecd932d-4318-40ba-9803-1abfa6f7e88c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2503</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90cad169-28ed-4e99-8301-2ecc3cb74eaf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2504</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>573fe994-9742-4553-9cd4-1582af9a39a8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2505</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d72e9846-9de1-4680-be20-e7ecdd592b64</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2506</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8bc98d29-8ccc-4929-9486-62f53df01483</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2507</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c0a571f-5232-44ce-9ca2-509dffabdfcc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2508</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89b51922-0dcc-4469-a97a-f17e1a5686b2</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2509</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67fb1275-5b45-42d8-a21e-4d41a0d3ede4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2510</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4035e0ae-414c-4410-83fe-77ac3e58621b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2511</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>999ca676-d0f5-46fb-a0ce-24e43be37765</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2512</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a8dd391-edf5-48d2-96fc-e10101d7d719</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2513</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>40c228ff-1817-4e71-a156-2ebae3367bd8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2514</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6bfc6942-b287-4b14-a15d-9724f9ce9a60</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2515</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36295348-34fb-4516-88eb-6ea5000c46af</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2516</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7e68b33-402d-4563-a52e-0c45a8c21423</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2517</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd7de34a-c5bf-4535-bc71-e88d30e089f3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2518</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa350991-5f65-47ce-89fa-8c1f6ac81e94</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2519</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>96d82f5c-133e-46be-9008-187887b2e0e8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2520</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07a22033-cec7-4f49-b03a-c8ecf11d6f56</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2521</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea48cbb8-7651-4ff8-86d3-7d7c41a02f55</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2522</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1026a6ae-06ab-4dbd-a77e-3221120ee54f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2523</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>699483e5-046c-4a6a-95fe-33594f628ec8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2524</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48b7c0b9-27a7-4f35-9f41-789e45391e64</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2525</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9f61b80-c4ec-48cc-bb9f-8f7eb8997c10</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2526</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed0c62d1-42c2-406b-aaca-da24a0027f76</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2527</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c5c133b-27c1-4022-8207-abf2397999f9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2528</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f6d873c-78b0-4d08-8b24-56674d2b6b59</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2529</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85a003a0-5780-4044-a286-e50005d7fc76</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2530</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be5b2190-b0b3-40a1-a925-84a3ed3b2fb3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2531</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9b85354-4760-461c-a0ef-4261cbf9a041</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2532</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31b3b7f1-2492-4f84-8fc5-80b7d1a432f9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2533</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64feb341-36bd-40a8-82de-5b03a8c46cd0</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2534</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1bb3665a-1d45-4743-960f-7fa8c9567cd3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2535</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19f85068-cca7-49a3-9a83-2e1fbf02dfdf</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2536</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70453ba1-975d-45b6-8945-11260c576b89</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2537</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf2b7a34-d394-49ff-9db0-71861bb2e37a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2538</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04bf9be8-39c8-4162-8180-fb8e5a718ba6</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2539</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7792e056-8799-4777-b75e-2cdbd640329e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2540</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf598e7c-1270-4102-b87a-c83d44247db9</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2541</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6832a650-42f2-4ab3-aff1-03596dcacef8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2543</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>41540888-742d-42f0-a7b6-ad1e3a01c9e3</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2545</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b67e9da8-7b48-4e4d-b348-276718789d95</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2546</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5bf2fd97-8338-4a75-9c85-e791c6a87955</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2547</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e25511b-c5bd-4bcf-823a-098a2ca995fa</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2548</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf9722b5-7b31-46b7-8e08-f7847033f62f</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2550</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>611b490b-14f3-4c15-979a-fcdfe18dc639</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2551</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06fda5b3-6ad3-494f-bb3f-87e208bd1243</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2552</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38c1d17c-0fa3-441e-988a-332805398223</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2555</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c72bf03b-a837-433f-acec-41c9cb0da852</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2556</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c50abe3-6788-45f7-ae9b-74bf6a307357</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2557</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>180a59f4-1aee-4137-a583-ddaf479cba7d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2560</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a603c7a2-d8c5-41b4-b836-5ad3a891ecce</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2561</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7906643-6e52-4b5b-9855-1bfc38e5a2c8</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2562</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b902812-81de-4630-90f3-acf395ff0eed</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2563</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9fcfa691-adaa-41d2-af8b-8cb78f911b48</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2564</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>053f2ba6-6dfd-4d8f-9392-3547be78a51b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2565</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3fa357b9-27eb-4173-ab7c-e2161e1447bc</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2566</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0b97a5d-1783-4f8b-8916-6768df5dca3a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2567</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4fc6b859-d420-4980-9fa1-434a2c0bbbbe</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2568</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5060b189-3d3a-4ee8-8c5c-1a77ee3cdf5b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2569</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d09053e-1f6a-4866-a64b-e42c5d0c7058</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2570</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d603d5a-c6f3-4e83-879a-1dfaf5e4c05e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2571</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4b2e3e0e-a293-4142-8700-ebf34649d517</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2572</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c001b057-cc62-4688-8abb-0c3585b88d30</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2573</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39a04cf9-6eec-4d12-a7e2-246342f86555</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2574</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d5bdfb62-b95f-41cb-963c-cac3c9f7d212</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2575</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>777d9f79-b2f4-4921-9daa-84d93e3f3c33</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2576</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>118b336a-5b23-4a1b-9f29-11b5e5202d3d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2577</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8117a89a-0fc2-4465-a0d9-c4a3b2e36f22</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2578</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73c31d7b-4b05-407b-b373-961b172a360d</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2579</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b601442-bc94-438e-8165-9994ec364fb1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2580</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e84138fa-ef4a-4884-8240-b5c16042adba</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2581</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d54f35a-9388-4e03-b12f-615a820d8558</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2582</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb21fa38-c5b2-4e78-ac4c-b7252ca84a90</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2583</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c4fff56f-b067-4a0a-9be1-8f68b797f3c1</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2584</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55020557-287d-4a53-90e8-c167e92ca86e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2585</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b945044-d36b-493b-a718-e714f782b81b</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2586</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9bde49fd-b5ed-4492-bdfd-ed93320769e4</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2587</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26f2fc1b-4aca-4003-ac53-0d70e7b9ec6a</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2588</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c9f5e0c-5984-4909-ab2c-35a246c35120</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2589</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d88ac3a2-27f6-46a2-8136-3b7e497db558</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2590</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77d37d06-2e2f-4793-b5c1-f0ca73ac76ee</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2591</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea8b8d0e-3328-4ffd-be67-287a14aad05c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2592</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>417a281a-e728-49af-8766-c083d8dc9e04</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2593</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>686f3bba-4100-4963-a5e8-9aa93e631a12</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2594</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d25660d2-c664-46cd-8853-babd78646b6e</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2595</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3e68328-30a9-46a7-97da-63609d3f979c</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2596</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8eaeac73-ff08-454a-a545-14bee1b36600</uuid>
+            <bestellsignatur>BayHStA, Jesuitenorden, Kolleg St. Paul Regensburg Urkunden 2597</bestellsignatur>
+        </archivalie>
+    </archivalien>
+    <export/>
+</Auftrag>

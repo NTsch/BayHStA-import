@@ -1,0 +1,2924 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auftrag>
+    <auftrag_id>e9cba9be-c2d1-43ad-9ac0-395ec6366a1e</auftrag_id>
+    <comment></comment>
+    <user>
+        <kennung>gda-hubselig</kennung>
+        <email>Hubert.Seliger@gda.bayern.de</email>
+    </user>
+    <archivalien>
+        <archivalie>
+            <uuid>cb3014cb-da20-4e85-83f6-5ef8bf6a53bb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0f4d050-24a1-4d1a-a978-7dabf3b039e3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 2</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab2ef965-eacc-4cd7-868c-828377e331ca</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 3</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>992d719f-6a2e-405b-930b-34c2831aee02</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 4</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>895a4346-6c37-4480-802b-13815a2bbaf2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 5</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d07ad75c-4e9c-48cf-8715-b8be80db7fe7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 7</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b25c9dea-499a-4866-847e-f919a23b205a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 8</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>050112c5-30e7-468a-a95d-78b52096cf82</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 9</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cef313a1-79c1-48ed-85c8-38ac4026bd09</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 10</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c91e7a84-7cdc-4c88-bfcf-8627160d64da</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 11</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a321737d-f25d-4145-8164-c3ba01802f9f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 12</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bcaa8f38-fa4d-4240-9001-51ecb74773d8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 13</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a84e0dbd-39f7-4b88-a212-384833763e8f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 14</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9cfbd9d7-8ee5-4a00-b35f-4ba65f70359d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 16</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ce570ef-75ca-4ed4-ac31-ade3b886d140</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 17</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4d0e3968-4acf-4eea-819b-78d31a3e5231</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 18</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c915eed-839c-4503-9354-e0ad3eeb6611</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 19</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58861dd6-4efc-4d48-9472-c12c0bc4731e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 20</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6294acd-6770-40eb-b8e3-58bbca87a1e9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 21</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>edb265ca-36db-46ef-8e9d-58618488ba3b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 22</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8bc8fa28-7e36-476a-815a-0b45a6711b0e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 23</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f06b9bcb-88fa-4014-85f9-36a37c957019</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 24</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3222a119-93e4-4c09-9d40-43d0c02bb2e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 25</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a7073ab-c221-4822-9b70-2033a398c1ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 26</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>900e35b8-282d-4398-95cb-addaa0395c79</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 27</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cff7b01b-e1b5-4b4d-a92b-2416e16dab41</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 28</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f7762f5-3d8b-4cfa-88c9-7e112d6145f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 29</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9fdbcc4-58fb-4870-ab25-74ad7816a459</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 30</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>388c2946-f637-499b-ae2a-2b2e2aea931b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 31</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b61426c-151b-46fb-8e61-0fa87ad37150</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 32</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26ea2d66-defd-4a18-b398-72f27f1b03bb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 33</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>96da1426-727c-4340-a8f7-167324e8f05c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 34</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f9bfe44-ca1b-405e-8385-7599a7b33529</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 36</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54ca4898-7828-4d70-9e73-92fbd07ca587</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 37</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac45b7b3-406c-429a-9ea8-99a1753be512</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 38</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7de9a0f8-6926-426b-a3a4-db6dc4a77155</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 39</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de46fc2c-4c04-4592-b32d-8d5cc72d8c23</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 40</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c27c2983-b216-4307-878d-9225e9a05c77</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 41</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>185cf24e-941a-4cc2-baba-a97d4664c491</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 42</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca76f736-b6f1-4de2-a92d-9f45a7eca4e5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 43</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad99121f-5f7b-4bf9-99d8-cac7900657f7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 44</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11fe3d60-a264-45b4-832d-5048e7dc758b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 45</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f1cb6307-9e89-4aa7-b2d7-f1634b2eb741</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 46</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2bee645e-c12e-4657-875a-99d105e9b3c6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 47</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7af3e248-fd11-4034-b3fc-cd127c30838a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 48</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5757315-4066-4f70-8707-dea55b7ca523</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 49</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5d5778b-58b9-4c53-8512-3c108ce3c4ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 50</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25c6cc57-a009-4546-9e46-ffcbc3c67a64</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 51</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa56492a-bd53-40a8-a57e-bdcc369431a9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 52</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56f3330f-5009-448f-a337-aff48c44832d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 53</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>317217d0-e8e3-49e2-adbd-f8f88831fc48</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 54</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbf2fa22-4784-46e4-9dbf-156721b9a258</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 55</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>526aad70-8e7b-4d18-b2ff-48caeb42542d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 56</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12648ec3-5a00-4e33-a1a1-b96055f96989</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 57</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f89de76-e1e6-44c5-95d6-4f8715eeba28</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 58</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a09b3375-509e-45e7-ad38-6f95b5649e6e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 59</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa5c4ed7-76dd-4043-952d-c3f63808c691</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 60</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69404973-57a1-46ed-b595-3b87c722dd01</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 61</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d4b60b8-2248-4d47-abfe-11e1b35bcb26</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 62</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67d4b2e9-6033-4c72-a6e2-38eb1cdb5d18</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 63</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d528527c-9ce4-467c-8d0f-3b0056100840</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 64</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fe377658-2355-4982-8911-80fb46e3795e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 65</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3bae95b-1449-4b52-b578-e14ee62d0cb2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 66</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c11ad896-f8ed-474a-bc78-9335b08a18fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 67</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7eb7044c-5cf6-407d-87a7-4116a83e2831</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 68</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb4d48ad-83ae-4187-b039-0d8b88cb575b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 69</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e47c5e5-a0ec-494f-9a93-9c8dbdcf464b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 71</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f955ab1-135b-46e0-9ca7-1f8c4110aa05</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 72</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ade476d-f7ed-4a97-9fd0-b833e3748d5a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 73</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5fc151f-9e51-448e-9f07-ab7aca0f4c48</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 75</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2733ac17-e6c2-43fb-90ba-0dabd80e3ee1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 76</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b83838aa-10e3-42e8-b678-00a00cee72f0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 77</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4ad27c3-e306-4b7d-a6d2-74b22ec9051c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 78</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f89c72cf-8f14-4321-849b-901b8276887f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 79</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5e88ec9-c37c-4674-b9d6-f54e38519ad3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 80</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01c4010c-62fc-4e31-bddc-5cadb195cdb2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 81</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4427780d-5f5d-4c21-ad79-7919fd3576f3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 82</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07b020f8-7f36-411c-980b-31f923589d9b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 83</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99ceef58-2c8a-4a2a-937e-737a09377cc1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 84</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a5137da-4859-4d8a-a623-c8f2c16f4dba</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 85</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>854f1a3a-1496-4599-9f28-98f730eba942</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 86</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5dfad5f1-3f59-4744-8ecc-7082da70d4b3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 87</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cba17257-4294-4c68-a970-a7d4a40f7a3c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 88</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f1d64d1-3f4b-493f-90ce-645f994ccf7b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 89</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2223e05-42c4-4c76-922f-b7d9ee4ea3f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 90</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a765dfd-d9c6-4e93-baa3-a5a3a25b226c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 91</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81bd7deb-e180-4c99-a731-ef0cfccd0b83</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 93</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1ab2f18-24ac-4de2-a395-55b8bb55360e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 94</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b72af53-b299-454f-a4a2-c0f5cddc025f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 95</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84c71efa-6f87-482c-bc34-d7437d13b45d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 96</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7587b3d-be83-4159-810c-f7872166e5dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 97</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a81dcd4b-a3b9-4a86-9ea2-585ba0fc6679</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 98</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3a1f956-3964-4a0c-b9b0-26284d1c9fd0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 99</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4403939b-45aa-4533-8944-3c53a8dba6ec</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 100</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>215a32d3-d2a2-4fc1-b02a-4c849d8f9eb2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 101</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b098de2-a23f-427a-bdf7-ecdb2bec1027</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 102</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9025712-8e59-4bbf-ae86-0b532090934e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 103</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a308b9e-f708-4192-8aa2-acf08fda0f3f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 104</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2a4ed4d-bbc4-446e-8677-526df0bc9b32</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 105</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa4d131c-3c64-45be-a44a-949bc849236f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 106</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f382ac2c-3fc7-41a7-bd90-804d82855a76</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 107</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a22de768-64dd-4de5-bc98-b0bbdb0535f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 108</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a854cd46-1d68-4efd-9edf-49adba210041</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 109</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ede2c2f6-4e12-4f60-8918-ff04cbda8563</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 110</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4bad2d6-7d20-4a76-a007-a6bd20c8ba4b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 111</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>653a66e8-c6d5-41ae-92f8-2551a312bb71</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 112</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4ca526c-c1c4-45b1-90c4-e7a76533836c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 113</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c598ecc9-324c-41f7-987e-a9880ca81e2f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 114</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97d1df5f-95f0-42ef-83af-6e27f9388273</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 115</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eca1bbfa-8227-48e9-a0fd-f5671e70cbdf</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 116</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc43f1a1-cb79-43e3-be82-1f45d764880b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 117</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>047f0d95-3a9e-4cee-8d76-62d2a0a090d4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 118</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>963667e1-ce64-4150-9a79-209382152ada</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 119</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f206cdf4-281d-4e3a-b993-8bb4eb248ef0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 120</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c5e4ae4-5cd5-4751-8e7f-7cedd0274ff0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 121</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4de9c4b4-d842-4a6e-9a3a-0cf9a1a92d2f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 122</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed5c70af-cebb-44ed-b9fb-18a692202afa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 123</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfc5f162-f7af-45fc-805b-2e60deb8700d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 124</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>185267a2-f906-4c1a-b101-d52600034d18</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 125</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>13e2c7e5-9509-4ff1-a5a6-74b42e07d3bb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 126</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b9b962a-4d8f-4c9a-9adc-c846a9c19dab</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 127</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>34a12791-b510-4992-a8f8-5febb8f3c0cc</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 128</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e2e66d9-710f-4ccd-bbe0-eb0f463f6000</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 129</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>10b5ddba-758d-4fdd-8f3c-be26b7e6c1c2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 130</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>edd9a696-bbd5-4b7f-b670-cb2c5f8d95f1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 131</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>127c1d3f-62f8-478e-b6a4-ceeec1aef7ee</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 132</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15c3842e-be91-4754-bbdb-714785addc46</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 133</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bcb56f6f-cf61-436d-8c00-816ccda621f4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 134</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3e88836-6a7e-480c-b080-b812f0592662</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 135</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0117b8d5-be4d-4e18-b9a5-14a2835f6fd0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 136</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ceef0e5-b407-4e41-b49f-34d55cf3d07e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 137</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d248057-264b-4f69-b172-6df34b02107b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 138</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a024197-ee9f-43e0-8b95-40277f121d13</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 139</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a08872fc-d275-47cf-99f0-8f8c13a9f587</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 140</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad3ef89e-9673-4514-96b5-3ac91913c5d4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 141</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>937fac18-5fb5-4a02-9077-c33fbee5aa28</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 142</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abb9bd81-1286-42b2-8688-bed7f2c49840</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 143</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc2756c8-84ad-431e-8f4f-76b3ccaef13c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 144</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1947de99-24a3-4e80-be44-5ff63fda9124</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 145</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1cb8364b-ecbe-4a02-b114-02f42076fd0c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 146</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d86bbe9d-50fe-4316-a5dd-9755caaaee1e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 147</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>825ee7b8-e3b8-4f0e-8643-f168eefa051c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 148</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e86ec068-ee49-46ec-a2c4-688f83376aaf</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 149</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab7539e9-5c4d-4ea4-8414-50ed80bb52a1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 150</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>87e81595-49f8-4f59-a1f6-26e84b67aa11</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 151</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d942a46-00e8-4515-a92d-5ad953473d86</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 152</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6989bb06-224c-4241-a574-4d6185b677c4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 153</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0dbf7113-bfd3-422a-bec1-e410b56b20f5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 154</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d1e797d4-cf2a-4ddd-9fcd-bdb2b85aa2ca</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 155</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c9032a9-926c-45a8-9431-b7c1162cd472</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 156</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70f394d8-c485-4ce6-96a9-5dcab3daafc5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 157</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>caf90b66-fd33-4b9b-ae0e-56683b9cd416</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 158</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16656e5c-fd43-49f5-aeb1-1f30e12f086d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 159</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59b7347d-9098-4f53-b0a3-1acafa170aeb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 160</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28f11ff0-226a-44d4-87c6-a3bb83dcc9ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 161</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71386582-52c2-4a16-86f4-f675f0ff1885</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 162</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>18d05f08-9626-404f-b2c2-3c16ff828ef4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 163</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fe32f715-c9fd-4c4d-ac27-383c094c5e12</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 164</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f11bddc-4190-4b1c-af15-d9eed97eb332</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 165</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c783cfe-e6ce-4ad3-abc2-e908cf27bbd0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 166</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2f34577-56a4-444c-a798-17313b7e1eaa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 167</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>27d703cc-f431-4598-99f6-e6a92068b522</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 168</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60da602f-3597-42f8-820b-7334da68b81f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 169</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6299b378-ea7c-41ad-99ed-b8c845e0d53f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 170</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d991cd1f-5aa3-40d8-943e-f277d2be71c1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 171</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57599530-461e-4caf-8dc4-b51ad47d4688</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 172</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55ecbb78-a429-446b-8f63-490a6b3b2617</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 173</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f17e5984-3e7e-4210-b993-c3879e6125f9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 174</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb7298a2-d9c4-4fdc-95bd-ad1af0fd9e2d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 175</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fad8d74-17b3-44b3-9bfc-209bc96e2fcd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 176</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddb3de7d-2d44-447b-8c54-54aaca3ce57c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 177</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2dca9031-940b-4750-8a39-2b7ac048bd36</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 178</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff89900c-750c-49cc-af72-03ea4b692f08</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 179</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1a74212-3562-4542-ad2a-da041b4b1a6f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 180</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b78a3785-4956-43a5-beec-546a1247539c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 181</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5620447b-4be7-424f-ad32-9fa9a919dbc3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 182</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>516f923a-2dba-4a5e-993c-dc8c77231685</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 183</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a55d41b-4637-4a47-8bff-754349d34827</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 184</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29d17b91-13bd-44c5-9f8c-bbf185cfaf2c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 185</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0fab32d-38d9-44ea-8c6a-9e24f8420da7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 186</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0527b745-ccd8-41aa-8751-1b70c0c9b255</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 187</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abf63c27-01fa-4559-9c47-b3357efc9080</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 188</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6ac924e-0f86-4006-82af-194b79477040</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 189</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>53d0adc8-761a-4671-b1a4-a5448880a156</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 190</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>706e9387-00c1-4674-9074-77ee489985b3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 191</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5c53d2e-7e16-43bc-90b4-950d0f3b9c2c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 192</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1bba8c65-b831-4863-93c9-30a791ceccf1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 193</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>96409dfb-269f-4ba8-883e-844faf1fc76a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 194</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aecd470e-c37c-44db-8ceb-82a6e9048768</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 195</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa3f79ec-0861-49d4-b791-a7eca435e27e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 196</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00755848-99b0-4bf2-940f-4c038eab938d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 197</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7126e21e-7ef9-4c4b-8b60-19f5c095db70</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 198</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca40a3c4-71e9-4bcc-8c93-46a72df681aa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 199</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>774f00b7-c838-4f7c-bbb0-8b9dc40bb47c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 200</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>673de015-fcdd-41ec-990e-e306d7a5fc60</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 201</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5300b467-31d9-4730-b140-48c9b4f0861b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 202</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>295cf4e8-f821-4477-92cd-0b67e7f569de</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 203</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d8d96ffa-3a22-48a9-8454-001acc92cb55</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 204</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cdc2d3d8-33c0-4a9d-be22-9cf9f2163715</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 205</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf2e7923-e167-4370-9ff5-a351e016b5c5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 206</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>271a3698-2179-40d8-8b41-9a865b0f2572</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 207</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29819987-f889-4803-8c40-67e4b04f7357</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 208</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1262d059-9202-4d3b-b0e2-19f4df3da28f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 209</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb22684a-6052-414b-8733-c209234baa48</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 210</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca3ab727-f389-4b16-9055-a523dcec83da</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 211</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47d6be49-c1ba-4e74-9262-624a8ab0a46d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 212</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e8f8677-53ac-468c-a4b2-8ad1364bc974</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 213</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6211738-53f5-4f28-a8a9-51034e5b5155</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 214</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6de7800-3c6f-4d90-9666-422f47a82666</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 215</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e2b731e-9b1b-4937-9b68-e1972a7f9d41</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 216</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9cc1e5d-4243-4392-b954-4462b12e340d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 217</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69f94da8-4d45-4eb2-b2b9-c7900a8b8bff</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 218</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>598753b9-da29-45f2-a551-fc477404c029</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 219</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>099d5cb1-a3d9-45b5-a703-aeac11a8c68e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 220</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fa94869-b5f0-43f9-954d-122297a30b43</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 221</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6317fb34-9a63-4074-800f-1c62ed4a2820</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 222</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>984f7c46-ba48-477e-9d1a-48d2a196b5d9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 223</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05a13752-a7a5-4166-8e2c-b0fc3d00e139</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 224</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91faac17-bd30-4c5c-86dc-be0839339ce8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 225</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b608d1eb-c362-460a-b498-f1d2df6eba9a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 226</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0340d2e4-0413-440d-8110-a31ec534036a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 227</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4834cf4-dd3d-46ea-bf63-109f4a443192</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 228</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed27dc91-e1cd-40a0-b300-5158ccd5b649</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 229</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5193d526-2ff9-466a-ae27-b86f0b3089df</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 230</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22ca2cee-4057-46ce-8413-3a8a8b1e66e3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 231</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>509bf3f9-656a-4d7b-9423-3439ed7cb1c0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 232</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed9e33b1-7a9d-4c14-87fa-eaef51768a3f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 233</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd56d8ab-9905-4c16-9635-0c9717173ead</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 234</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05891912-1c78-49d4-b341-8dcdb5c71c2e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 235</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e22dce2e-9fcf-4cc2-b8de-46ae7d74af32</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 236</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4f85d8a-ea1a-4440-9e3a-7fb7e5329b79</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 237</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ede491cb-bd2b-44b6-946a-49e5be7b6df8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 238</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e77abc9-e01c-4256-93c6-907bbc5cab99</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 239</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6aa4fdf2-13f5-4d54-87b3-f7a98eaace14</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 240</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d75100b-8545-456d-9faa-2653510e977e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 241</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0966dab6-b488-4525-a11f-09950560924a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 242</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3023f6b-75b4-4c4c-9a08-06cc1493234a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 243</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2e3c86b-ece9-4f79-a1a6-6d8f773ed6cf</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 244</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ad76f23-f54b-415d-9bad-45621cdb3423</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 245</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e063e5fa-9ccc-4f5e-a6f5-b265bb64150a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 246</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a6b5e18-bec6-44e9-a6ce-c1528e972f9b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 247</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19b56f67-80ae-4c1c-b9ee-8fae4c9a541c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 248</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4746dda9-a16c-4c8a-ac31-a8c313b85b04</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 249</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c60ab8a-330d-4d3d-a00e-63cd59ea7022</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 250</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb6804ef-8ba4-42d6-997a-8fe43d753c36</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 251</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5989114-8afc-4fea-a439-f635d4b2b85f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 252</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd2140d9-a263-4568-9fca-a45af39fc458</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 253</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2479c4d9-08ea-4638-b51a-ba760b5aaa14</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 254</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d060c26-31ee-4b7a-a977-7c71999f0730</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 255</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5e88aeb-c60b-4c2e-9d07-ee95d549b361</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 256</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33fa60d5-eb39-4336-94bd-0ad556235c35</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 257</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>710d587e-d2bc-419e-b784-77b42313e3c5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 258</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>baa5cec7-1d41-4940-b75c-f99b719b0bfa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 259</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32bc4647-a282-4789-b8eb-bd809600d924</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 260</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d06ad4b-5dd9-428a-a6c9-38d25420f925</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 261</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>646827e2-ed19-4d6d-a0c2-b6b0eab66f97</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 262</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbc94bdf-038c-434f-ba0d-42a37b3c648b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 263</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36920a0d-aab0-480a-8407-1905e3e1e22b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 264</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6672e997-4206-4379-9994-c2724e0a9fa3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 265</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89bd00fa-4333-4616-b751-48ad7a8677af</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 266</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>156a6691-0896-43fc-9131-a061b8428a82</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 267</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e30bbe9-edb5-4f83-ae75-a64ddee44aa0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 268</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e4659d8-4b50-4014-a23d-fc6ab05973bd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 269</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9674461e-9883-474f-82dc-1e5dff50488f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 270</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b84bad3f-31ae-4ef1-9883-152fe81dac1b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 271</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d05f213d-cac3-45f4-b657-c3bd256c2520</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 272</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc982519-249a-4b77-86d0-ada92609aa11</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 273</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24777b70-8e11-48ce-bd6c-ddab62659d00</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 274</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca8237c9-75bb-454b-8aa9-6a00e88ef4d5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 275</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c379a2d7-9816-4feb-adfb-d57815ea3546</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 276</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>27a56827-b9df-4139-ad48-36d1cff4b0d5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 277</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfd2312e-2fba-42eb-9566-c22bcb1d58fa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 278</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98be4172-f0ff-463b-9861-53be9e6d8d47</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 279</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>118ae722-0294-4121-b9f7-ca34b80424fd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 280</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3c70708-7a0b-4cfa-bac3-ec1f74a886d2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 281</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7700bd83-b993-4334-83da-6b182e78089c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 282</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2bff7e8d-618a-4fe1-a1e9-d533706cc79b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 283</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2540e616-51de-46ad-9a28-13e9967232f0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 285</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d334ad38-6e9e-4c99-826a-4b97a277e56c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 286</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8cf43a5d-a0dc-4f31-ab20-174fa84269b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 287</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c367f5f-4fee-49c3-bd29-ee0d48ca6577</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 289</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>950753f2-61fe-4d2b-864b-7419910042a6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 290</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>717c0f31-b81d-491b-ab1a-41f5a63fc376</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 291</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45ac20e3-a784-4ef5-8124-f11a049ee7ba</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 292</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91b5ed46-9960-4ed9-8720-e32ed20dac3e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 293</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd359260-e2d9-4b11-afb6-6f45ca700ef3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 294</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ae248a75-ea4f-4674-8f07-aebdd5c3c725</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 295</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2fd4bf7-ef0e-4fa5-8559-4e8aff9034a1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 296</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24f40ccb-c603-4f42-a934-2ed25c9932bb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 297</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>adce299d-8da9-4e14-8904-655035abd869</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 298</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d65fbb3-226b-4517-a23f-f842dc92131d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 299</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>168e3182-643d-492e-b578-50f3a33f4cca</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 300</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4408f633-c77f-4f6b-9200-534975a93880</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 301</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5155e59d-aa1a-419e-bd7f-6c2365d3764e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 302</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29661c47-3ccc-4362-8273-26ce3a2c08c5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 303</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57b8fc41-a21a-425f-a7b1-65441a8b5b7c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 304</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>937e3c4b-8e99-4576-8079-e156bf396a81</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 306</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d883c207-0bb1-4cde-a921-c9f2e9f8c4e7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 307</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2aa79cb9-e1ce-4387-9b24-979a05999491</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 308</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37aadb57-6368-4ca0-ad2f-e0889016e151</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 309</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>114da872-3ae1-4f40-aeaf-8da15a5c6ab2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 310</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d97a4d1-cf8b-4db9-9db4-e9bf2607ae0f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 311</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1ccd1fa-1cf1-4696-b5c0-1702dd347db6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 313</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>036f4b7d-a002-481e-b2e9-eac41d718d35</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 314</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d51b07f-cc57-4ccb-8935-041036e0b1fa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 315</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aac2640f-ef2b-4647-8097-c6d3cf5bca04</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 316</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36b582d2-3187-4644-b285-9c54f42e70f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 317</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00bb14c4-4eea-4d2a-a09a-c22379f367e6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 318</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97544dfc-37f0-48b5-b897-20ebd5ab9fa2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 319</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b72c13b8-ec7a-4616-9049-464b985aa9d6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 320</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67ab065b-2a58-486d-aca5-9974c8a61373</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 321</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f487361-26b4-494b-b67f-ef8f7abd5656</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 322</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ad41183-f5f8-486e-bc5d-b5e8b1f0ecad</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 323</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec082b1a-b039-4e37-99ec-db2e23329dda</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 324</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8800632c-ff9b-43b4-b07a-747c7c03e562</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 325</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59c63823-0121-4e04-9a7d-e68ed33ebbdd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 326</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>325fa34e-0fc7-4777-8e8e-c57c28a60357</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 327</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf95c51c-fb0d-4b98-981f-4a4bc0da84db</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 328</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b998a058-afd2-4080-8d2c-5eb3f428dfb7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 329</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9201a94a-6105-4e06-88db-9a195170bfe9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 330</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9da5e162-bcd5-49f6-92ed-c289497fbff1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 331</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58c58b9f-ce2d-401a-937a-22d53be86228</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 332</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f31bcd2-33e8-43b1-92c4-27ae83a981f9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 333</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eedbea12-f049-478c-b957-c0bd3baf4897</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 334</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eac772aa-0084-4783-9bb9-920797b362f3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 335</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>083146c3-7115-4763-b451-85077b05be8a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 336</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>858ac414-7586-4c8c-afca-46650025c928</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 337</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>788f863c-9df4-4c88-9a3d-f0168d69c68e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 338</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6da4cbde-8a7e-4e93-90e9-8e05e4a26685</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 339</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f9323aa-eca0-4eba-8bba-8adf935a155b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 340</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33bd379b-2807-4542-a7b3-bf18894b1bd3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 341</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f0a3280-5b94-4003-bbe4-518abcc53789</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 342</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c56e810e-e187-4148-8aa0-dff2ce127b8f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 343</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43adac01-12fd-49ff-8915-57ab970bf90c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 344</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>edfa3497-070e-42d1-94b4-e22607359e8f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 345</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd3a5a17-3396-492d-be86-4f12fa1b9dca</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 346</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6fd35bc5-5f19-4490-902e-8b0e531cc0b3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 347</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e12a013-b7a6-4e96-a9f1-5037477a5b7b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 348</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8466e36d-41a7-4156-aeaa-3f19c8a4c687</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 349</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a1d3a80-058e-42ff-a405-334ea40a6871</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 350</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>309b46d1-33e3-4c61-9d48-d1e70e4e3044</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 351</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ae9ba280-7af8-4002-8b1e-91ca81f7abc1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 352</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77517505-f207-463b-8765-d366f7e5003b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 353</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af503e54-9780-4d3f-be4b-8424611a7ebd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 354</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df70295a-ec6a-4328-a71a-fa9cecabe157</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 355</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fe7ef42b-f10c-447b-b275-02f7edc24646</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 356</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f53ceadb-fb8e-4e6e-8ded-9674c7033140</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 357</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1c17444-be8d-4816-ba38-c5910c859432</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 358</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69c667e8-e838-4574-9314-df4060f59ae4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 359</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>406c6105-40bb-4c49-8e3a-0673799c34ce</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 360</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>314ac059-9fd7-4887-8886-1b51d710bdc6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 361</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b90c3afb-e474-4c1b-96a3-25c460586640</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 362</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8958981-e90c-424d-8b70-9ef2678fb4ef</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 363</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb3b77fc-cd09-4c8f-9097-d773cf0f5b6a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 364</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4f91d89-0ff9-4882-8d5e-7d0dabf2bf37</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 365</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12dbdb03-4ded-42ff-8722-9f014afc2755</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 366</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c8240b2-2412-4070-8d01-a2a54afda80b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 367</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44336b79-16ad-4a74-994d-62a7b31c9976</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 368</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e828ded-803a-4f70-9cb2-cb99cace7e80</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 369</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>592cad0f-a4a5-4edc-9cae-a24aea3989dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 370</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>95c96ab2-b741-4998-b28d-9e21007c65e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 371</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f21526e5-69fa-4107-92fa-ec881ee1336c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 372</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5827aa73-645a-40c7-b6d9-086bc2991efa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 373</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d3c4d2d-6891-4a06-837f-ab0ee2de24f7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 374</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7524ad05-6998-4f7c-8ced-e559d2ca4520</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 375</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0632e41a-cc04-4590-a1e1-6a4f68efb32c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 376</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>944740f3-93fe-4774-a0f2-53f09c567fb2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 377</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01fb3716-5a1c-428a-9a2b-d56fd019c765</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 378</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8778d5e-0605-44a3-b52c-cde38b7ff12f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 379</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>34e3f728-59d3-4d7b-b442-e0a7c6dd19a4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 380</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c69c06f-41cd-489a-bd01-bc82f3379f1f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 381</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>341a1297-f440-463d-90f1-00177cb85c6a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 382</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2245d52c-9c3f-497f-bbf4-cdae68dab3af</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 384</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28e4c688-596a-4974-81b6-5801e8946e22</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 385</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22cf746b-6211-41e0-acf0-c14aab3ef699</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 386</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>49ca1804-2854-4f14-90f9-873cc38e649e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 387</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25ac02ea-87c8-4f1e-8cad-5716e396d8e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 388</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dcf850fa-36cd-443d-bc84-14d60043c650</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 389</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>158a7a25-aeb6-4719-b169-ffe511c609e4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 390</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df3d3d9e-251b-46c1-87a5-464fc1261276</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 391</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a551f76-326b-4679-87c4-aa62deba76c9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 392</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab681ea5-1578-4e38-a90e-5da2e5854f01</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 393</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8addb66d-81db-48ef-9a28-c82dc65282b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 394</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a401de0a-2213-4110-9333-025eb8396942</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 396</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>475e1809-0ae3-43b2-ae67-683e4131c989</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 397</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7044cb21-33e9-4114-a2f7-ca4671c10460</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 398</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd85f52d-4abf-45d3-940c-48fb36254d76</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 399</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6414fa6b-8b4f-49ca-aba9-a696cb9f4190</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 400</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>461f1dba-bdd3-4e2a-b08d-0eb2a29544cb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 401</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d3aa2e0d-9ba5-4654-bdc5-e895c07b43eb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 402</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4d5de1f6-964f-4651-96ae-2685a2badd96</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 403</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9f10527-7b19-4c37-af8d-e982158854dd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 404</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e22c2d1d-d78c-44b1-b179-0e291b4c0129</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 405</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ce8319b-110c-44b9-b175-1a4242fcfa9b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 406</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5342ea1-f38d-4600-addd-e1f7fe5dca53</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 407</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82ebd012-351c-44d5-bca1-d840b3ecc2db</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 408</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>18239e6b-28ec-4066-9379-8b0b1951d36b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 409</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb42fef6-80f0-4ab6-8ce5-247cb8d19556</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 410</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07fd89d7-cb68-4d6c-ba05-6289e9241165</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 411</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ec24695-c269-43bf-8cb4-d0be0e2eac37</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 412</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4d41d719-aeee-4824-a036-6770233717f4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 413</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4334688b-63f3-45d8-9289-98a46ba03d91</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 414</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d93725da-e946-4ae2-b520-4cea7fbacaa1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 415</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e793dafd-e68b-411b-89d6-f0759c783ec5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 416</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bccf1be3-b509-43ab-9771-407d0f17a450</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 417</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f5950b0-0cde-464c-b6bf-4c65dea3e665</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 418</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ddd15ac-eae1-46e4-8194-8e57f66b6289</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 419</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0548a924-5d4e-4c5e-9ff8-7b16af2aca58</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 420</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80a22bf9-8bfe-4149-83a8-8fe6f98a499a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 421</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77942122-9d24-47eb-9962-ad2805f7de58</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 422</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddd3a8e6-8292-430a-a1bd-d9b6e365e39e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 423</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16982851-a296-4d56-86a0-5889799cbbd4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 424</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12f1a951-7d83-48aa-92f6-ab86fea1259a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 425</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cabbf10b-6da7-4f6d-a8b1-91b70f9dff5e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 426</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>653e0d73-8be1-4c7e-8c11-845b4f09bcbe</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 427</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66387c30-af80-4781-bf6b-7888b501b070</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 428</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16016ce9-4151-4f3b-aded-67349aaa1b0c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 429</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddacb777-e6b6-47cb-8e63-87bf5aa035da</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 430</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa4d437f-896f-40aa-a7fa-4090d50c4eb1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 431</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24f4cc15-53f2-4984-96cf-7a12b6414ee6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 432</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e282f3c4-6abd-4250-95c5-326453c9e52c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 433</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfa36695-80f3-4692-8fad-2019bb4c90d1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 434</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62f5ec9b-7af0-4422-a7cc-0d760537343e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 435</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>001662d5-2ab1-4189-bb02-6ec1320ee02f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 436</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdd3a690-b546-4b0a-b37a-610464b70d4e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 437</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>41e3d0be-6b7e-4629-9dfb-7e2d1388c051</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 438</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e75f3876-97fd-4489-afff-dfe2c66d6091</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 439</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>03578850-824e-4db6-b9c8-b8b2984e047f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 440</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89d00982-a837-4f07-870e-f49dda89ec62</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 442</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>502aa9a6-e8c5-4ced-b27c-29a555c8546e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 443</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef32834e-2c13-4bc1-b447-804e2306367f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 444</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e679d02-fb26-4c39-a7f3-16ab716d16ab</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 445</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>900f53d8-2474-4557-97ee-c0e3416a8d9b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 446</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c4d2efca-7ea2-455b-824d-39c67c9c191c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 447</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f68f46b-1d83-46a0-862c-f0098d2969ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 448</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6923cb6f-c4c5-4ab7-bd49-073fba554cab</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 449</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ce96cf4-58a9-48cf-8d54-ec4d95ac1850</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 450</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00a03c83-2ec9-4c72-8a20-2f25099f3625</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 451</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c21b849e-a616-47b9-8f9f-bb3cc63ebb0b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 452</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fd29d20-f0f3-461d-99da-ae1f6066d30d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 453</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85c1afdd-b20e-4c54-9ad7-9b3b361057a2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 454</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb83a670-25ce-456f-873a-df3db9ba258c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 455</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71f7eb5c-14ef-4b6f-91cc-8060292876f5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 456</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>106b7257-b7b5-4e40-9bda-4e29a4114e35</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 457</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24b215a9-1f8e-482e-afb7-2203fbe280ec</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 458</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9fff89bb-3a86-4841-869a-daffbf2c9143</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 459</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec638008-150c-4e82-852f-aad773454a78</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 460</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f965d04d-45c6-468e-9a2a-338058d1c199</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 461</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77d708fc-ed99-4602-84d1-70df5d12ecf9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 462</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff4e1dd9-5456-4c1d-a0fe-6627dfc91a46</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 463</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f56d6fff-1ca2-4874-a975-52c3ab53b1c7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 464</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d2eae16-37fd-4aa2-b777-23538fca49ac</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 465</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86edb94c-81ec-49f7-a973-fbab75da855c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 466</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f4b0c8d-3b5c-465b-99a1-bd29fb8fbf09</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 467</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa77f98a-bcd4-4b56-b192-be84b291eca9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 468</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e5626c7-06a3-486c-887e-44d289f636ce</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 469</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed5f5f7d-13cd-4aa6-880b-74e783199c27</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 470</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>149f68da-5b68-44f5-b7da-2e122b55acd4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 471</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5bd80c7e-a4cb-4f74-9dd7-80af07a57467</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 472</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e654e5b2-29c2-41fa-95f4-305e014abb77</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 473</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c2c7591-0797-4980-bf94-5ed6e6d99eac</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 474</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7852e96-284f-4e81-a537-a72518c8dcd5</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 475</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>375dfecc-53dd-4527-b5c1-66dcae25bb8e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 476</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6dd343c-ce73-4205-8aed-e1a579f23ad8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 477</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6a8f954-f6a2-4cfb-9c15-9c68f4afa6ff</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 478</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f4a4e93-cc17-4464-88d4-bc95d3d579a1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 479</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31c0f83d-4918-40b3-ab7c-cc1ac06d894c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 480</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4c78a0d-07bd-44c8-8904-5d5ea3e459e0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 481</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>51116487-6b0e-4162-ad83-f0ab3291d420</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 482</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff92315d-ca7d-4c7c-b78c-bb7dd07dae26</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 483</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>03273e4d-5211-45c7-8515-52323b1102a4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 484</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>541dd2a1-4d3b-4f95-a522-2146d5efed40</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 485</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c3043af-e17e-47bc-b8e7-593b0c1c904f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 486</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58cae7b4-450f-41b1-8049-bea1296d6f22</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 487</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56c469c7-6c33-4460-aaab-0da913d35df8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 488</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6067e3c4-099b-427f-8220-8f9d094398c0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 489</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf7709e8-260e-4656-9968-638219ef631e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 490</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86fb6e22-3b82-47a6-a6f2-044c517dcace</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 491</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ab70927-e6bc-4eae-80cd-1298cb705481</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 492</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ece8d2a-8cb1-4e7d-b84c-d25000b922f2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 493</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06dabaac-66dd-4250-b4d4-92ce5f12fed6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 494</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>292dfd80-1c47-4b99-b069-a86d4f8ba8f6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 495</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8b20de0c-2824-4a8e-bf86-653bb994c067</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 496</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>415a37e6-fbb9-4899-a140-4c2b7b0f0eb9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 497</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>624f7c44-3207-49c8-b980-87de2ea339a3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 498</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca162a9b-df00-4201-b6d7-3f4aede527f3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 499</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4074956f-a045-4fb5-8554-0eec0978355d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 500</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b0253aa-138f-4f3b-9866-cdf1434771d0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 501</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57a81e78-19e1-440e-bdec-97297f53984c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 502</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0e97908-7dcb-45fb-be2e-5f768d788420</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 503</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b2b0a23-28c1-4c19-9263-dd849bbb707a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 504</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59bceb9f-7aa2-4e99-b39d-179e340ddfbb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 505</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd895727-da5e-44cd-9574-870d880edead</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 506</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a82986c-3f70-4797-a235-2cb487619d62</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 507</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f7842c1-edf6-4359-aa72-cbb72fd0a459</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 508</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a2e839f-cbbb-4dd3-9766-dbad216ac8aa</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 509</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5da9e3f5-b79e-4ffe-9699-a926a8d7a555</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 510</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3fce07c3-fcf0-4d31-9dcd-d415a9fc28b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 511</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b91812a-3126-4737-83ff-048284ac074a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 512</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c3805ed-0a08-4b1c-a62e-b640453b4007</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 513</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b0ae0de-51cf-44a5-b517-3ac83e31b781</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 514</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca58c26a-87d5-4147-8835-022e99270a15</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 515</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>108bd17a-8724-48b4-8137-0eb6bbbcd593</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 516</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1f06030-07a0-4dbc-ac37-e9f9480384a7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 517</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2ef7db3-d8da-475b-8e2a-581bb0047f10</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 518</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>590352f1-bf59-4865-9688-70f3a1e3bac8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 519</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>431a9502-4866-4b1a-ac13-718d5e5da526</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 520</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4b718650-3c81-429e-8e25-5b46fed265d2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 521</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0307d81f-1434-4197-9e3d-c98d7f137a90</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 522</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6ac1e4f-d5b6-45e9-acf4-d4c4a5065e62</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 523</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8410a30-afd2-45ad-8292-9d8d38a84d5c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 524</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa987902-afbe-4625-b8b1-996a05fc5400</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 525</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81fc280a-ad82-46bc-bbca-3490673211b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 526</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e8a69d8-a879-4f44-93c9-8ae1438b5378</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 527</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc241933-a942-492e-a2ed-783a56005f1a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 528</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ac01fb4-ed43-439e-ae99-11f1a365b74b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 529</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb9eb449-b05a-4ad9-818f-220cd240778f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 530</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e23eaee3-0ee4-427a-a2bc-cf78961a84c8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 531</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71c30ed0-9882-4f98-972f-ce05eaf5e67a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 532</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc5e794e-7f71-4972-8aea-2ccf1eeff2d1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 533</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c17a86d1-c775-43f7-be87-f16db2935e31</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 534</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>568fb4fd-9429-4348-8f88-2f10932513ce</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 535</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0eadac33-03c9-4fa4-90cd-a1adcfbf95e6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 536</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b891bee9-dcb3-4771-b244-8e1b2aa24a5b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 537</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf82c84e-431e-4b01-8252-010b1bd5e033</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 538</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bbcbddad-a89d-4e1a-87ad-a81f37b20a9f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 539</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86ea43ae-169c-4d6b-aa0a-3bae117c8928</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 540</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdffb0a0-245f-40a1-bd2c-f8d82c070f45</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 541</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e682ae6-6ad2-4ed8-ae6d-ae124829299f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 542</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d427daf6-d5ce-4f6e-99c0-90ff2d649e95</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 543</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8627dc6a-46e1-4204-9fe3-64756c1c4470</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 544</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>456f1bc9-30e3-4263-a828-8aa373071dd1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 545</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5640405d-df23-484e-a5cd-973aa5b24293</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 546</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e125397b-ebe7-460f-9522-6e44f74c5212</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 547</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9ec9e84-3da1-4702-a37c-081594f5bf0b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 548</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>097d24c1-4bea-4df6-a4a7-e6cd02db6762</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 549</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f12348a6-bab3-4d68-a606-eaca6450f097</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 550</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b7bb7f6-12d2-4730-bc25-bfb82d9e6534</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 551</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad1558c2-96a3-4451-927b-2e172af539b0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 552</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fbdbae8-07e7-4196-b3f0-b710e27af6a6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 553</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5de097ae-1f10-454e-ab16-308eda3561b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 554</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4f43481-6780-4640-b196-97753487641d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 555</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>070280ec-8a9c-48a2-991a-ffe4cbf2b114</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 556</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55f436b4-a956-47e4-963e-7e059e212e02</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 557</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7b91918-6c83-485b-86ba-5fe93a890674</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 558</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb93b840-81fc-42fa-b9ef-95b5331d870b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 559</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3067170f-be75-4a34-af84-722b0161343c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 560</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f93cb9a-b315-4b62-b418-fcd7d9bf7fd0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 561</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54d0fc0c-611a-4ab2-870f-d2222ef7528c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 562</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>320cb9b7-a3ca-4664-95f0-ddab9726c088</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 563</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90023a1e-a049-46e4-980a-538cc6ea979a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 564</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf875f23-1508-4c88-ad77-92298d0e8fb7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 565</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>590b2a74-2a0d-4331-b619-5c82ab7bf87f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 566</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d5c91f22-37b8-478e-98e9-54d8d5da89a7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 567</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1aebe59-ad50-43b9-8b9a-0d034f0200a9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 568</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7836411b-c105-4717-88e1-4d735777c5d7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 569</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d01228b3-349d-4235-b55d-88ae2c8889a7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 570</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>49b1fb65-c364-44ce-88a4-1e3f18d22094</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 571</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>273c3ad9-2192-4dd4-9f93-f0cb3e5d1f87</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 572</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3cbbf848-bab3-4756-98c5-96d6dbb3e70f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 573</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9eb0c864-b3b6-4dc6-ab3c-0236f8b5055a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 574</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9048b042-46d1-441a-8328-2e5769a8a27f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 575</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3595a1bb-478f-44b8-b7cb-138591b92bc0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 576</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7d3919e-b3b4-4c78-b45f-a64fc13c5efc</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 577</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3aa8bb63-6094-47e9-929d-9de17e303dc9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 578</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a671e13a-369d-4391-be13-dc883d1534a8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 579</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cddfee7d-4310-4021-8faa-8bc042167109</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 580</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7233c71a-0ad0-4729-aaae-e4968a0c36e1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 581</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d13db56-a761-45b2-9991-efc0a83e2c43</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 582</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89c2fc30-ea3c-4419-9e52-35e42152504f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 583</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54521c7f-89ae-47de-9c23-90c28ddd6a2e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 584</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f7c56fb-9337-4b01-822c-4a31b4a8b26f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 585</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4589b997-2a91-4642-8080-ebef478f4049</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 586</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d53efde4-5860-49da-9b8c-caec4dc63676</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 587</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5abd6654-6c65-41dc-b730-25840a038f68</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 588</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>96dd461a-6761-4436-9b60-24afbc19fb91</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 589</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e59e887-e470-4315-9ca4-239ca5e97681</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 590</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f85eb5d7-0ec9-4459-9f21-38d69a6b0d87</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 591</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c088b137-249a-4179-99d0-cf1dc9b9d111</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 592</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce7cefdf-f773-4b25-a5df-91b904574c63</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 593</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>baaeec5c-2161-475a-b081-7ec695865044</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 594</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35a49893-c0dd-4162-8b11-c8add4b14ee7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 595</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43f6206c-2147-49fb-80a6-44728d48a121</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 596</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35b0be9d-b835-43dd-9175-22813e45e6a4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 597</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>34346f16-038f-42ca-8666-5188684c70e8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 598</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca1f9025-8d68-4bbc-97b1-4e231c367805</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 599</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8b16bb4b-c1ea-45e2-a2ef-474405cb2bdb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 600</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48403b2f-617c-48e7-ba06-249b23012fec</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 601</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>13448fad-780d-439a-b844-a1304d80b5dc</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 602</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>21bbb8b3-c4fa-4fdc-8b91-1f2b4b48cd03</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 603</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ab8eede-68b7-409e-9120-81d2acf77f56</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 604</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9e1c50a0-dd23-45ba-9feb-e9d98cee0c1c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 605</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7dc887dd-bca1-4004-b0ae-21a455f52714</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 606</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd0cbd61-3056-4cf2-8bfe-1cb590f768ca</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 607</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ee28d0a-d451-4793-95f4-2d27ad38ff5c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 608</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f25f47d0-5e3f-4b5e-926c-6b25b179b638</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 609</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>18df423a-1610-418e-8bb4-c4fbe2e4900b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 610</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e329a2d-f1fe-443f-9787-1832f1007c16</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 611</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0920c8eb-caf1-48a7-869d-238066bcd622</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 612</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c55a6b1-63b6-45bc-ad37-d98cad0d6be0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 613</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>835264bd-872b-4f90-860d-7f3e1d9ca483</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 614</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0cd4d24-ae46-4f69-a697-002d1bdc4cc3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 615</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7459f38-e2cc-4c43-99b1-28725c285d3d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 616</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef336d39-3c01-4702-9988-25b72e6d135f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 617</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c494f87-bf91-4703-84a4-b67bf0980e7d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 618</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>10792599-8cc0-4905-82bf-215767783b13</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 619</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91a45708-9e45-4aff-8adb-237de4ce0326</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 620</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d4c637c-bf1c-489d-a5d6-97d005b905e3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 621</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2479fff8-bca5-4ce4-869c-26b6841758fe</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 622</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48519b4d-42a0-4ea4-9d40-33ee56c397b7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 623</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>939a4f45-8103-460c-8664-08da4f33d418</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 624</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>354afbcc-5638-4566-85ab-a226520ad5fb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 625</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aec570a9-dfdd-45e2-8817-5cec7c7a05c0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 626</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84cc8d37-5155-42e0-a638-72539f61f37a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 627</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5403f409-3e1d-4a67-b43f-ea3697d84d39</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 628</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97cc8198-dee6-405b-a6a6-574364bc1fda</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 629</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7773bc5-b67e-4576-a02e-0e7680157699</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 630</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f0c6e65-55dc-4190-827e-6fe546079d20</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 631</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c48e470-7895-4a8e-a72a-1e3f7383e7ae</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 632</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d0ee59e-4ee0-4b22-bea2-edbcb4c22701</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 633</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5aa580b-9e8c-401a-a3ca-a0d5a02cb34e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 634</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a8b88e0-122c-44b0-a76b-7370abbee1d8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 635</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2bb69982-8e2a-4f21-8a08-4dcd301a1f9d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 636</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef93adf6-4013-448d-bdfb-8e87a7976690</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 637</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4fa65f50-056c-4c53-bc0b-1563b28b482c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 638</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6a24292-6a0b-47dd-b34b-3cd65192370f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 639</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3d5678c-8e33-4fcb-b3fb-9f2adb35abf3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 640</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a674d57c-a825-4dec-95c8-29981b70a975</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 641</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e285a727-ea20-437f-a2a2-8d7c81c7d0ef</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 642</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed7ac679-5bf0-40ad-b8d8-33bbad7e0e6c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 643</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf476eb8-fef1-41ae-ad00-1774fddf2b7b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 644</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8545912e-5cad-4c64-842f-b4c1d16f5b82</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 645</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c3a9c46-9d1f-4a8c-9c95-41d22d2f07e6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 646</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddd6abfc-192e-49f8-9aba-9bcb4b15eb9a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 647</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2346f18b-dc2a-4a12-9489-db304034e0e7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 648</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ae3ebe0a-c127-41e0-b940-657a43d2f026</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 649</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0af6872-2ffc-46c4-9e9e-b367d6edb848</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 650</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>386ed219-3c9e-4d41-98ed-eb93212f21ce</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 651</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7ba9cbb-f54d-406f-a87a-83b19f8fafae</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 652</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1bfa413-196a-4026-ad1c-05fcbf94bf1c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 653</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a30e06fc-ab0f-4316-8930-e06448ad93fd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 654</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3acf4b25-7610-4706-b81c-1d95d91b8db7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 655</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52374cc5-f594-4920-8e06-c8b93a55473f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 656</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd5f9ece-8ad9-463b-8e1a-c0c48a6e57d1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 657</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48432b41-5c50-41e6-b119-5c711ba0369c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 658</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddc2b129-a051-4f6b-8e43-1ab7fe52bf0d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 659</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0ed108e-457a-45d6-b3d5-84f6a05f8979</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 660</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff7e1216-438f-49ce-8010-ca33795208d3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 661</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab83089a-967f-4c35-84e5-296b234ec037</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 662</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>87b215df-cb9c-4a14-a01c-c67a92c5dd9a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 663</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>090f01e6-2200-44b1-a668-6264e8fe4d65</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 664</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b79ba51-c47d-406b-9626-5c91056f1eb2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 665</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>343f3903-4605-4e57-8b6a-a166424dbc3b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 666</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>152390cf-adf1-4372-ab5d-94a4de58ca48</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 667</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74b0ad6e-9854-49da-88d8-32022c4f07a4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 668</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>333181d3-b50c-4392-be4d-e196491f5026</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 669</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>261c8877-6b40-4496-aa63-6d32de66f65c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 670</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9aa99061-ba58-4cac-8225-ccd5cd4ed261</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 671</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06b8a867-a1f4-4c18-8460-04364f551eee</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 672</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c8a0a4f-4926-4621-bfbb-37bba243b4a6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 673</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>acda8fb4-93c6-4408-9dd7-aaa3db6d1792</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 674</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33663365-58b5-4a27-ab62-514b530d34ee</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 675</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b30c5081-db15-4e62-a3a4-caf59a1540eb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 676</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c4ef5a3d-5af6-41a7-8b3c-3e04cb82189d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 677</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58886286-f618-4d34-8302-79fda215179a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 678</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf3ada73-b891-4bce-8a94-c4a028b4c73c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 679</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc1560f1-cc48-4bb3-b81b-b2c865d72dc9</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 680</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cabb803b-a304-4eb7-b8b7-59ce3cbd8ec6</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 681</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>615b2938-ae5f-483d-8ac8-8e84e2672a16</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 682</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a4527cd-f613-4071-957c-85dac3aed06d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 683</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74b225f1-221b-4be3-bf5c-1b2557e08e44</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 684</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c0d194c-cefb-4859-aefa-377a34a6a567</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 685</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29595498-a7d2-4ba9-a688-31b73374fd79</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 686</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83e782d5-69dc-4ba1-b294-2316623cc7cd</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 687</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc047219-3815-4355-af2a-38cb0321101d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 688</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8146f0a9-d8ef-48a5-b33d-8fba6d400778</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 689</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7426c18d-dc3d-47b6-9607-a05af28b135e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 690</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>508b6b69-a1e4-461e-bc69-dda49c86cdfb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 693</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a580895-63ec-480c-916b-31cbf6f05319</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 694</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8938127e-d6ee-4c4b-8edc-147f5ed92bd1</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 695</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2a40b2e-74aa-4559-bb9e-425f8fd45507</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 696</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5778f893-f4c9-4143-a5f1-0a27350ab06a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 698</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e77350c-f81c-4f67-9eab-0a3326b54fc0</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 700</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3fd036c4-69f2-41ee-a29c-7b19137a67ae</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 701</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f7f9002-f054-4d17-b078-5a51a90f2d26</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 702</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bbfad8af-bdd9-4ef3-b3f4-bb7a5316217c</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 704</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4531b7e5-889f-475f-ac0d-2f84d7cc2ea2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 705</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cecc3480-a32f-4572-98b5-cc31c870c9ba</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 706</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d6fcdbf5-e800-4588-8440-fe7477dd0437</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 707</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3117e2ad-3685-4c01-89e3-57ecaa496067</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 708</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4261e79-12cd-4fc5-8966-8a0dae79c0c4</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 709</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>851b45a5-c2bc-4127-8210-fb08051b1ed3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 710</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>03455220-7413-4e10-9f49-881e3bb3a860</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 711</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>613318eb-9480-45d8-b9ac-76a859c07eba</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 712</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b96e1005-5932-4756-b82f-ad8700e2fd50</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 713</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81a90003-90fe-4e07-97fc-4b7e625f457a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 714</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc5c0230-601b-4acf-a0fc-ef99a7de9770</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 715</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33a7e118-73d7-4368-bcf0-7c9b49dbf81b</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 716</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d14a742b-b146-41db-a876-b9a50e56ea48</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 717</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>db0b0425-2515-4ec0-9d97-fc4102b172ca</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 718</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>365a5bb4-bc57-4ea0-a2f1-ac3b022c4c16</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 719</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>939c3aec-1d95-4b4c-9109-69ec6a5d9f03</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 720</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc6dec72-cb5a-4ee7-b87d-00d8a65ec037</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 721</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>067c7ae5-f7d4-4073-9cdb-b4fa2ae349df</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 723</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfd68d65-6f30-41fd-8259-eb088ad42dec</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 724</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>451f6a39-8667-4aad-8793-abdffb69d5b3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 725</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c2b5009-915a-4b80-9e44-87d555a432c2</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 727</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>edf93c0a-708f-449e-9fa6-7da30073236d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 728</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81b3a5cf-62f3-4758-86a7-f4f84fe860cb</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 729</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99b9b8f8-e87f-4b56-a38a-99cad15ec9d7</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 730</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86d2559b-58ee-4a35-8bea-21686fa4fa1f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 733</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b70d239b-7af5-408a-9ba5-c4eee3be3fef</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 734</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a3596f7-17d3-4db8-8b34-6aeae19be8d3</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 735</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd8b0bcf-7112-4276-8ee5-163b00ab252e</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 736</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77d71973-bb75-4dab-be69-635ce6540594</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 737</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0fe4815-2f20-4785-80bc-bec23820a972</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 738</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3d48db8-1c8b-4640-aa05-37c14d86925d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 739</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be98d32f-e0ef-4b7c-a9f0-47c2cb98169d</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 740</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa035b03-2c83-4fc5-9dd4-b50082072b45</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 741</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98305e04-03e1-4921-a8f0-7e3bbf5a7d87</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 742</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f04f02c2-432d-4418-b83b-05e7fa17d74a</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 743</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00e63c77-095c-4b59-98c2-9fa513ae982f</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 744</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7a44fe7-ed4d-4e36-a9cf-c1e1c731e0f8</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 745</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d15cd7b-456b-4860-83c4-ec8fe8edb947</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 746</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04b52738-30c2-4ba3-8990-4dd18ce44bed</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 747</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0719d6b8-b71d-4626-b6da-bd29dcfd8a65</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 748</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a2c66af-b0ca-4ed8-ab7d-051a278cd389</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 749</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1670f86e-c733-4196-adf4-44677dc07919</uuid>
+            <bestellsignatur>BayHStA, Kloster Baumburg Urkunden 750</bestellsignatur>
+        </archivalie>
+    </archivalien>
+    <export/>
+</Auftrag>

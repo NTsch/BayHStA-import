@@ -1,0 +1,3896 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auftrag>
+    <auftrag_id>3c65f70a-b4c3-48a5-b824-f904c27a08e5</auftrag_id>
+    <comment></comment>
+    <user>
+        <kennung>gda-hubselig</kennung>
+        <email>Hubert.Seliger@gda.bayern.de</email>
+    </user>
+    <archivalien>
+        <archivalie>
+            <uuid>1de201bc-c76b-43ed-a99b-84217583a986</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 2</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9fe82934-86e8-4ad6-948b-68c9fdbeedf5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 4</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>61dcc579-11ea-446e-be12-aaa15de379da</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 5</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be7e2e1c-9430-4f1a-a955-445ad6792b85</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 7</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f17a75a-df90-4e3a-9424-2918b9b3e2fe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 8</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2dbf8e0e-7d17-4903-a824-adc10f24bf8a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 9</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ee072ed0-4269-4f96-b576-fe51da75a760</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 10</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>13fd3df5-f184-4fb0-b5aa-2d07e3c13795</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 11</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>224321d4-a18e-4aca-b7bc-219e67b9431c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 12</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0e91d74-18c0-4720-bb69-42f37199202a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 13</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04b65fc7-5ca2-41d7-903d-c0e3a0469013</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 14</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6363cd80-28b3-4122-8f91-7b514184c30a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 15</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74081522-ea33-4422-8420-e5b08031ee8d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 16</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8b541f86-1df6-4288-95a2-56bf3273599d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 17</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>167a382b-27c9-4dd3-b29a-1501b7bdb622</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 18</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1e13f5d-ef64-460b-b66e-9451e2c77144</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 19</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac709966-ecda-4449-b62d-a16d84ec5f80</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 20</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b13dca7-247a-496d-abdd-0f8bc88d5257</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 21</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>583ee5d4-34ce-4b58-8668-a2ca03dc3c13</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 22</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7d81449-1a9a-483f-9536-a4de973fc3a2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 23</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60667fec-8a6b-409e-992c-420a0c646185</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 24</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af90fd86-9b28-43ff-867b-be05cde6b496</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 25</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1422655-362f-4323-89a9-4b384ba5d881</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 26</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ab40917-2364-43ad-b8b4-86bcc871123b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 27</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7263910b-7a98-46fb-b0ac-38f102a152b4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 28</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b989032-6227-4651-b941-8fe84274e96b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 29</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c4072e2-90a3-422e-995d-ecb278df53bd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 30</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb5a2d44-0eb3-4b96-974a-d1f25458254a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 31</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0142cc3e-23de-42a1-a5e9-a767032afc88</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 32</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9dcc1b4c-465c-44bb-97c8-52ff45ded8f0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 33</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6edf7ff1-ea89-46b2-8844-55cb0da9844c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 34</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e689a6ab-9c6c-4681-9960-da23f74b89ef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 35</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb46c79a-da3e-4b18-96fe-9b114ec37e1e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 36</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e80d0d8d-968b-47ea-bec7-aefe11949e91</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 37</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd175735-599f-471d-965e-f908a462c99f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 38</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>143d7b0a-50ca-4ec6-91d5-ad6c19dda960</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 39</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46fbcf8d-ba7b-4589-9775-d36c33514c39</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 40</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3f2d9bb-2d32-470a-9e76-47cba44f0b59</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 41</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>413be286-c04e-41cc-ada2-9560d41f2b38</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 42</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>272098af-708f-4c21-b559-12896c78d52a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 43</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11e379ed-bc1a-4ef7-9d81-dac375fe1333</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 44</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1c0222b-8b02-4c44-8c92-bd4dc82693a8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 45</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5573aca2-a95e-4ca4-bfbb-ed402e15fe6b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 46</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8559d473-8a00-49a3-bc3c-fb909ab2b547</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 47</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>559af843-4a41-4a53-85d0-001ec6683d17</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 48</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86907c45-442c-4fcf-99e9-b0fc4f7e63c8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 49</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3cda7feb-cb48-4858-a004-e68b4b47d08a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 50</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c704210-c6c4-4941-a3e4-587f823f0837</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 51</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfc56d01-1b5e-4d2b-b812-2f3f69030aa9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 52</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5bab4aab-3746-4612-a04b-96b928f7f511</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 53</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31fb3989-2f1b-4152-9669-7ba854052e5e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 54</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9e59a5d-d098-4adf-a80f-7f7e0d7bd87e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 55</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dadd56f7-b527-4a9d-b4a8-aa780fcb0aa2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 56</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e81e789f-4722-4759-8dfd-dc4a947cf432</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 57</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3fd7964a-1484-4b48-a2dd-03c456f4579d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 58</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ef8b26b-3d59-4fda-a77c-47b9dbab93d6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 59</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f356ac30-433a-4251-bbc2-6ceeb12c5061</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 60</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a46b4705-4fd0-452f-a2de-5c3d57aa820e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 61</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>db0081f6-2304-47ec-a97a-f2bd1fef3c34</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 62</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e42d2fa3-4027-4e1b-b8c1-e6439e052c67</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 63</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>68d7f501-6c6e-42b3-8de8-03514f2f270a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 64</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a9cba21-7d17-40a6-a5e8-36dda78e418e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 65</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5421a5fe-cb8f-4947-b3c2-b941245948d5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 66</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f915eca-158a-47d3-9a12-214c4f47cba1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 67</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ed2d072-5adc-4511-ab92-8e8e3fe7576b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 68</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb03f5ab-6381-46e1-a9f3-03d9f3479c34</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 69</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24b20ba3-7539-4c82-91f1-50d8d030972f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 70</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc40e9f8-881b-4d65-9ae3-972bf6a89f8b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 71</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14c9280f-edca-4d04-be38-b7e62a423571</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 72</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f135c2c9-ca26-4fd5-961b-973fb73a94fd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 73</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80f3c49b-00f1-462f-a0e5-f39f18e5cf27</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 74</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>efa9eae9-fc67-4d41-91d8-285e27886cc0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 75</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8bc9eaf8-30fc-4d14-8636-4d6e9fbf79d0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 76</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05e39b85-b392-4a0d-ae18-e2be7e32e822</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 77</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0dbf615d-5b2f-47bb-b2b2-b054d8a92fc2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 78</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3b2dfb49-928a-4895-82d7-12ce8876ed6d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 79</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f1d8569-cc80-493a-921a-f490286a28d7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 80</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58eb44a5-2b65-4293-afe7-bf1fbed154e4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 81</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11403acc-be95-4d38-9d24-b0f2ac045c3f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 82</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a169a663-4088-47d7-bed4-89ec85f40dc4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 83</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4fdb75d4-b845-40ef-89b2-9e92387e7b1a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 84</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22d3b722-e6b6-4014-9f5f-8e8f046fb359</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 85</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>437515f6-0fe1-4c3e-b9c5-35af336e0b7c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 86</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd8ae0eb-9e36-4528-99b5-14e802878998</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 87</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1daabb0c-729d-421e-953c-9b20baf010d2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 88</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0eec210e-87ef-4cec-bc16-fbc133a7fc01</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 89</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52d2f241-87a2-40aa-ab92-68942974df0a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 90</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ced8abd6-6776-4f6d-99ff-b3460603dab2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 91</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>314503be-21c0-4298-9379-30d4ee71d013</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 92</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc2c7c2b-3540-425a-a692-f1f9b827c7dc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 93</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>93334bab-0a18-444c-9bbc-754a15c2c1a3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 94</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd703292-4d5b-4dad-bc5b-c552daaafb88</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 95</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf8198d3-753e-4a59-be4c-55a597324e89</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 96</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a175f58b-6f32-4cdf-b77c-4e64db6fb01a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 97</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eac598ac-8c56-41df-aca7-abcc6f3ef77c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 98</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e9169fc-a1b4-4953-947d-e703c355cd1f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 99</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce492c40-bee6-44de-94a5-1ba52f2e95f1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 100</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80f5afbb-8cfa-40fd-9bf0-fe75381d47e1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 101</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4174bcac-8fe7-4b10-8731-d963c228945e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 102</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df19903d-b914-4997-ba95-136299a7047e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 103</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2778824-49ec-486c-ab78-44bc7bb0e1c8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 104</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b43667c8-1479-4b49-bb2d-4aebe41f7bcf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 105</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46797dbf-ee46-4395-8fc8-a8a2c8b8ebf4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 106</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7186933f-b28b-442c-ac96-d6978cabc179</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 107</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc9833d4-d828-409e-a1c0-a6529164147a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 108</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0bf212cd-5684-4155-b0d0-e353ef4dc800</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 109/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dcf45bae-04d1-4329-82a0-9542ef858e19</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 109/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b815f6e9-e642-4cd5-b602-ca81b91a80c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 111</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4513152-a777-4fee-8a6f-ab74729e3315</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 112</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71df8330-308f-46a5-96b0-63c224ff11c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 113</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7efbe534-c3af-4a76-ba7a-5d842cea63a3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 114</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>41811224-ec6b-4395-a5df-c10404a6ee43</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 115</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>681fc0fd-95b7-4077-bc2d-6544cb46a695</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 116</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a6e0477-b741-4ac8-8787-cae11270dfaa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 117</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>402565ca-f160-49d2-a1d9-2ed78cbe9375</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 118</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19492d8f-66f3-49e5-b413-69bb68001f68</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 119</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c6c79dc-fe3a-4275-9066-d7aa4477fa76</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 120</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f6635790-a2c2-46a8-926f-e5638add0c80</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 121</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b318ae08-58ad-4eb8-86c2-c8fac1a523ad</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 122</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7e383fc-2b12-4242-891a-d2dcfca29cee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 123</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58c72d6e-d07e-40b5-bd6b-1977d11f9999</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 124</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>40a14177-3928-45dc-9bd6-b3636dbd3cd5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 126</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f1d628b-3aae-42b7-b69c-b6fd32dfcd80</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 127</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36827c4d-7c78-4984-9129-cc7117b1907b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 128</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa0337ad-f1cf-481b-8632-55974aa4b458</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 129</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d38ebc79-4857-43a8-8362-e57709f69068</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 130</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff9a1dc3-57a0-4d34-95f4-dd404e4efc47</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 131</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e55b867b-cfff-4cd6-b82f-bf753408a854</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 132</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f1ef257-4101-4567-ae65-abc2aa69e89c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 133</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e07a405-159a-4667-8aa1-94318826502c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 134</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a16d4357-f765-4196-96e3-09ea01ccf79c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 135</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1536e3d-0cec-4971-acdd-14f702726a2f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 136</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72de185e-946d-402f-aa10-d95c5cd6f357</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 137</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>10966a9a-4cae-4016-a4ac-f54294fc4f71</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 138</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00d060de-7b6e-46af-93b0-9f8f86f63504</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 139</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f493e46-8e6a-418b-a2df-49878a2f143f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 140</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80ac83ac-7871-4bb9-962a-08ca2fc552ad</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 141</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bd5f1154-1028-4985-8470-05852c8ead3d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 142</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f819355a-db58-495e-92a2-3f4461879b72</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 143</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>145b2946-be53-410b-b23f-d49caf1900b7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 144</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4675f335-2e73-4388-a22f-98ea12b66bf1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 145</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d334e761-ab97-42b1-9eec-cb051e163a8f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 146</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62f2fca9-902e-4e28-a6cc-7c782bb48c18</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 147</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>debde93c-d6b1-4625-9bcb-a5f71a2b8e5f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 148</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ac7a1ab-ae1b-45df-89a9-bfedaea783d9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 149</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f483f772-e2e4-45a3-8406-d7ddadb114d6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 150</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19a7d83f-8ebf-4e07-a2d9-49f3a21d7698</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 151</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66d1c9a6-af07-457a-b3a2-e6ebf6ea09aa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 152</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e56b822c-771a-46fe-91db-d45f4c1ec3f3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 153</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c76d34ff-a255-43ac-a26d-5eaae320cf3e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 154</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce9066b1-3ebf-46f1-b17b-faf17e7d121e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 155</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80ff3172-a60d-48e0-b29d-6f2d38ef78b6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 156</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8df9e21a-2d43-48b1-af1e-648503bcd098</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 157</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65ee1a4a-40df-40ed-92db-ad2ad3633363</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 158</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d1a5ddee-de77-4d7f-90f5-86cc296f10f7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 159</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f5377b3-77f1-42be-a132-d0ea695c0fb2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 160</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05cc43ff-b316-4e13-abf0-6c2ff8fa30f8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 161</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74c9b798-b33e-4b43-bd2f-60b52695798b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 162</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2bc34f0-c8df-4696-ad5f-2e7ab6a08db4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 163</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0b80a61-ec62-4d1b-ba26-1699f05fa205</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 164</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b235d1f-fed4-44cc-9de0-b2b45f5051c3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 165</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ce0a9ce-39eb-4235-8004-899ce086aa86</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 166</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79ef098c-750f-48b3-b06c-cb537cbd0e4e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 167</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d235332-5140-4377-a767-3533be6d9c85</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 168</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54c702de-d2e2-4e5e-88a7-728faaef09bc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 169</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e9c44fe-ede3-44cd-b0c7-efc2e28022ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 170</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f066318f-05b6-4271-a6d5-381dc529c2e7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 171</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84332364-7d6c-4327-a91b-cf84e110447c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 172</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06a08725-c921-4b47-95c5-932d06f46ec3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 173</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>afb56f76-d27e-45c3-87e2-b51f560dd7ec</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 174</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f843d32-a236-4fb2-b2d0-87888c22711a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 175</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df478c88-0b61-465f-b999-54769972c643</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 176</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5da14dbc-1215-40dc-bf16-6344b0b0be8b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 177</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>afdc47ef-2473-4fad-8322-ccc34f38eaad</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 178</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>264299cd-4ac0-447a-a85d-a61dbf956fa6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 179</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81e0b81f-c5e9-4848-b898-a5a405bc121e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 180</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64998477-c040-44b4-b685-d12b452687ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 181</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6fd8f73-feee-48d6-8854-32deb74feac1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 182</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da133760-af4c-4b86-a4a6-8ed6237ae9ab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 183</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8148a05-dfe0-43a1-84a4-673a1909acaa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 184</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58032128-90e1-40a4-aa98-f8af1384a1f0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 185</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a8f84a18-58af-45d6-ac2f-ba60de199094</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 186</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfbb54ca-b8dc-4b62-906c-1f47501e5a52</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 187</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b8bf70d-06cf-41c5-a7fa-fc14dc0fa61e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 188</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54ab5cee-531c-4ea0-aef4-bce21da3f9e7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 189</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb6a850b-e87b-42a1-863b-167322240535</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 190</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79168be8-4bc4-4bf8-ac2f-a58c55dcd293</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 191</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2afe520f-5626-4808-a700-fff0e0b979d3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 192</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2353691f-31ae-4478-b218-072a0ab36241</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 193</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b08df93-8aa7-4bd7-9027-e59a9095ec1d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 194</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f6d4ac0c-d8c3-4b95-a391-d8d16691d6a0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 195</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8e29c7bd-92cd-4499-8a4f-77f5669ab7e5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 196</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>971ac1a3-9bb5-48bc-8d9a-6ae2178e7154</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 197</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9477dee4-597d-4a50-94d6-2f2af883fcb8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 198</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed828ec5-cf67-43da-b059-cbff7491766d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 199</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6991153-73b8-4b11-95e2-53616d654f9f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 200</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ebf1d4b-e857-470c-9bac-6632dbd0b131</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 201</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbb6bb0d-a9ba-4f29-86ec-5d8321065827</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 202</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>517bfe57-620f-474a-a83f-6ef11c44a068</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 203</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67f9e869-3653-40a7-aa88-aa0a5e14681f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 204</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69c5e808-94b3-4872-a2d8-996df84127b6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 205</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98de7f91-f97a-4196-9e6f-319e0c8db8c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 206</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32ea05ec-4347-4ead-8393-27ad84f02043</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 207</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dbbc1d28-a2ce-4585-addc-cb8355d9cf9b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 208</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b16f6515-25d7-4429-bdc8-dd3c8d724805</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 209</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>788449a7-308a-4538-9554-e6ace92b1768</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 210</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c4ff314-1a0a-440d-8749-8787b7409b85</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 211</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f75dabcc-c02e-4caa-9475-4e3fd5a8d76c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 212</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4adcf11-f161-42e5-bd26-18a1fa4814b7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 213</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f1216325-be7b-452d-816a-bf8c628a2a56</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 214</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed8b98ad-4e6a-4cd6-9c09-7d44fea88787</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 215/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>361857ad-0bc0-4b58-964f-b02dced66b7a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 215/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3b47c9d-ed22-404f-ab03-34bf7eb7fbaa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 216</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f10b84a0-4bb8-4d16-b25e-2e7443fadd8d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 217</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d9c8f1b-8a30-4de6-9077-dc021d8df72f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 218</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3edbaf2f-f30f-41d7-a127-de35e723ffba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 219</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>598d7689-7170-429e-8e67-2135fae5ae33</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 220/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85dbd4d7-8bcb-4e47-89ce-fca363a88f8f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 220/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2da84e5-2c37-4d7e-8e4e-df51589faab3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 221/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a94d81f-7f68-4520-be1a-402cafaf39af</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 221/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fe7c05e4-b494-4edc-967a-b184709cee44</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 222</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7011cf10-4a38-46cc-a908-1d62b779ef03</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 223</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a270f865-f826-47cf-be73-8ac2c62cfba5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 224</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56a15483-6317-4d11-b4d7-f447ecc4429a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 225</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e2912c98-8043-40c4-a0b7-c05ba65e42bf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 226</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6aaf1256-8bc7-4de5-8e04-e321a3001424</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 227</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b8b7bcd-d71d-4fa0-80ef-8b0c1ca6d8ea</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 228</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>792e3034-d20d-47e8-a23a-31335a9f2ad6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 229</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>335ed5a1-25ec-489c-82e1-c9cd460e13ae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 230</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>853992aa-37ab-49b7-95d2-39e31abacd73</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 231</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83f7ee7e-a769-4758-aad4-8eb87fbbfb4d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 232</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbf4cbab-ce70-47fd-9a0d-30800a0288d3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 233</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1fd31794-78de-4312-a85b-7799a2cec9cf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 234</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b97d137-5263-4fba-8bf1-a21c08f92e7e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 235</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f983dbf1-aae1-474b-8c03-e1924f3a5ef6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 236</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb800693-69d7-4690-804b-5549e2ac0942</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 237</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9bbcdc2-9dd2-45b4-a6af-3b531a1f3b1f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 238</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad1b655f-72fd-4be1-8020-223da4a6619c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 239</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab55dd9f-0c26-4294-995d-9121582216db</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 240</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9d0ac05d-1388-4a20-a64c-b9b28be33726</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 241</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36ae7eca-0d46-4919-a578-f93d0da6eec7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 242</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ca8b044-9f48-4f46-a962-a722a2ca8be0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 243</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e4d166b-b0a2-4e9c-ab0c-6483b1179100</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 244</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ebb388e6-9e0a-40f0-97b3-ffcfbfe05226</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 245</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cecdfffc-41c3-4190-975d-a13442319590</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 246</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc41e220-918c-4900-9271-9725cec39d67</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 247</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>452ff696-534a-414a-afd1-dde72b1ecab8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 248</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ff1329c-40f2-4832-9fb8-7df5799ef333</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 249</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d01ae1c8-1050-4af5-87b3-5a15e08b80ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 250</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a8a675e-86ce-4471-86a9-4d38a860050e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 251</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc72aa16-97dc-4ce0-a655-8e3b8dcc48b0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 252</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4ce68ab-e8fd-4517-ae6e-22c61da3b08e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 253</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e10db669-476f-4661-956e-c231b1e7ae5e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 254</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3fb8ea6-7fca-4eb0-a55d-d8a1bd5f278e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 255</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eaeff8e8-f654-4dc4-8592-96598f2f7c58</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 256</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60690676-6466-41e1-85d5-5bf55655f688</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 257</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ded374c6-8962-4753-9357-4c29c007eea5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 258</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c114cee-35a5-418e-8a1b-46a2a7d42345</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 259</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ccc09a1-2e47-4bf6-86cc-c168b6861995</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 260</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88e4ffcc-feec-40cd-88ec-22734996c9a8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 261</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9aa8eb5-38ab-4f4a-981f-375946e5860c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 262</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ae1ebd8-6611-443f-aacc-e76a139318be</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 263</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4bb0c0be-250e-4f79-b7f6-7e9183f226a1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 264</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>20cdfd51-1bb8-4a08-b9b7-56666513f499</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 265</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8725d4f9-cb06-4521-bc9d-a771253cc1c9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 266</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8b62e20-6284-4387-a2eb-4b9e7f5dfe75</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 267</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4ab2af9-9e60-4078-88c9-034b5b513e1a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 268</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50601e31-2302-417c-871e-5dd9e0fbca81</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 269</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1208eda2-9f5b-4984-ad34-3422c1e7107c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 270</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dcab416b-2ac2-4cd1-a075-6be060610381</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 271</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f820a1e-f20b-4d78-8fd4-8ce970b8c85a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 272</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba33094a-1e0f-47ac-bc24-916fd91e1b51</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 273</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4bec4bd6-b2d4-48f8-970e-3d377cf6e769</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 274</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e703f19-5d44-4c2b-bebc-52cfb279ecd1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 275</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6e28bc18-acaa-4dc5-a713-eb6c187d95e3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 276</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e2d7c08-2eeb-4868-8143-62f0ef05fd01</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 277</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb9b7339-36c8-413b-a45e-86d921cdc66b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 278</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>02e13dd8-6512-442d-b5eb-d0e3eeac507f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 279</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e291ac09-0cf4-4398-8968-63e84a1bc7b1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 280</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3598c6ce-7ffb-4d78-ac42-1ff0e396b841</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 281</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7aba3117-29c4-4fec-9108-fe089dd863e9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 282</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>298ec8db-424a-4bb6-b461-e9c116876214</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 283</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9075e678-8229-4fa9-ab8f-4bf59299d9af</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 284</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>455d5feb-5604-4376-8526-c81bbfa79e6e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 285</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b41f4f4a-67c4-41b2-99f0-a5594104641a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 286</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5ff8a27-cd99-4899-ae90-8bceb19c9191</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 287</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98ac1038-126d-45db-821c-c70c151ee1de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 288</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfc52534-37af-4742-818d-a64e0d1e026c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 289</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a26c7959-c9ab-4e75-a615-eb64c96ba097</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 290</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d271323-fe7e-4081-b5d7-af60938bce6b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 291</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7a9b176-d59e-45e9-97d0-84acc4621aba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 292</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77393933-ffdf-4791-b64e-66b81c3c0ce9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 293</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ee5e9f8-8c7f-4b58-b1f6-cfeb90a13e6f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 294</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ffc1601f-ebd8-495e-af5d-6e60d94f7443</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 295</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f4c7bb7-8b47-4459-8b14-d56ecfc9b865</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 296</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e72e4e6-f2a7-4a79-9b3c-e5e5d109d829</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 297</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>34f1781c-cf98-49fe-8c51-66810609d0d3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 298</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d678d173-544a-490f-9152-286c24686e6a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 299</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d725b5e4-4469-4bd4-9f35-634340a3e7f0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 300</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>92c0e898-5fc1-4eaf-bbe8-082c2c58fc2c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 301</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce58ce51-4e04-41a5-93c2-5a9544032781</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 302</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3fd9266c-6ed7-482d-bcb0-7b42ac4a1893</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 303</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>042130d2-8c0b-476c-80d4-5a51b66fe567</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 304</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3f8bc84-3b3d-4777-aaa3-318de5cfd0f3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 305</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76026cbd-98be-474a-9bd0-4c163d7ab99d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 306</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54a20ae2-cabc-4ff9-952f-0880ec1370e9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 307</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48969ee3-1b1f-4405-aa4c-84734765b6a4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 308</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3571920-e63b-4ea5-946e-acb1786dc746</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 309</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d77f35d-45c6-4eda-9bfe-3f7d1748abf6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 310</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0880016-0506-422a-b05e-4e4e9902fbf5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 311</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66c5b46a-9490-4fdd-b84b-bf2c6bab3391</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 312</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65243435-2023-4a30-8187-18726df6dea2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 313</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2721669-2a8c-4063-9191-6e701d517421</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 314</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f1631fa-b515-461b-874d-3c23abf272f2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 315</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ace3a025-9ed6-4bbb-b101-b56bce6cc209</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 316</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>476f2c1a-f362-421f-824a-c179e6badb96</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 317</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a7ac0fc-7a7c-4fd4-88d7-adeeb59fd278</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 318</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>930c96b2-c016-4165-923b-23383c879ab2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 319</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa87e0f8-dd32-4930-9767-10f2734a114f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 320</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>133f5d3d-3f7c-4b17-96b7-306ecf1f0df2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 321</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>543d78a9-4b02-4038-a775-ed60d4ee336a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 322</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43dba413-2d7d-43fc-a1de-5167a9fce444</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 323</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52b9bd28-c6a4-49c5-a945-b2b4ce267a78</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 324</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb1216ca-b73d-46d0-907d-01a354698cbc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 325</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb9c9bf9-b1ff-464c-aa9a-1562e284d997</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 326</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8303e3f5-3989-4b5a-bceb-a11e304e2894</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 327</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eeaaadbd-bd42-418c-a1ef-42334aef1e96</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 328</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>889a2bcd-b996-4fdc-9cb9-2cd8a57a3f75</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 329</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e688c02a-ecfb-4146-b723-8305c0ee3054</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 330</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5ddbe1e-1ed4-4db5-bb4f-a6d80292f8ea</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 331</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16fcea2a-7555-48b2-a7a4-ad6ea12e9e89</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 332</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3783c48-58fd-43fd-954e-63cea5c85006</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 333</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>082dce37-45eb-45f8-81d5-771599e12bcc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 334</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b0549a3-0717-4f5e-b458-336c11ef3bdd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 335</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37b64e8c-a670-44a9-9777-ba49398f5bd2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 336</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c12f82a-0512-4a9f-803d-0c63ce739422</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 337</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>350231de-d82c-4303-b38d-d251e4b9203c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 338</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f08c6d32-376d-4fe4-8531-fe4ffc112597</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 339</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99ff4233-f56a-4df1-872f-fa4a65704ed8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 340</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb3a8a11-e87f-40dd-8e15-847eead61078</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 341</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f47582df-9af0-4577-acd6-dda62f5fe2f3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 342</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b0bcaf3-1c81-4620-83a8-855312b0a29b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 343</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c2bc941-d640-4367-a837-99261b394a15</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 344</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d054d50d-3891-488c-9d9a-6485748b1d35</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 345</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9500607-9739-43fb-9983-45b3aae7748a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 346</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>92c08fcb-e7a7-496e-9a34-c49faa8b7839</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 347</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e156f9ef-5cee-4135-955b-a820c9c8a205</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 348</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c7bc7c4-2623-4ecc-87fd-81534b05219a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 349</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f6ad8ed-6dfd-478d-aeea-0d8251074388</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 350</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81b46486-2ce0-4974-9d78-f7bf6aa5dd62</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 351</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d09eb1e-3fd5-42ef-bfcb-5a6e4e60d1fc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 352</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea95d18d-e777-4e6e-a600-6ad79252bf57</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 353</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2a2d595-b4c0-4472-bb75-0d7ffac778bd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 354</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd68ab69-b0cf-421c-93d9-c08e4569556b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 355</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91f12902-5bbe-4dc8-ac47-edd285b72037</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 357</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28549200-8267-4c0c-879f-03b584799e1a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 358</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f067dcef-cf65-42ec-90e2-526c77c98c20</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 359</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15a7e67e-fc18-4db0-bcf5-28069fd3d070</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 360</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82c34cc9-0f3f-4784-b9bf-a8ef26da3d36</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 361</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8072806-8ddf-42f9-b79a-689b87f2bf31</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 362</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9772b21-c3d1-461c-b928-663eb7eba92a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 363</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c609e597-279a-4634-b264-e06e95d602a2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 364</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac4f1019-58a9-4190-82fb-1d56e2809fbc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 365</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>75a3fa3b-2522-4702-98e2-29d6c8956712</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 366</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f0c57e7-1831-4513-95e9-289e55ced2b6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 367</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f44d9ff2-76e7-4fdd-958c-acfac6b929b5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 368</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bab249c4-23df-4a13-b43c-610cfbe9e3c8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 369</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6e3ee41f-c59d-4901-9671-70df599aaca8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 370</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7741182c-e7e8-44d2-b2bc-7dcd61c99d3d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 371</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb8d4626-6aad-4805-b1ed-175d12b24c3f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 372</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5bf1466a-2e48-4990-bbd3-69fbd4435f1a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 373</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c56e1baf-0fb9-4b0c-b1cf-1ae6761b3150</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 374</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>499c320f-3235-446b-8cb4-bd482a666052</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 375</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1c60124-3b2a-4cd1-9769-90daeb775516</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 376</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69a737d6-97af-4e52-8e26-603335ec7f26</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 377</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a266225d-7cdf-497b-a9e1-2a655109001d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 378</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3580fce3-0896-4431-86d5-4992bc7eb0c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 379</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>418926e0-2583-4fc0-be20-d5bc614f577c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 380</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f89c7eb-b138-4142-bcfe-fdc26cf840d9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 381</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aec6a39a-6e8d-45ea-9333-b3969dde3e3a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 382</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9e06128e-61cf-4fd3-be66-efc8fb5191cf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 383</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>123cc160-8dd9-4d43-80ae-19236a7fe505</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 384</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50f92a87-a015-4c05-a5e2-393c1e80f6d8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 385</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f227ce2d-ba75-49db-bcf9-356160678da8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 386</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc9861fa-bf2c-452e-ae80-0bb51855f807</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 387</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>53af57d7-14b5-487d-b38f-f8035338d772</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 388</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8304f5ae-c67d-4872-9e3d-24f2b3a4b2a4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 389</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>db3696cd-059b-4c08-887e-5182a6cedb79</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 390</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>491bbe58-0592-4998-9b4e-a3bd60aba0d4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 391</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>792e28e5-1e8f-429f-98c1-4e1fa09cf3b6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 392</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22dac96f-afd5-43b2-adb5-5a854f5cc180</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 393</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8746d402-51ae-4d39-8205-37e54c8dbbb8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 394</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2deed48f-3666-432b-9703-37de2914b4c6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 395</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c92dfc5-71f0-43b6-942f-1f0efba576b7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 396</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eed427ea-7dc0-48a3-bd72-22ab088f4320</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 397</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d841ea0b-eeb2-4353-816b-363acedd35a3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 398</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89460b04-fcf8-4902-82e3-22f9c363c5c1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 399</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c2e4a37-8ea8-4311-abce-f60bbdbe3522</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 401</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3659d7c2-37ff-4fa4-95a0-23868b832e90</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 402</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>17fb5a4d-aba6-42b8-a4d3-63778c801241</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 403</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28c0e045-e77b-4b10-b313-45814096284e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 404</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d3f630d-935d-4a0d-80e0-fa7b682a698a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 405</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>522af841-3743-4dc8-bdff-0abde7b7b8c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 406</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f22b2cbc-701e-40ba-badf-043a794076de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 407</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52f9c6d7-c5d7-49f3-986a-9e083eadda42</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 408</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>606f24ce-c127-4c67-8ab1-df865b00a1af</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 409</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66f04fa4-3bba-4c43-85a2-b130e6089038</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 410</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6716d53-18e5-40f6-bc33-c41d75f579be</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 413</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab06a071-cee9-4570-aad3-5c4143522db6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 414</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>03cfab82-6e20-4f8c-9db3-4fc2329472ce</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 415</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd776709-de80-4f7a-b987-fff365fb950a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 416</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>40980b20-ce4a-4eb1-af10-e1d24113b1df</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 417</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3762a736-3221-4ce3-b05e-5410fc09e325</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 418</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12adbb50-3426-425c-996a-e6763d10d60d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 419</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6217c461-4f2f-463b-aac3-f3b5657b9eb5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 420</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>737a3ed0-d319-4d7d-a985-4703b1d08f2f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 421</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>314c3f08-3d18-4ec4-85f6-574f20278e97</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 422</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be180fe6-69bf-4656-a3e2-a0d031f4e912</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 423</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a3b395f-bdfd-4482-a8b5-378682ddc1d8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 424</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b31de9a-887f-4845-941f-4066cbe0cdf3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 425</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>747f147e-e2e3-466c-b585-8f8df2d46170</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 426</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2cfd21e-2935-48ae-ac48-b5a6aa7ca4d1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 427</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3208e86c-f0d0-4167-b23d-ea2c0f372e78</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 428</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04dc8a25-29a8-481c-9717-fb9461856c9d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 429</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6aa53aa5-1847-4089-8910-8e6927767d8f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 430</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af8fc761-1dcb-4911-8455-6745e4573b8f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 431</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82c68a9f-f157-41db-b5c8-c34679c71442</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 432</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>818ddcce-60a0-47e7-9417-5e1e3f32c461</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 433</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f1a64be6-90c2-4318-a93c-c612fa8c086a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 434</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0733c56d-0724-44a5-82f4-09c610a07fff</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 435</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ef67e7c-21ff-4bab-9bfd-c2c862240b03</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 436</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df24f6cc-2f5e-448a-86fd-fb32b617b6fa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 437</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05ea65c5-b8a3-4f30-979b-97a92a1df5eb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 438</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ce34495-5a56-4033-8bce-acf7838540f7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 439</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31d1a42d-667f-40ab-bc53-8ae827f58547</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 440</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d6e15a27-9b2d-4a65-9f80-06f1764ae94a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 441</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea5c64a9-7929-475c-86f0-42c8ae8a88f7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 442</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d12d982-1b41-4871-8b69-ed5e973293e4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 443</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd2de8a4-6391-49a2-b510-c752fcc43324</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 444</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>db9744a6-abf2-4e5d-add2-6f68170cb48f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 445</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9abb7df5-752e-4f92-8b28-d95f73f5c192</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 446</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43c1dd51-951e-4a4a-ae8c-80163a6700a9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 447</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>76b3d7ea-7304-4e4a-abad-593ad442841d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 448</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a13d241-1466-45b7-8305-5ec437fac50e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 449</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>172d68ff-0a42-4eaf-b298-4d6d3ad029a2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 450</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c39bc757-b8c5-4bb3-912c-b154a69083a6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 451</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da2d3731-c03b-4c23-a4de-37a45103ed9c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 452</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a0f08d2-ea5a-47f0-b62d-7a7bd074d3d1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 453</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad73f83d-1034-4781-ac80-46d8ba17cdca</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 454</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a43bb21-8e71-46b1-821b-157311b079de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 455</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da8b0dd5-0c1e-4e1e-b1bc-ac30a4f86148</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 458</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aae9b06e-ebac-4b0f-bce7-6055fe3c8c14</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 459</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c0d5a0f-583a-4cfe-9e2a-868e4bf914e8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 460</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a577bd0-8df2-44a1-8c1c-c58279359fcb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 461</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25311588-a4cc-442a-b5f2-d5062592906e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 462</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0be30b35-9fba-46e7-b6ca-bc0fd9df1ee5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 463</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>179b418e-bb24-4e1d-b88f-fade4af921ab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 464</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86faf55a-7613-4cd5-8cbc-509356fa2968</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 465</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fb8b7a0-2d98-4d17-b00c-43bc8cf9bf9d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 466</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eadade45-7edf-4214-ab45-e6ae62d764f4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 467</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>29cb2662-dc61-46d3-ace7-9f38eea9ff73</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 468</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c7b4724-c21e-4308-818e-edc1f18ecd08</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 469</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>265c6257-be69-4012-a116-c7c75fc196f8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 470</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af82f43d-adc7-4d1e-9ab6-aba8b5b17b99</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 471</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5d9f153-2ca2-4b5e-b7b1-6a36dec76a2e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 472</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9d80454-2735-42f3-b961-449b428b3dc4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 473</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44f9f9d9-f057-4205-aca1-3a0a42625926</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 474</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e695a812-1618-4b82-963f-98aa07e65b56</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 475</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a2c2307-d333-42fc-b79a-dd4cfed9f4d6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 476</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2424e65-6f8e-48fe-97ff-fa0938781f33</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 477</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5c4b16e-ecd1-4c9b-8a51-6cb9cb67dec2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 478</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c48fd5d9-dd11-4aff-b0c4-35b06c6d1d82</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 479</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ca925be-0c3f-459a-aa21-539b767c4202</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 480</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>170d40ae-16a4-4cf1-8fda-2071299c8982</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 481</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ef3b1b4-de13-4eb1-a2f6-ac60f839386a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 482</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>256641bd-89ab-46d7-84fc-4b463b80d1f8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 483</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e185010-91b7-4e69-acfd-6b2763673d7b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 484</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39b8e3cb-3e84-43e6-87ce-7ec8718682a9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 485</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb4ca836-c45b-4234-9b5d-6569633b149d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 486</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4ce5646-7a87-403e-ac15-7514dcd30061</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 487</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f61142c7-2c58-48e9-bd90-f6788c54f8d6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 488</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>637c3882-7804-4497-985c-4dd6fad63cc2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 489</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c0f97012-4d03-4227-a040-4d17a0b9bf21</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 490</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6432a217-cd39-45c2-aa41-4d65cd85579f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 491</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b94765f8-b018-48b8-b914-fa586600146d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 492</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d6798833-708a-452a-a3ca-6a57bbc03db0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 493</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2dafef4a-712d-4605-9bab-9308292a7ffe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 494</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63fc3892-b491-4516-a426-63982dfb008c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 495</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2a4c7a4-58ac-4e5e-a473-3714ec48cdbb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 496</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55fde46d-a66f-4285-bf3f-8754045fbbea</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 497</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2a60e259-43be-4402-a77c-14d5e82fddea</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 498</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7c4ab370-80b4-4dfd-b7c0-202d7ec6d6d9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 499</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3fe9abb8-0e16-4765-b3a0-84d9c6d14de5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 500</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36c991b5-39b5-4dac-a7a2-1d4018a36393</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 501</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ee46b61-3deb-41f6-8cd7-c561ea589319</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 502</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b13cc34-0402-43ce-bf39-e967e8fbca1b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 503</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85a79634-0201-4b7d-846b-05008b320f6d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 504</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8b019b89-35ae-46b9-9df6-409f535b1b4e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 505</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6f33ef1-fad5-4bb3-bb71-016893261733</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 506</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>326594d7-2191-4fac-b31f-de71bc9f8ddf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 507</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33577bed-9ef5-46bb-aaaa-aaba105aecb1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 508</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>591d1728-5dac-4fbb-8204-3382263ad610</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 509</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5959b6a5-a826-48e9-87ac-abe0a9f49eb2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 510</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48c0a664-9087-4562-9517-f7ace87a1527</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 511</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a83f4cc3-80ee-4cc3-9156-5acd8a2c20e9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 512</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a8d65462-3e2d-4083-8369-3660b97b9e0a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 513</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1db98b5a-2167-4222-9cce-d5e4f26a041b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 514</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d81e69b5-5e4b-4030-bc0f-1fbb76876cc5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 515</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f40deb38-3edd-41b5-bc80-0f2d16a3b27c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 516</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eda2926d-4793-4ed4-adae-2dacc42c5ea6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 517</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97124fd7-2776-46c7-9e4b-c10436c79f18</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 518</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf9a1dee-4e57-469d-bb2a-f5de36298e73</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 519</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44ac54f4-77b6-4096-a9f3-d1111a3bce12</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 520</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>319252bc-fa86-4987-b2c8-56e8f35b9be6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 521</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd825c9b-993a-47c4-aaba-ae887a076327</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 522</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1636b0c2-fab7-4302-a187-85851bef6eac</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 523</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ac6b3c1-84c2-450f-8cfe-2fd4517cfaf7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 524</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58460754-c877-4804-8277-3c85e455901f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 525</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>510d002e-ffed-45a8-8a6b-11af85da3289</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 526</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23e4cecf-be13-4b56-a4a2-a6aa34362ef0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 527</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6842384a-703c-4f00-a0d0-f66b2b500a52</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 528</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c776bdf7-6fac-40c8-9646-8aec05988a4b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 529</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cdff6dab-fa9e-4583-a86c-1aad173b367e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 530</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22aadb5d-e823-4ce6-bd1f-69504e165fac</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 531</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9187c920-2d86-44fe-90a4-82473616d34b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 532</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>934461ca-e8f5-4a67-ae83-0c989d3bcb5f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 533</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a5c28a7-134f-4c1e-9da1-cb5f44758d49</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 534</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e737751-f054-4f2b-aea2-25165fd6fde1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 535</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79ad36fd-9f2c-4b52-b960-639c0d4c7c70</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 536</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>035c423f-34d7-4d24-8320-facc234ecaef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 538</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba330647-72b5-4e75-8254-fc3ba97cbb81</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 539</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57fdca55-d27e-49ae-8af9-57d254e8adb6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 540</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f62c7a9c-89cc-459e-9ff7-5b53037bb74a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 541</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b381af2-f09d-4c0b-8fb3-530939e15572</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 542</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fafa3ceb-848a-48c7-98c3-60913567001f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 543</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c5aff56-327e-4fbd-b991-3a05d4eaed02</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 544</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46701c1e-0e85-4c74-a789-aa94de7d111b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 545</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>24fb67d4-8b29-44be-9959-0fa2f64a3468</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 546</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6867cc91-a6ad-4b29-9553-31b170020737</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 547</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a11532ae-2711-45d8-91e1-d1295d6b902a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 548</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ce1cf4b-c563-4460-b2f7-9cac81f6fb09</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 549</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb877d82-9bd4-45b0-b046-8028e598eedd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 550</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f4f51f1-5592-46c2-8573-3453c421e59d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 551</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ed5e5db-4c20-4a0f-89f8-f404e60055e6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 552</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>899f83a1-8914-4d8c-801b-0014e289dd7c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 553</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa81053e-e4d7-49a2-b179-a57855fda010</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 554</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>716f8b7b-2af5-4c0e-b290-bde88084f5ef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 555</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec9b54f8-5e55-44a4-a698-a9a6eeeefd8a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 556</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9d181aeb-cd07-42f8-a9a7-0aa1eac16555</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 557</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef35c9aa-4a8f-4f08-b72e-e8802123fe43</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 558</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4665711b-3a33-416b-8f2f-b34079a9732a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 559</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>677a73b4-c1d9-4af8-831c-7b65efd051e8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 560</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>268cb761-825d-4cb0-a02a-31f3fd4875da</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 561</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d8e85234-82b6-4b89-89c1-51ddfc350a6e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 562</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54bd107c-31d5-480f-a22d-8df40f686b08</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 563</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1967762b-3278-4d98-9c48-c8c93f48ec53</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 565</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c72d1117-5289-4d71-b1de-22676a491501</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 566</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb507be7-ffff-4db0-a2b8-514fdbe36f30</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 567</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7448549-a4c5-4b17-be30-34b3251995e9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 568</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>784f6c7b-41b8-4e98-920b-cdb46e0355bb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 569</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1e8341f-487a-475b-b28c-66d4978baaa8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 570</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9037879b-d292-406f-949f-3aa848ee135c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 571</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3999aa0a-aed8-4303-8bb4-e29541271655</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 572</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>baf6c5e2-4cbc-4b38-a779-79ecc95d7a2a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 573</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1bceb307-dc8d-4301-9eda-2e3d0162bb15</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 574</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>17f1362c-5c9c-4515-ad66-15352202ad85</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 575</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad43e093-4d39-4ea4-b4b3-6bab6d08dc91</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 576</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6759edf-c83d-4d5c-931f-2063c57246d0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 577</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2fb4662-5083-4b32-b4a1-9f9956a9010d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 578</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ec25c42-b853-4e04-8a1b-8b1c804a2f85</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 579</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81ef406e-1a40-4989-8580-5f92a8c4d051</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 580</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64e0bda8-ef45-4d04-a66e-6386e6ab6117</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 581</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>575ddadd-7891-418c-bb2f-0da996ac692e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 582</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>019e9074-3e8a-4e78-ac3e-817d9c91d417</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 583</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90dd4ccb-33e6-403a-9404-91a16912980f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 584</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a875caab-080e-42a0-9876-06781dc1b308</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 585</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>843678e5-8d76-4db7-9cf6-63c16d56e992</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 586</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>61b8829d-c8f5-40ce-9445-68a64e55e262</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 587</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fdb40cc9-525d-4a3b-abf2-1c5425b698b7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 588</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba8418e6-4100-40a1-8ab8-075ef21caba5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 589</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a12603b-3109-4b60-8502-39c3a94f2be1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 590</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2c9caa6e-0acb-4903-8a01-68753ca5a287</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 591</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>742b3429-d0f9-4068-8c25-90298706b658</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 592</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e7a3b9b-e7ea-404e-b66e-386056236d3c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 593</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28af8c08-0dd0-48bb-9099-766315200c0f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 594</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f842e4c-0775-4518-bda9-0fa12fe73842</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 595</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f4e95ae-9b57-40a3-9853-86672cde6f59</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 596</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d970eb3-4ba6-45e1-ae81-380a060e66ad</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 597</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57f47a03-a3ea-4519-b14f-452241dd3ea5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 598</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38ea42e1-d4f3-4094-8a4e-229f2311f364</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 600</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e58b0751-c918-4d5d-84cd-ff087d979590</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 604</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a8ae902-ee68-44d9-be9d-ac40910aeb54</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 605</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b75c94d-7fb9-4b03-8d71-01e11df7b1da</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 606</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4ef78f4-20bd-4fc4-8433-6e4dd1c54f6a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 607</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>809c361b-91e9-49f8-b091-2f699e0e8090</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 608</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78929c79-4a81-4ca3-89e3-31b9eb9396dd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 609</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97987a14-3ca1-4ad3-82e5-8694ee852de7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 610</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>30e2a691-e2c1-4ecd-9b62-ab66b1b5a30a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 611</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1188d961-0701-4969-8e79-53e82e0df24e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 612</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05f906a2-0276-47a9-9115-54ae456bf09e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 613</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a6f544e-bbd7-483d-9b1e-c0c86ae4b66f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 614</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e99f2ba7-bbc3-4980-9790-08f68555f914</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 615</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>279ffca2-24f0-4f02-ba55-d0d527cf5f64</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 616</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c6d9d5e-1556-4a29-8b63-a8447f0df644</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 617</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5673d41-b43b-4c79-9d68-7f4e81caa50a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 618</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ba62c5c-8f86-4a5c-8e7a-56551afe8be1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 619</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a00317dd-f148-4534-bb2f-c9050e55c4b0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 620</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c8dfe67-78c3-4203-90c5-08d2796c9175</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 621</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c68ee0d-9e4a-4994-bae5-9dee8efa14c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 622</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4d8874a-c012-4f15-967c-8e16ffe4234e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 623</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2effa9c9-51e7-4231-9d87-08c9157a9cc7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 624</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d1b3e87-29a7-4103-b757-1951765c10f1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 625</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbca2193-7668-4003-860c-af037016c2fc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 626</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b821e2c4-3fe4-4d7f-a006-3859c025e8a7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 627</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9d090281-b752-4f7a-8ae0-ef13191e93d3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 628</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f13bff97-3f63-46f3-aa68-916af3bb5489</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 629</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2ac04f4-7a60-494b-a435-1c1d8fa64dea</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 630</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19eba974-f4a8-4211-83f1-e56bfd112b35</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 631</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3bcc935c-639c-4550-8bac-8bb79efb98a3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 632</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a80a8f9-00b5-4cb7-b824-29d91c3eea70</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 633</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>de1ee9ce-04e1-4527-93f1-54e155823799</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 634</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2d6d736-62a5-41a9-ba3b-36eeb525f151</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 635</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea0918b5-f606-4355-8add-efd4f191d69c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 636</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>735d1926-230a-4e7b-9eb7-06d5af9b0392</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 637</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7be28fc6-6d9b-4f37-af25-552ce3264c74</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 638</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32fee09f-08bb-4564-a822-3bed26d765c4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 639</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5718404e-d26a-4013-b6cb-7cd995fbf922</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 640</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ddfe6da5-7afc-4b55-9003-9b8dd6c9b4d6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 641</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>288698b2-6e58-47a1-9248-94b887bb9101</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 642</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7566c69a-e715-478d-8696-4e9d780633ee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 643</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46fe2461-ed5b-4fd4-ba67-712de7b8016e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 644</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2fabde01-f6b8-4b49-b7f9-5b938946fc40</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 645</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd09a12a-6a55-4757-8e0e-83415b18629f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 646</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7f74d9e9-ccf5-40b3-9002-ac69b412b768</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 647</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d811609-9dbe-4e9c-a632-40c3c7a683f8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 648</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99a3be6b-693a-43bf-86f8-4e61c2536f5b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 649</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb692008-c8e2-4bf1-86fa-e80c939c9d11</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 650</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>53189738-5d8a-44bb-92b9-d40ea1777f08</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 651</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>17ade5c7-6016-477e-8c0b-ba9eedf55456</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 652</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>108c414d-7ac2-4050-b5fd-88819844cb34</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 653</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>badbbf23-e848-4686-9e6b-fa7333c21547</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 654</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>851411f4-bf72-4b2d-aab0-67738a53a9a7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 655</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a063c83-af3c-4e39-9c84-be4f5142501a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 656</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8e032ec5-05c2-47c7-8246-139bdc0bbad7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 657</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9061c68-77aa-47b3-b2b8-8e26e1961ea4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 658</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fa821e5-b41d-4694-b67f-700638f9a95e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 659</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1c06884-a781-4557-91be-a85f25c1093d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 660</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f6d695d-1259-4626-ae02-1372cb9899be</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 661</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd9491bd-f037-4fe1-8901-588cad5e99e1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 662</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>323d02a3-547c-42a0-98ae-cba999b9ece5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 663</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ad39c52-0ad6-4fb2-ad90-3914cff3b604</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 664</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3b1a8dcc-c71b-45e4-a7e6-62414a789270</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 665</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60932a5a-c614-493d-9299-ffa19f7b0560</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 666</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c1a3c5c-0d3d-437d-a178-80b7488b44f9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 667</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf3defe3-abde-4e8d-a0f8-d9e3f9eb7cd1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 668</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fcc7c24-45da-4146-84e2-d84df79cf5ce</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 669</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28c5c2f9-fa2b-474a-9a88-a39f1732c2d3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 670</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8383258d-c6e1-4aba-8c45-f96a747e1a24</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 671</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0441e6a-17a1-48d7-82f8-1a4407cb049e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 672</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>800f34cd-ca05-4b87-ab05-678e5748d3f7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 673</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05bd7dea-a9eb-4fb5-a814-7fe493d942ac</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 674</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65d93391-932b-4457-9d71-5e2255315767</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 675</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>10dc344d-110e-452c-b357-0d67e75aca30</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 676</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54a6d155-b7db-428d-9caa-54312021d16e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 678</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3f6d648-bcef-4e3e-a53a-1c624f8ff658</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 679</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>efed7def-769d-446b-b0dd-3a9439cbeca3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 680</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c2a013cf-ee3b-45bc-8d5e-ca4db5548e9d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 681</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81487506-a16a-4cc2-9ec1-1c52ec9689c5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 682</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>445724f5-942e-4f12-bc4d-9eaa789168ec</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 683</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>696b645e-dece-4f59-aad9-64c8af48e63c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 684</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>526c1cb0-9e2a-4d9e-aec4-87505e49fc24</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 685</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfe2d6e0-a659-46c0-a553-de1d59eadac6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 686</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c415375b-81ee-4f46-b7ac-e3d20d1df7ab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 687</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72ae45d1-6bf2-4008-9470-568b6ac50922</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 688</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>efb7165f-b2c9-4e31-b3bc-e378961a19cd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 689</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d3f9e49-8211-4111-8b04-f8f564185800</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 690</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a902ddc-2949-4937-9c32-512ebf929fd6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 691</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0072a327-769d-48bd-a9dd-6169e513f973</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 692</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1771e59-da04-4608-8085-5e7f35e6058a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 693</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c77b8682-15f5-4622-8f1b-391546b05b71</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 694</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>68308a4b-1f26-4fb5-8f9b-f436982af112</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 695</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f75e1c76-b4e1-4d13-8a6c-a411b009df26</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 696</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0d84c54-a032-4e75-b0c9-85d8b29b7325</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 697</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a593d222-b420-4e8f-8bab-c4ea3c2d0f7f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 698</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58d5c8e7-98a1-4fa6-b09a-7ed16b6a7f48</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 699</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce6b04b7-06c2-4090-9758-03ee0aa74ecb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 700/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e70bcde-106a-42c4-bc8b-de51ace67f23</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 700</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98a98ae9-75fa-4e65-a783-426f3546ede6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 701</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f58d4f3-dc69-49b1-ae52-a647acf91ee4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 702</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d45127e-b197-45da-b516-059cf3ac1551</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 703</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d8cb593-91e0-4768-9ff4-fbb0ec731109</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 704</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fda86c5f-c24f-4315-abc7-212db20ea02a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 705</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d140bf8-9699-4c0c-aca7-6137afb9a0eb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 706</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a60c6fbb-4a51-4c29-8fb6-89644a69478d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 707</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3cb5bf67-e0cb-4d43-820c-c7057aa44f59</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 708</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b1262dd-e799-4e32-ba96-c05d461be38a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 709</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d15d9a41-4064-44a2-b064-73e12c73d829</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 710</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d717a092-9c41-41b7-ab90-b1efb7d5624a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 711</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52d23359-1f87-4e70-9917-432dc2347460</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 712</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c08acdf-ebfb-4862-a425-5b03dbe7f371</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 713</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4bf1ff39-a389-42a9-aa87-4b2b697b8b87</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 714</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35f77852-5ce2-4d9c-aa03-3bf85a4c54ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 715</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>719ac2a0-59d2-4f11-8630-e0a9e568cc46</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 716</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aac41cb5-0599-4389-9494-44e74e99a5e4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 718</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e64fa69f-deba-4808-bdc4-7caf48615879</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 719</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d14017e-70d0-48f1-ae0a-dace60ffbe0f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 720</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b9a0168-606e-4dab-b252-f4581b9d6afb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 721</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0cb07825-3642-455c-a0a2-ec1042cfdaf2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 722</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e875b0e0-895e-4395-91fc-71a2ebfaf36b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 723</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3f568f59-521a-4ea4-a460-5c8696d23932</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 724</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e48966b8-7a90-4c06-8a91-5270463bba4a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 725</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50ce2f52-c20e-4685-86f8-c9eb362e2b75</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 726</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64c4c7c9-dbf6-40f5-816b-d39110607c27</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 727</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a24ddc6a-3265-4229-a5b8-6b33409f75c5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 728</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df87dea9-9796-401a-90b8-9a585b47d8fd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 729</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5822a5cc-ab4c-4cfe-bb17-4d89c52a9d9a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 730</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2f37bb7-2ce9-4438-a856-5fcb8f3dc508</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 731</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79b88c47-4602-45eb-b987-de68a5049677</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 732</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74ab61a0-0f00-40ac-a6e6-25385863f9e0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 733</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88f0f963-82ab-4b35-8f2b-4341db113f0c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 734</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9371ab5e-c550-4b58-b6e9-0f7d8676ccfe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 736</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abeaa0cd-b64f-4807-b63e-90b7cd426040</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 737</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d1df5d2-ff4a-4952-862b-f176d9e772f6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 738</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>60d31d0e-df03-40dd-a52c-ba9a152d1fa2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 739</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8e935058-9ae9-45f9-a203-46ff8f79fd37</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 740</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e03c2293-ff05-43fa-ab82-a8d3bcf7a4c4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 741</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4107dbbb-1e72-4fa3-89a2-819542c3064a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 742</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fca2cd3f-5e23-4f5a-b89d-9cf6bd8437c3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 743</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>667c9c40-b08c-47af-bb40-3ab7a511f8cd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 744</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>320c3b8c-b7d5-4a99-ae9c-4a2aef10ad0c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 745</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7fe72467-4753-4103-a399-de56203fa1b0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 746</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0dc8d322-1224-43e4-a719-ecd723f308cb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 747</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5b8a0a9e-e620-46ca-a2b1-b955f7b0c8b9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 748</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5bd47ec6-e6a0-4b52-ab77-9b248f1775a9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 749</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>987a9794-943f-46ef-bd41-1ad75390a987</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 750</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8338fd4-4f29-4538-86bc-270551cc44d4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 751</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9813780e-bfbe-4688-afc7-f9feb3b266ef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 752</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9643ed62-e73a-4322-8276-714dd4da146b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 753</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ece3c946-675b-4c17-9c7c-fbee8af881c5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 755</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c36bbbf8-1f86-4eff-bc55-ec1fc2766e88</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 756</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b28d2b5b-3c4f-4185-9059-7692dc64a323</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 757</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a7c9a0a-faf9-4f88-8f16-87bb276666e0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 758</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e27fcb19-a5c2-4aa4-9876-5d708236bad3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 759</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbe60ce9-323a-4f29-afce-fab8da5f294a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 760</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50bb5556-9a82-430c-a9c8-a54f28928c8c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 761</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c29f11d4-96a7-4a0d-bbc5-8c92b1614225</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 763</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d80c779-f4a1-4385-8a50-e0ffd04e6d73</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 764</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50c5d098-3df8-4401-a6b7-bcc86238115b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 765</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da3ab549-ecae-41d5-a8b0-283697f88159</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 766</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c3c2da2b-f052-4caf-bc88-992cdc3c20ef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 767</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38c9edb3-d5ef-407e-9b52-d41e30203cc9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 768</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6136a0b7-d4fa-4cfa-ac01-7ce6d320ac99</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 769</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>707c8aea-04b0-4a32-ab32-d6d0410a7818</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 770</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb58c434-0b48-4018-b982-9f45600a4ea1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 771</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fdb08af-3b92-4222-831f-cc4ad1372d7a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 772</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99289856-f024-47c8-995a-466c15f7637e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 773</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>790ebffb-063d-407a-be67-647f8d927be0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 774</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aeaf44d5-abd9-419b-9e88-c7efee5108d7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 775</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4cc1c6ae-5972-48c8-a1e5-434f89bae3f3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 776</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c83a975d-41c1-4c2f-9096-37b40e8cf9a1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 779</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ab3bd50-0e03-44d8-aec7-e28617cfb582</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 780</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a2d71d2b-ad92-4cd5-874d-623eb13e501d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 782</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88e8b624-a431-461b-938e-e7dea2b81aae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 782/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1690cbd7-a279-406f-b77a-db7f89ecc742</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 784</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4e49fd1-5ef6-4f4f-97e5-3dabda0a9e6c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 785</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0745a932-e44c-4c9b-9d74-9aff86332922</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 787</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>165ca9fb-6c80-475b-8896-8a439c515eae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 788</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a6bd5df-81aa-46e8-888c-24a475e31078</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 791</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8b7e951d-475d-4fc9-976f-37e9de060f12</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 792</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f681606-926f-4c07-9510-aa94ed7f6fb6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 793</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73dbe78b-0369-4857-b2d9-98008bd05bdb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 794</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fc2817d4-c0aa-418e-ae07-767b67770afe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 795</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c8a76072-0978-453f-b6c4-214f90d1b3af</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 797</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea7a4dbf-313a-4629-bef4-552664f36b0e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 798</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2240c1c4-874b-4884-ab7f-99821192e4ee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 799</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa930819-4599-4b74-bb63-c90b7eff619d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 800</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3b16a01b-4cb4-401b-8ab6-aa9db44d50e8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 801</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9c4aef5-9eab-4cdc-bcd0-700331d41bae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 802</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e73badc-684c-46d2-a901-2fd311d8f004</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 803</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf4b82fc-138d-4451-a299-7864d53b237e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 804</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c4c1ecf0-389f-42d1-9bf0-d0b04dbdb5de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 805</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>599d65f9-2c8f-46a7-9820-e6d21a78d66c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 806</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5c98e40-0903-49d3-9621-9e65c739827d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 807</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5264cc2b-2732-41fa-b2b8-30fa6a9c5495</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 808</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d257532a-cb33-4198-896a-448c1bf60ea6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 809</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3aa871f7-0577-4813-b24d-db3ec3379799</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 810</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b05972c5-d7b9-4d00-85e4-c614680570aa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 811</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f27befb9-9692-4144-a2e8-0f1148f69580</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 812</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b71fcb8d-2597-466c-8094-3ed69831cd52</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 813</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6fe19b6f-447c-4701-8b46-99a88792535a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 815</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aabb02a8-470d-4f60-af94-02a5181b58f1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 818</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ac4843a4-ea23-4415-8eb6-37ec7300fbb2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 819</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5647da84-049a-4be1-956d-a8e3a345e60f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 820</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df7b2338-5cc0-4513-bd31-03b7bc8661a6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 821</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>95c43010-e4fa-456b-bc9d-96844ee5d4f9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 822</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ccfd9a8f-b6a6-4146-8336-4d433e7b1ed9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 823</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6c1aa2d8-be5d-4381-8095-863cca34efef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 824</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfca9cc7-92a4-4486-bb81-7423219dfc98</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 825</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b99ab192-1ef1-4ad2-8c1f-c476cdae5f91</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 826</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39e14779-13e1-4f83-b324-1e999200273b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 827</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>071725aa-28c4-4962-b475-1bffa60d61a9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 828</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b290d351-c303-4a44-b423-18dcba74a143</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 829</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3db30e9f-6da9-4bb3-8b5d-bd0a48f882d8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 830</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d10aadb0-af58-4ebc-b260-f1cb8cf414a5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 831</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38c533c7-ff6e-492f-a548-a56f5c455999</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 832</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c090bc86-a2b9-4101-aa1d-a937a3a393bf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 833</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d10f7a24-92a7-4eb6-9fa1-7d5457309aab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 834</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dacb0b7a-4b8d-42b1-a96b-db26a27d4931</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 835</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1c33fc9-c73d-4fdd-a60b-35c703c7b49f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 836</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c491d154-7116-43cd-88a1-c739f756569d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 837</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aeb07790-dfff-47ae-a018-9a55481ddf2a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 838</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>49f91254-0e5c-486d-ad92-477162d16808</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 839</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5dda503e-2184-4164-b8be-2de935e96499</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 840</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a423330c-7455-4010-a339-0b8fffad99e9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 841</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12114a95-cee2-46e4-ae48-ba1d736d37a3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 842</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45fe757b-7356-46b4-8d64-609f9a251106</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 843</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>093e89f8-a2ff-4273-8182-a3fc5489aabc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 844</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9be1f4a3-11d1-4b51-bfa6-835a1b90ebde</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 845</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f85efff8-e5fb-4e93-95c5-f047d1434163</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 846</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3e99634-dc3e-40bb-8b32-4a563ca755cf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 847</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f91bc6a-6d81-4123-9a79-6bc75aaac3b9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 848</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb7f1628-2774-40b6-801b-c3f00496a6f2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 849</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f35fe3d2-4964-43d1-8bd9-93ab4835fd50</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 850</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af9a9435-b686-409b-af69-9c1fea20fd2a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 851</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c1dc0b2-6186-485c-9009-f41e2cb07113</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 852</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>44efff2c-21e8-49b6-a664-805cae1268b1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 853</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b81a2f86-a45f-4792-addd-d1e13573ad6e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 854</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2125bcd6-6c47-445d-b6af-116bb7157532</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 855</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>96456404-3a04-4181-97a9-8ed4d1e97cae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 857</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>554db4a8-2f60-4b77-ba43-d8a5a7667906</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 858</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c1cee33-9b5c-4680-9585-4b50055810a2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 859</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0a2971ea-639d-4991-b2a8-bdc020f1fdd3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 860</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>901f8f1d-d040-4874-b2ae-9f72062c2ef8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 861</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fae4fde6-6a1e-43a7-9efc-ba4211656a2c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 862</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d50c2f1a-ef27-4f14-99b5-be647dd77ba7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 863</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8cbc6fea-784c-4235-8d96-93b46f4114dc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 864</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2e24e8b5-61a5-4485-a1dc-804174e185de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 865</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a239c8d6-9e8b-4009-a11d-b63189323a72</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 866</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89b18ed1-573a-4f79-bf15-ad6b4428193f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 867</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d2fe202d-0c71-4d13-a90a-68d9e30dca43</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 868</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73007ad8-a4fb-42fe-b997-f02e1c7364ff</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 869</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>310c39ed-b7d7-4b3a-a07e-78e300d8341b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 870</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9906697-310f-4dd0-a59d-85be2d2d60e0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 871</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fac858f6-d40c-4805-a91f-3d88895cd750</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 872</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7942c76-250d-4d9b-9ca8-d09af9ce9b3c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 873</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea894e69-c35d-46a6-9b4f-5d3b5b979e97</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 874</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a044f305-8afe-4c8a-85b1-a43c63cd7674</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 875</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1334360-d0af-4790-a22a-005474962132</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 876</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fb918cb-3cfa-4ab7-ac14-a4b5c1804af3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 877</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50b8801c-5d44-4142-ab91-03af3f8815f0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 878</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be4ad242-9b43-4475-872c-fbef827f495e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 879</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d05bf5c1-5440-410f-a9d5-b2e27fdbfdc0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 880</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cc824d36-d2ab-45d4-ab11-f72d671c418c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 881</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1ac678d-0407-4158-b885-c711e4cb88dd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 882</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>20ae261d-7472-4aaf-a87f-cc172b4bea2e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 883</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2fe592dd-7f06-4d41-950d-607285ff9147</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 884</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce76efbe-b2c7-4071-b819-3dca69a9bee4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 885</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d714cae-73e0-46ae-b137-caedba08142f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 886</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f59f181-049d-4b42-859a-6397b9e94d3a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 887</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a209eab9-07b7-4934-bf79-0432507627b0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 889</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>925df736-d072-4aa4-8a94-f88e207933ee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 890</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8428a678-835e-4797-8f30-70a591fc8a3d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 891</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d01ddeb-acb4-43c4-9590-21d1ace6f87a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 892/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c233d2c-993f-41fc-8ecd-a803e574f47b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 892</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8732437a-05bb-48da-b8cc-20c7eebd8164</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 893</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6bc2752-ed29-43fb-b213-469b5d38e900</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 894</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f648b882-ed7f-4cc6-984c-30a28bc3b578</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 895</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62a12899-ee66-4ac3-9719-84f551479ea0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 896</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b9c22eb-e0a2-4122-b8a2-a892ae05eca6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 897</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ea88e08-c8fc-4a81-bb11-e63b414890e2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 898</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>345f1a9f-55ef-493e-95be-1a9d5ace52e3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 899</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5d980b3-b182-4423-94bf-e40e5b5a5123</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 900</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>175afa94-cbff-4c18-a551-c2005213fb21</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 901</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1c179628-a29a-40cd-b85c-c892a7ed01ab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 902</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8db76001-56d7-40e5-bd0b-fe78db3787e5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 903</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>705193f6-3331-4284-8999-67823cd3c6ae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 904</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2fdb1ec2-6806-402f-82c4-4cc0ee4dbeae</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 905</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c47053d4-d473-45f5-b488-1b57b89032a1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 906</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5512da76-b92d-4f7e-b5df-8dca48e83721</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 907</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>085dd6d7-f89e-4829-9e75-94aa0c78494a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 908</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>814df0d4-b12e-4307-bec9-1c90a973b63d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 909</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45fe2cb7-3cbe-4549-b184-62a3a8b6b993</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 910</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3b4e771-a6be-4dd7-8a60-d04248ea316e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 911</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>75f7968d-146d-4fdb-ae14-70c76b4f7fb6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 912</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1318e255-d5be-45bb-a218-b07e89ec7f66</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 913</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6f64bc41-92c5-478b-87eb-f12f57817786</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 914</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a8e8e38-da2f-4160-b882-c5b706ff5044</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 914/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>718a7ea5-22b9-4f07-942e-e961bad9b9d2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 915</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>480fba0c-06e2-42f4-bbc0-c138f0efd210</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 917</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>286087cc-e1a4-4898-ac01-07b789c189a3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 918</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fd105fe1-a704-4da2-83a8-c751e56550ec</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 920</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb0ff3b4-d557-4011-b42e-26b5c5d5d57d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 921</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfefa487-976c-4ea4-98c9-7c0010890d8b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 922</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a40a9da1-ed53-441b-950f-e06f2fab7c0a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 923</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9a1a2f3e-a9cf-4c16-aace-5c4ef6f56495</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 924</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fbc06111-36f7-495d-a48d-858a0e5a1556</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 925</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4be30145-5c36-4304-a154-07dedf302215</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 926</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94043316-6567-44af-83b4-bc3366bd7e20</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 927</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ab3ec24-b355-4ab6-8d66-02eaa082db36</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 928</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e465514e-ef71-4648-8d2b-0ee85f3c2aa5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 929</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a39c130-20ec-446e-85cc-a8c1730bada6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 930</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fee417f8-d93c-4dec-804a-f8138a051765</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 931</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec406cc3-40cf-443d-b819-01f76eb0a85f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 932</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f834d6cb-f61d-4180-a9bd-25ed26e0a22d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 933</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad8b9a52-6365-489b-8520-bbe4a1b1f038</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 934</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>116e7b71-ec99-44f6-bafd-e7b6a00ba094</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 935</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7d362ce-12d9-4201-a839-d98bb6978b82</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 937</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a716a28-2aad-4e5c-bbca-157556e2e1c8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 938</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4874ac13-3ec8-45b9-9623-9bc4c9464113</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 939</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef0024fc-7196-4fb8-be26-3983551d0bb8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 940</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff1ed849-3183-4d20-9584-27a2f82e5600</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 941</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a72b07c9-84f5-4361-a715-07fee53445f1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 942</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>71e0b8aa-f22b-4f7e-95d5-0366a1f75d79</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 943</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c0f3a29-5abc-44fd-8378-22bf75d38a52</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 944</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cdfbab68-17c7-4a70-beab-5719a41a5d6d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 945</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f97b838e-42b4-456d-b512-0355edb5cd60</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 946</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>efc692cb-3a1f-4dca-9e1d-502721769a53</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 947</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>798d5d1f-bbba-4328-bd46-f34c6d987c7d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 948</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f09eb4c-2c27-4c14-b0e4-1c2fdaa50414</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 949</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>325f9fe2-ec16-4035-b63f-4b3be4e45e3e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 950</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd00ed36-cc31-4dc7-b98d-72a0edea5e34</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 951</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc6931ad-7d1e-4281-8834-6bc45e456d6e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 952</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97bb7b27-c456-41c3-b9af-8f637dd48c27</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 953</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f96d54a7-da23-4740-981a-873cd6279cc6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 954</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1853570-3656-4e81-a9f9-2a3495012681</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 955</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48153f82-4ac4-400d-be8b-6d91a6d6d8a1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 956</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>328c8e24-e0f6-42e0-aa82-7072136a06b9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 957</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5a72432-c9ca-4537-8292-dd0b1b669d4a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 958</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ac54ae5-af6f-46b7-a8ad-0f345509aec3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 959</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfc63734-e03b-4b0c-9592-5926dcdf1cce</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 960</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14921ccd-d1b3-42bc-b440-347024ea52c2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 961</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4d6ce2d5-b66d-4b9d-8f3e-a654ad78c088</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 962</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d510003-bc64-40be-9457-c0438b78f3f4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 963</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b358683-d87f-4745-be78-90645303823f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 964</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b13646b-4889-4047-8de0-4d91e8d8b8f0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 965</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26f71bda-0cbe-403c-8fcf-565d63802de6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 966</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57fe0009-c17e-494f-a320-35570abc45d9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 967</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78539c36-def0-481a-98cd-8663832f7025</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 968</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7b27b60-5ce8-4c5f-9690-215b4ed63312</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 969/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0355bfc9-376b-4be2-aa1b-77eec94cd25a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 969</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>352fa282-57c5-482c-91c6-1ea0a8147fd0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 970</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69a4c808-0598-459c-baa0-f12fac9f650e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 971</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba0b5630-5aaf-4a66-8967-ed364d6a635b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 972</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fa5de11-382a-44b6-b28a-326648c6d1e2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 973</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>920a65f8-36e0-499f-89b0-b0b099bb6045</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 974</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>250d8d71-cfb6-4cd4-98e1-1808543f0a4b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 975</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>430591ec-fdd4-4349-9928-eb1fcfe005cb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 976</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>609550ef-0b44-4648-b1ba-62f140c94ed9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 977</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>67077601-133b-432d-8869-5ba30354b65b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 979</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>497b4e14-205a-4ce9-952c-0579396b8b1d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 980</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74523893-e540-49b4-bac4-4527d8cd8794</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 981</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1fc9b94-be86-432b-ad7b-f1c3d2980aaa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 982</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c285305b-307f-46e1-a02c-a3fe0bd78aa9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 983</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e41045d2-6844-4e09-840c-111e2ec41a01</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 984</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01846f39-5852-45a5-8200-abf665d7bfd5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 985</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>af9520d9-72ae-4ce7-a160-c73b28259f76</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 986</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e24bc10-7e4a-4496-b727-f8e82e38970c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 987</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89149e00-7037-433f-aec9-06e270826567</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 988</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b797abf-ee86-460e-9f18-cdaa44ea9fc4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 989</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e552ed42-a417-478e-9ba2-b151128faf0f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 990</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8cb4b60-a544-47b1-8692-08ed2b9c317f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 991</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8db0fdc-3bc6-4a60-89e6-ac5ec02f9d7b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 992</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d550560b-c599-4b97-a0dd-739264a66847</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 993</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65a689a3-338a-4de4-97da-379b94cf73b3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 994</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>be1ed570-66ee-4b8c-9225-01299e755feb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 995</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>933d97aa-85a8-4ddf-9b0d-c4cf5d445539</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 996</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f97065bb-4377-4826-ac10-c73bd5c30fe7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 997</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f927cab3-e197-44be-b1a3-4cbcda420fbb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 997/1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16284227-3a46-4b6f-b256-aec477ebee1e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 998</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8f0775f-f3b9-4926-8250-a7ce535826fa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 999</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c22b809f-7151-46dc-8635-69fcf448f1ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Freising Urkunden 1000</bestellsignatur>
+        </archivalie>
+    </archivalien>
+    <export/>
+</Auftrag>

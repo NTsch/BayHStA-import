@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auftrag>
+    <auftrag_id>506f4d50-9804-436f-874a-ef8190e976cd</auftrag_id>
+    <comment></comment>
+    <user>
+        <kennung>gda-hubselig</kennung>
+        <email>Hubert.Seliger@gda.bayern.de</email>
+    </user>
+    <archivalien>
+        <archivalie>
+            <uuid>9dfd4c3c-4094-4bfe-9026-61b4a21d2f6f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 601</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>294da2d8-209c-4304-9a2f-dffac3c31dc5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 602</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ae4e99d-6ee7-4e7e-a5be-599857667044</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 603</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1780b56-2339-4d12-8f7d-6fa4bc68d086</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 604</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c1b16e9e-5ee9-47eb-bffa-0b913b10cdd4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 605</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78ed6d6e-0867-4518-89e7-cb1bd71fff32</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 606</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f3a6519-a740-488e-812b-873405749e3e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 607</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>51c5e17d-5936-471f-8ebd-f34442713f30</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 608</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fecf86c3-3e96-40b8-b5f2-701d2b2c9123</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 609</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a6ee224-b2b0-47af-bedd-bfa1d5522793</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 610</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a4175c0-ecca-42d5-b207-2b8b10b23e44</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 611</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5d00f46-8e24-46dc-853c-4e9db19b8724</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 612</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e42767c5-050e-45c2-9112-1b3725f2b57b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 613</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c01ac66d-2716-43dd-a62f-9c61ea013a9f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 614</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fb0d62a-4782-4a0a-9a4b-afa0d4d4b059</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 615</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4595527f-2b10-42ad-8c3c-7f195d011459</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 617</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>888f9be7-cf6f-48ee-a9cd-48cbfadffcff</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 618</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11faae42-7a5c-4f6a-a893-69fb942c1f90</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 619</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c465c83-b36a-437f-ae53-1453c8f4714d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 620</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5556d05-386e-4559-ba85-5238dddf6b7d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 621</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c09e9afd-df8e-4ba7-b344-c611a05b7f49</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 622</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7a79fe6-e6a1-413c-8d27-ff806516dfdf</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 623</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7228b20-7a41-43bc-af22-2e7242152002</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 625</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>689000de-1588-4742-a42e-22b1f52e396e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 626</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>253f3cfc-7e9d-4e0d-a5d0-8df309ce54d4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 627</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b488701d-7685-4e3b-8484-75c4936f624d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 628</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7dbfbbf1-e7cb-4a03-8e0b-9a5f473e0945</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 629</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f036351f-8e29-46cf-a7af-ba158872dfb7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 630</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64c3007d-2d7c-4cdf-a9e7-42e548926a1d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 631</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07d1e9bb-a264-4616-836e-e2e8f2377250</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 632</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ebdb699-0525-44cc-8344-3553e53c155d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 633</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56fcbf18-993c-4a75-949e-12c4cb7cf4ab</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 634</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5550f43e-0662-4fb4-926d-a3534b213736</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 635</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc5a21c5-103e-4173-86f8-09a9899e23df</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 636</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba4809fe-4a26-4b38-85d2-01a11c0013fa</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 637</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d534927-974c-4b80-9ce8-1164635aca1e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 638</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57776b25-bc48-4899-8bdd-0e258789cef0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 639</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dbffc116-6ace-400b-ba68-5e33a4338eff</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 640</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa817eb9-062d-4215-b5cf-2c2b96d70176</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 641</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>648a1842-0c0c-4bb3-974b-3ddbb57e724b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 642</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7eb731c4-031f-42bc-b8e2-af3f20424c2f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 643</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16562ff4-b414-4f34-b44d-8d1f9c6973fb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 644</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab1c97c5-2e5d-4278-8f47-c62e0abf69ad</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 645</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a47fb58-a124-4935-aefa-78a5823e7c03</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 646</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e4fc709-ded0-4e15-b478-e754dca55646</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 647</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3395733-e7e0-42fc-99c4-bf4a7221f691</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 648</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7fdd3d2f-47b5-4ff9-bf4e-04aec0dacbbb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 649</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5671c2b-2805-43c1-8abb-f3282ded9954</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 650</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>009b0238-1413-4b58-a7eb-e9b265c9c247</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 651</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>03a62ccc-af4c-41b7-9603-a9348ff80837</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 652</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94e36ad2-8d39-4220-bf44-23825dc62393</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 653</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a9759190-cd11-45cd-8581-a6a8e822310b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 654</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>acd4dadd-30c3-43ad-b75f-915326fc058f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 655</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00e72a16-a3b7-442e-aa6e-08341551e0d2</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 656</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e56c489c-d0a8-46e7-926a-7b0b1f2496cf</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 657</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8e0430c8-6189-44fc-910a-95142fdb4013</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 658</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d42df349-b3d7-4b53-a6a3-6f902061fd70</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 659</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a7c59ab1-d997-4bec-bc26-414aadba56f1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 660</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73c80402-d235-4b1e-af9b-242c291d6e7d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 661</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0ad1f21c-7b1b-458a-9a4b-03114035361a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 662</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>190ef105-d283-44ca-bbaa-65885f9ebaea</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 663</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70d60063-42d9-4801-b7fb-2c4394c2481f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 664</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1bc4197-7bb5-4dd5-a71d-cada34bfb70f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 666</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>446ff6f2-c1ef-4d21-8f6d-af7d8ab60080</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 667</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2551e36a-6986-40f0-9a2a-c6f6c5b6e4fa</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 668</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1dcc81e5-d114-4ded-b55d-995e851f2c46</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 669</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>552e4a49-1102-4ffe-bb39-f3f644bd130d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 670</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6028157b-123f-461f-9dd2-3a13b68a0eb0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 671</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>910d4f14-2b44-46e3-817d-dcfa71cbfe10</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 672</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>156c256b-bf05-443b-9089-18c29c809128</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 673</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>add62ff3-8147-45e2-a65d-96f54e606342</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 674</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c9c0ab8-7282-4998-8fa9-d40f6cc7ce2b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 675</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>08254aa8-c73d-4adc-bc42-183635b7e9f8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 676/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26e4ab24-8a22-4474-b319-3ca2579b5b66</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 676/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7140d08c-912f-4743-b22b-9bf7019b74f9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 677</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b057c69-f42d-442b-a323-c91aa8077f74</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 678</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>61d9b43f-742f-4573-b273-44aacde7f835</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 679</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2d1e92d8-7967-4d31-87bf-46a074caf303</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 680</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46211706-5eac-483a-b280-1d436209bfd7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 681</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>32f62494-03a9-42a9-9367-6ecb3b98ab86</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 682</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>388bf1e6-1636-4953-841c-9711383cf665</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 683</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b8307eda-1315-4687-8d41-eabf8cbf8634</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 684</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e8bbc2b-c062-44b1-8d7d-5e3bfc77b3a0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 685</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>78116c16-b4b0-428c-bd53-8c6a14919050</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 686/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e2be5615-c5a7-4485-b68b-6be97152c51d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 686/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4a0ae74-46a4-46f0-bf5d-8fab2b8dc40d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 687</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c5592be-a5a4-44ab-b8af-ae8709582544</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 689</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca99214b-0caa-4341-b622-6f7a23823cce</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 690</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b494e186-796b-462b-b2b9-1029ebb210b3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 691</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37b70ca0-7822-4a3e-95b8-3e0201402fa3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 692</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3b74d52-6dcb-4a78-944f-6439204b6392</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 693</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a6eeac01-035f-407b-97c5-88b508cfc91d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 694</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a83e3dfe-aa61-492c-acd6-2a5cf52e3865</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 695</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7af8dcc6-5c28-4870-a61f-afee9e5fc893</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 696</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6e3554bc-b377-401f-b34a-b20d50e0fb19</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 697</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb607468-2014-41f8-968a-a969a6ad16d4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 698</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5678c12c-cf66-4922-aa95-31c01730d8ab</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 699</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5626b726-3e72-4189-aa6e-b0f0d1b73717</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 700</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>780c53f5-4183-49b0-8a42-9198008d4905</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 701</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cd5a8719-68f3-4c48-b373-82d471a19985</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 702</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>074b4f0f-261b-4570-ac85-8aa6c797ddc8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 703</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c070b929-4ebe-4fd9-a819-a438a37e1147</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 704</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a7a7dfd-4566-4fe1-9037-9c4de6e66a1f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 705</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e1893310-f63a-45f4-8d6c-fd1b95bd1e49</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 706</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>908c4fae-d86e-493e-af44-f4bf66cdb12d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 707</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1aa5ea09-8581-4cc4-9a4e-9597c4420046</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 708</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e007bc1-7737-4906-9ad6-2258dc0a4a46</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 709</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7331aeb9-4e5b-428d-be49-89b34455de76</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 710</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82005d4e-06b4-4bd4-82d9-e9f9288dd077</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 711</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>035ca4f6-70a5-49e9-8170-603107ab5594</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 712</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c4d8f01-99d6-4aaa-975f-db3d315620df</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 713</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfcff59b-df89-4e52-9bc2-b23c291d22ab</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 714</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>751dffab-bcff-4241-b5b6-126c1a0f6612</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 715</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>864bf7f3-8ca0-4c6f-bda8-3363dd5b3817</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 716</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7ec9ee8f-2aa8-4609-af5a-a1af1098fd34</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 717</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64ad2002-4b0b-42cf-98c7-4a3c3572c674</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 718</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38e14986-43db-43e4-9775-d938980c5028</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 719</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77de1cdf-275f-4570-983a-5fd4bb3b530a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 720</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d94c90a8-70a0-4a28-9573-a5a453e6d483</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 721</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4a22e597-858b-427a-9655-f4272a2558c9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 722</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b86fa9b-ec53-4e25-b3ef-583f4a922e1d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 723</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f80aa359-81d7-4ad9-aa72-482cd7302508</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 724</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfa514a2-02e9-43ac-a708-41cbc9c7e7e0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 725</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d5c02bad-32cd-4546-8ab6-73509823d3a5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 726</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eab6d24f-6432-42ad-b6e9-58898cde8227</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 727</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ef5bdb4-acf0-4283-91d8-455d5be831fb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 728</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b4f0a6a0-9325-49d9-be32-7c82be00bfb0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 729</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>247eaeea-e9fd-45d6-b184-e51d3b940dfd</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 730</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4512e30d-db5c-4173-ab08-a68f7d318218</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 731</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4432a828-26cf-4417-b2bf-9d204c31b14a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 732</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d866974-4972-4848-89a6-c2f02e8a9779</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 733</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>25a91c37-b366-4120-9b79-b2c693abe735</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 734</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e042fe42-5222-4d87-8b0d-9827501d8478</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 735</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84b66bfe-eefe-438a-97cd-2315a71438a9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 736</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e5bda38-a8fe-41dd-a40a-403d6e87f549</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 737</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9414925-2da0-4185-aa16-b6009b7c9b40</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 738</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aa20e05f-2504-4f6a-b77e-9fd71a60b44c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 739</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e64afcde-9581-49fb-9b83-992e3a499675</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 740</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0bae737e-d1cf-4aec-aa27-a3fa2164efca</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 741</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aad37c30-04e4-4d28-8dac-7a47a0912429</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 742</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>713c32a9-e92f-43b2-bbae-d5d24ebe51b8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 743</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7e024271-c3d6-4bf4-8256-3c6f913f0ecb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 744</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e45db81e-5747-407f-acc1-270b48187efd</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 746</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a45992a3-7aec-483e-8e10-0ccb208f6841</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 747</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>13dc64eb-b61c-460b-aa83-734aa42685ef</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 748</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e91684b5-933d-4db9-8e95-3fb681bcf30e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 749</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef2e8cda-4f09-460c-9450-ea08dd3dc0a5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 750</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99b86a7f-f15a-4faa-ae2a-64b36d84c2a7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 751</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90bbe0f6-e115-47dc-b954-60ce6ccd32a4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 752</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>602cae26-b749-44bd-b364-5f3d39b42421</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 753</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4bcaef27-e73f-44fa-b3d0-63cc808b7b50</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 754</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4069bf11-c227-4bd5-87e3-61b215550a8c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 756</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7fe42263-e2b9-45fe-a61a-a9b0c9958fb5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 757</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19ec0a79-91a8-4981-8020-6d040ba254fe</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 758</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01a4a6f5-892f-4751-92e6-0257e1d21c5c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 759</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9aeb535-ea53-42f0-8101-999ba3d1ac47</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 760</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5faac69-c2ae-4f20-8dc1-ba3dab115e0a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 761</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77811443-13d7-459d-aaf2-5286c34641a5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 762</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>55c99acc-5c36-4971-acf7-36b341e10b78</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 763</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a808c659-6c05-4865-ac96-456da77d6296</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 764</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ffc00e1a-e23a-4a16-a6e9-3c1b0f8e286e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 765</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16d43b6d-af4f-4ccd-a6c1-2ca59cf62822</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 766</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad089ee4-b108-4ed9-824f-a1d1e7c3dd7b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 767</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>84194fe9-e05c-4024-be40-78c342160b57</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 768</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>daca30ca-0a5c-4e6a-b1a9-14ddfe71540c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 769</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9940d263-d10a-482d-b40b-926023d46033</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 770</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4957d69b-561a-4e3d-ba90-ad550167528c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 771</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb1645d9-2d2e-4b1f-8310-09af1601902d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 772</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>286c403c-6408-41ea-ab27-fda89dd354d5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 773</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2bd87353-1343-4798-a4eb-eee9d3a40471</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 774</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d254bbb-c6bb-4051-80b4-48288c9f7c3b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 775</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63459fb7-d579-4a35-803f-fc8f7e7a1b79</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 776</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>490cfd0e-c128-446f-8955-690d289477b6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 777</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b221bd7-3f45-431c-a0a4-1301377c4592</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 778</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d71dd2d4-4ded-45bb-b079-fee0af8b151b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 779</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>367f4e21-d5a2-4dff-b6f1-251eca094635</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 780</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f379b6d1-58dc-40f5-ac7d-6e507c3edc12</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 781</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>754b8070-2296-4372-97e3-1fc777a9066d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 782</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8415dc3-9295-488d-a5c1-f4c8e972dc46</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 783</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>906500fb-adb3-4f26-9e53-d829e88c6d9b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 784</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b082f64-fc78-4438-b9e1-c6078ef1a51d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 785</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81e4f34d-9ce8-4c81-a422-6d446c2588de</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 786</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ea65ac7-1723-45dd-a6b9-5a99c706224d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 787</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73c2392d-d99f-4b58-b66f-b880dc6b32ea</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 788</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b9493c4-aa58-4ae7-89e7-e221b3aa073f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 789</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d73de150-3d1a-451a-b9c4-7861b644eaa6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 790</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>42d340cc-c1d6-4d8d-afdc-861ad738169f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 791</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69d11c60-1440-411a-a55c-deb3dcb27c94</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 792</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d11e37f-a67d-4e3c-98b0-7c109bb195b8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 793</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea66f6e5-72ed-40fb-9172-ab073d1b4192</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 794</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b54ec89b-83f4-4b50-a198-7f691707d0bc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 795</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>320338b9-4663-4722-abe2-20c96d17b8c8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 796</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d96616dc-075f-43d0-a845-720cb6cc2d44</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 797</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1daa361b-1544-467f-9516-3e80ee2fc41e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 798</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d2c3ff3-248f-4731-b529-a1968b959de1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 799</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5ee587c-7ad9-4601-a1b7-b6f4825a8a43</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 800</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73e168e3-a15b-41b6-bad5-9e3604b1decc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 801</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85bd5b25-d783-4476-a7a9-33f19c436146</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 802</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>180652fc-70ae-4617-b5f4-723177a63df8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 803</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9005c53a-7865-4746-9acf-ab2e09bff446</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 804</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d968720-7a3e-4ac8-a956-4aaea2c83762</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 805</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a3d7966-f8ec-4eef-93be-58f7ed86a640</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 806</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9835faef-431d-40d1-b3d1-5138e4130892</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 807</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39df96b9-e924-4f30-b54e-a5016e2c0038</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 808/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff643067-097a-4c85-8a20-e46cbaf87596</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 808/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0a1d28a-00f2-45f3-b6ff-7e8f8c61aa9c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 809</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e447f007-0fb9-4035-af87-eae07f26a32a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 810</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85752288-eb42-4d2b-9f7d-a343a1da23ce</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 811</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1270b8fe-4cba-4fb3-8201-a0e9bfd4b4c0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 812</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63f8d198-3c4a-4052-a9b6-10bad7563201</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 813</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b762cd8a-f429-4c4a-90e4-2562e868ae46</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 814</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c25d84e4-d627-43f7-9a60-73c3bc2191af</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 815</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>931acd04-eb0d-4827-8b5e-e7cb3c22c673</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 816</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d6b3b92-3fec-4055-97fd-362ae5f75dd3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 817</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eabd29f8-f327-43ab-8894-1a77b60577ab</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 818</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cdf9a62a-6db7-48f9-a8c2-fbabd8d4fe7b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 819</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ee16e634-e80a-4d0b-934e-e8ce65e9913c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 820</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9812b3b2-291f-4248-944a-c406dca4efb7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 821</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c46ab1f9-78e4-4012-b9ca-3cb6f93a726e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 822</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3bc783be-a630-4728-bdd1-e12bd8a79879</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 823</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>100abd66-b7dc-426b-ba31-9b655782a552</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 824</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2586bac-83af-4763-bbc6-83e71e94ff07</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 825</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>270ac823-b27d-459e-935c-abe2ce87ed39</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 826</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0c0c637-91b2-42c6-b3ed-d967b538449b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 827</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5ce28a62-4b39-4493-a080-271cc4c01716</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 829</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c449fd51-1401-4dbb-8e8b-61ce38156bc6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 830</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f33d795c-6b99-400d-ae6c-cea46aaed70b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 831</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6bfc7e0e-d4f9-49d2-a3a2-eeaf110df778</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 832</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>13d2ee3f-35f4-4336-91dd-459ce3e0d8ae</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 833</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bfd36f79-5667-4672-8411-415fc075a2fb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 834</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef905782-9aed-4cb7-ae9d-44b25893c4a1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 835</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98431483-7622-4971-9fe3-881d5703d343</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 836</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0976f396-d764-40a1-a99d-4db59412473c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 837</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50cdbf8b-5661-4acc-a762-5f8c30bbf56e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 838</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>80134b47-ec57-4c28-81f7-bb188bd04cdf</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 839</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a4dd018-2ae4-4379-a163-dcc30365eae8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 840</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59fffa2e-4d5c-4142-baac-f189a9f4a69b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 841</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d3f9384-d5a4-4f10-91db-b9c79928dfea</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 842</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e02918be-ed88-4f39-99bc-a87b8bc0a46f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 843</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5df26e6e-a520-4413-a9d8-3b7a6300655a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 844</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b122ffa0-bfe9-4c69-9aec-873eb209df1a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 845</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>20ecdfda-2098-42e3-91fb-38e6202033c1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 846</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1a55624b-8095-4a6e-8b57-1e104ba91d19</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 847</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fce89bd5-748b-4cc6-81d6-592bac40c86a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 848</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b6206e9-da05-4cca-bdb9-e7bcd6d59a9d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 849</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7b47c95-e3ac-46e5-ab66-2a4aea259328</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 850</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>185757b4-2690-47e9-9f00-9dff559c4c0b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 851</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4d2c6c0-87f9-4381-b768-fce2e3a52400</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 852</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df9d2d7b-9067-4116-b7c9-cd8209e1eb03</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 853</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>259a29c1-5a90-441a-8166-6562cae2a460</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 854</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa2735c5-e7d8-45fe-84c3-4acbdebbab5a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 855</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bad85ec0-ae63-4478-9ee8-e45c11792a4d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 856</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ee393244-23ad-4d8b-902d-88a0674c3de3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 857</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3988980c-3714-4d38-b38a-290df13769b4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 858</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77bd8465-23f3-4c86-94e8-f93858f35673</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 859</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82a79e09-bb02-487d-875d-f82630f2677b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 860</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0b06ecc0-7b71-4b9d-b56b-f9a5f931e9b1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 861</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64488bfa-68d1-42f7-8a18-2d06f1c4a370</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 862</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f2712f42-e25e-4169-96ca-5f855c810326</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 863</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7bf85e3c-6612-4239-b19c-08e56c5e31a7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 864</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e668cf6-fc76-4e33-b9c4-d9a89b3b4669</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 865</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>93a9b487-11e4-4bd5-a2c7-dc352351dec4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 866</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4ed5d3d3-4cac-4662-9e96-19d543c7e3a6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 867</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1afee7bb-e2da-44df-a660-cacc59451b1e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 868</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d204446-a59d-4325-b9ef-3bab1a8797b2</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 869</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88d30f34-1dcf-4d62-904f-1e2251405157</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 870/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed78a6ed-0f77-4461-bc26-7d006eb5896d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 870/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>94739107-7cd2-4aea-aed2-550404d6f785</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 871/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a23962a9-c128-49b0-a1b2-534e9d764178</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 871/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d304cf3-0d1b-418f-ba7e-3af30288aca6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 872/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfa6e303-cd1d-4c33-9101-3f96fa75d4f8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 872/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d9107a6-193b-421b-8bb3-83087ad92f9a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 873/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd8651b6-8802-48b0-9f98-a818567bab62</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 873/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28d19234-d5c4-40f9-8edf-5784edcedb94</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 874/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7fde9bf-dd95-4e2e-b24d-8cbb92dca1c1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 874/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b8ce549-6dfd-4a6b-bbf4-73746b01871d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 875/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>70976c96-2f17-4f3c-8b4e-96b585a5562d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 875/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a34bf78-eb61-4594-98ae-259251433192</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 876/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2212a5f0-618d-4963-a65e-98e7e82db722</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 876/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a809d891-31d8-493f-a5d2-81f7a68e127e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 877/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5890a403-2755-466f-871a-6b8882703ec5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 877/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9dcfb688-ff2c-45e6-8575-205b9bc43039</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 878/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3ac702a-071b-42b6-9cba-ae7d4dae1fe9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 878/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31852bc6-0f75-465a-8e96-61a6068f8045</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 879/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c11c8c0b-9f11-48a4-8cf7-7ae8ff76ad78</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 879/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f65269f9-4a3d-4242-a1c0-4bd73290e83b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 880</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d77de21d-7324-4a4b-98fa-fa420c69a4b9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 881</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c10fcb13-10f0-48f0-bb82-af9a8a87f8b9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 882</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c30906fd-7913-4f46-9ffb-96f4c6d553a6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 883</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1688169e-f37a-4ea9-b758-1ec4f53cb764</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 884</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c261f5a-a6a3-49d4-adae-5c8e61511327</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 885</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3852c4e-aec5-42ed-ad88-703c176bb620</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 886</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>497187fa-6dd0-4509-ace4-de0f60908e65</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 887</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7dbdaa62-9134-4b2f-b802-2c98fd56c6c7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 888</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>85f788c1-b21b-474c-b544-4c0084c2ae1c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 889</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9cecb5e1-be39-4557-aeaf-e2f991ba2575</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 890</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2b611e0c-efc7-40c1-b3ca-320c9f6db240</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 891/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>08b7999c-175b-4414-8a7a-7af90e2d9ae5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 891/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>90f5e65f-4da4-495e-982f-c221ee30accf</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 892</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5079b72-6b6b-4b28-b942-9b9e1b99f4fc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 893</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd20fe9e-3193-47dd-9438-32a1f85a2414</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 894</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a1c0ec75-38cb-4675-94ec-66df52f77cbe</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 895</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c48fe0f-ffb4-40f7-991c-606a53855708</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 896</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6fd6a528-5c69-4a7a-a377-8bc526bb02d1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 897</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36d22f03-d594-4b39-9233-9fda3a6aedc2</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 898</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cae0c320-b41c-4dc7-90e9-2807b427bf31</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 899</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6b363b14-b4db-41bf-9c41-0b7241dd493e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 900</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ec0836a-b930-4051-b477-57cca1db30cb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 901</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3e58f275-f09a-45d2-ae08-d37539de07c5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 902</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>217f472f-1345-4d3f-aa9a-109589426645</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 903</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31c2fa09-f8f0-46e8-8400-6062fd604b72</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 904</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a135ec6-75eb-4b87-9d71-aba74a06a634</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 905</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23414352-b92d-4e0e-985c-65ab57c2f6c2</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 906</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d07b1c9-e8fa-4ebf-b3e0-4def32835be7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 907</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>765ecba9-b270-4273-bd5f-28c224c1f66b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 908</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9d17f8ee-96c2-4dd4-a034-04c78dbabe15</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 909</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f8e1eba-79b7-438d-92f3-87db8b4d8692</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 910</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>772961dd-1a06-404c-9e29-c433ad1face1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 911</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>66e0b56c-38cd-435e-915d-0ee96ee067ba</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 912</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>758a990c-b476-4bac-9cc8-35c218cf29d6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 913</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6c53f87-af9b-43f9-882d-f9056a8172cd</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 915</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>95c2b954-b022-4c99-a03e-3f9d7839b43d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 916</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfc2ec6b-908e-4131-b0dd-2beeb679c3a8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 917</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33cbdc50-8820-441f-a82b-cfb4a3296079</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 918</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d1de2295-bf05-408f-90ce-a93c860f4562</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 919</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c5f128b-62ab-4d86-8ddd-65430dd03bbc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 920</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5742b3e-3b86-40f6-8bed-f7e9b2381374</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 921</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>310ab0b3-7eef-4a70-a871-51ab2d1b960f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 922</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c3cf455d-2f2a-4bdd-ac40-19f7fbd7a041</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 923</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2093daac-ab75-45e3-9aaf-e1d9572d1a7e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 924</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d2c0e8c-e273-443f-a0a9-345ada8e61a4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 925</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e46ec3f1-c556-4a30-be39-73f09162af00</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 926</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e820f459-6c40-4555-8347-3da2b5d7e922</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 927</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b804bc8e-32ac-4c0f-a23e-efdf68c84f54</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 928</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6697b724-5ec9-40c8-b81a-67fd2b490ade</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 929</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56f84227-1328-4f9f-84a3-d0b3e1f05f33</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 930</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01a3e55c-2765-4611-b598-69fe5ae7dd06</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 931</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3af5f44-0596-4339-aafc-cb0421188581</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 932</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9f3befb-1405-4f6f-afdf-81bb28837602</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 933</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c24c1436-7a62-4f47-8150-ad659bed8096</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 934</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e5c4d75-55b8-4c2e-97e3-476797875877</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 935</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8192906-0f4f-471b-8685-0a830a0074a0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 936</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a75c0ec7-c627-4554-b097-d1a12f7b1274</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 937</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>00cf52c4-2a4a-410d-bd98-fed07c795b7c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 938</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1ff40f7f-efa8-4b9f-928d-a7088bf4a02f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 939</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f89a0fa-822d-41be-8378-2d2958c2cba8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 940</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f374bfa-e55e-42ae-b530-4312a6fb5a5e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 941</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57297ea7-a4f9-4f8b-a91e-5f5c21827b81</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 942</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15182110-a0c3-469e-b84d-38924a723086</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 943</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>838647f0-e817-4f84-b9ad-d9682df6d907</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 944</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e4f60d5-e5cc-4220-b389-cd080f55f2c4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 945</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfa9f63d-28f6-4754-abd1-b248b9e60f7e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 946</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>09af4a05-f559-42e1-b86d-1a568ef1f0b7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 947</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>984dbab2-570a-4e6f-93fc-53f4f08dde3f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 948</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d69dbe0c-2fd2-492f-9b78-b7ed026ed6d3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 949</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f9d056e-d714-478a-b668-d8cea94b1154</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 950</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0c0d518-a579-483e-b07c-71e762393750</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 951</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>199652d9-e689-43b7-b456-087eaf437d1c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 952</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c424524-7b3a-4625-9803-756706699f66</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 953</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4692e6d6-9296-42a1-8d8a-2da000156e27</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 954</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>403081ea-aa10-46d4-af97-df7ca9ef4ce5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 955</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ec82de9-d153-4116-8437-63d6cab188cb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 956</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fcb28e60-d3bb-4b8b-b524-10ae3da7edd4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 957</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>31dfdd0d-80c5-4de5-9e22-bd9061b3b2d2</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 958</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>abb61d21-a354-4e65-a72f-cf93f2846c5a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 960</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9e2c592c-f7e1-4ca7-b2eb-00dab1003f56</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 961</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e32d24e8-de6b-49ef-a61e-370d993921c7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 962</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3374098-005f-48c9-b458-16603af68586</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 963</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e80da382-3c44-41de-95a6-48eca81cb9dc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 964</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0fbad0b4-8747-41e7-a8d2-4fe5806474fa</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 965</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0cf5565d-0003-4361-9b4e-e0baf086f9ce</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 966</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>609eff96-420b-44ea-9e40-c38f91da4c80</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 967</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5e26f0be-ea42-429a-af3e-7b8813b05bbd</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 968</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ced955e4-b119-4f88-bc75-e23c5fb8c54a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 969</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48a2881d-af02-4b1c-b4b0-231986a01695</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 970</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8aaf163c-f5f8-4cf7-af69-ed1f9239170f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 971</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7586a10f-f3e6-4b1b-a650-ed1ec5f89f69</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 972</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ca453d0f-a626-4887-a962-1b25deb05949</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 973</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>839036f7-7101-4474-86ea-a968a8d51985</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 974</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9932aa5a-9559-445d-ba76-d4d7d77a4a58</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 975</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>98294fbe-bf62-4df1-8d33-d4ad1ac938ad</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 976</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2435f3d9-a70c-4130-bdf7-232cb3696d40</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 977</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>381506cb-56c7-4c0c-a18a-9c3e4ad47acc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 978</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>528233fd-9f6c-44d3-99ab-8187a47d8e6b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 979</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4f75ef6d-f12a-4bf5-ad37-9b5b6251ec3c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 980</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7ef836f-c3fd-45e3-a5f4-d0095ed6b14a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 981</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6147d6d3-ca76-45e6-8320-74d28abdd29c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 982</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4cd90fad-2326-4451-9c2d-0ed9a97fe24c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 983</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43bf699d-eccb-4fcf-932a-afa4e55f9630</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 984</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c6502a81-81b6-4097-8a72-d186c3f7b277</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 985</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>906b8a1b-b1c2-4d27-a72c-d8e846fb1086</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 986</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50757043-751c-4197-a490-72954f6a424e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 987</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57b5925c-e048-4b21-9cb6-22946f9db49b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 988</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>796859d1-027d-4cfb-9c05-65f05248e3a3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 989</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5af0679e-1163-47f9-aa15-80ca88d716e6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 990</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a834c142-0c5b-47d6-92f6-cf35c38ad03c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 991</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b76152f2-ec74-4d9b-8519-5fe42cb2eecc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 992</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>721b07d9-03b3-416e-9b10-9b2dd7377da3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 993</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b66b2c76-bb6c-4fb0-ac19-8f643d2959be</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 994</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5244d45f-f289-4242-af85-05b776e3ef19</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 995</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>82c4043e-9130-4012-b855-cbbf68f3e3bc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 996</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f758043-b351-46b6-a1f1-0fc8eae26930</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 997</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e2d77954-f4b0-4dc7-af8b-afb44f88891c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 998</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5eb7d8d4-475d-4323-a5bc-3bfe061773b5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 999</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>38ddb3ed-fff0-4cbc-9160-6bf112d5a291</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1000</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6de4473-5620-47df-87b7-01f69fff0b79</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1001</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e0ab742-766a-42b3-af3c-1c0a16c096b1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1002</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>758e5cdf-4811-4b54-83a4-a466562ae667</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1003</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb992296-3278-4c4e-9a2b-978fc6b02d9f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1004</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7faf16f9-00a2-4e40-8e80-d335c8ab3aa0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1005</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47a6350b-76eb-48d3-b028-137f6f8c5990</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1006</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f1dc7144-3746-44f3-a984-353663bd7c1f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1007/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>793baca4-d3e6-4157-a0df-8ae2b0c87245</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1007/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5d4c0190-115a-42a4-8ab6-9f582be9e38a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1008</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4def3df0-3392-49fd-bd70-1b917731050f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1009</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c33f92f8-3064-4d13-b34d-9b1494332aa5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1010</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47d7177f-3633-4584-83f1-3ff4cace4048</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1011</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf024e5d-6bfb-4592-b5b5-f4d664337a89</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1012</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ef1751d-933f-4414-94c2-70bcd7424927</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1013/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6fdd7d95-65bd-4893-b662-78d73bc60a2e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1013/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8b9dc4c2-e6e7-4aa6-8e86-fdf0bf256451</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1014</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b6fd4ceb-a4d2-4b6b-ad23-453eb1f280e5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1015</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56d620c1-fbb2-420d-851c-76702c963357</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1016</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f29ca414-b93e-4c71-9f58-9420170191b9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1017</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>808b26ae-192b-46ff-87d9-e7243d494f7a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1018</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07a201ed-4b0c-41b0-83d2-59a932c0a8e0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1020</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b45176df-fe58-44fc-ac32-b4f733910c4f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1021</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>505cfb1a-cb2f-43f9-afd6-46d6d8b5f59c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1022</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83f61c0e-a9c9-4fae-8831-8fd66a007199</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1023</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0cf52804-e098-46bb-8540-2b4e550d4eb1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1024</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>87277902-c55f-405f-8d4f-01749d918b7a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1025</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c88d3951-3e8c-4d04-9026-275501a39a97</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1026</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>517230f8-df02-4d13-b612-b7d76075f614</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1027</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5400b8ac-1c61-4c84-aad8-5ab4a86f9470</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1028</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da465c9d-59e0-44b6-a64a-682d3ffbebe5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1029</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>81c97d5d-3b11-48da-b296-832758eeca63</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1030</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>999f96f1-67b5-4746-8737-635004461df8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1031</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>43bf1662-6782-4fc8-9291-d474a921400f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1032</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ab7fb88f-6d24-475d-bd86-c8d939048ab5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1033</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d5f544c0-1528-4b70-93e9-a3f3eeaeb772</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1034</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9d87a935-dbce-4ac0-9507-cbc7eb5941dd</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1035</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cf5b5da1-cd50-4a8d-b8cb-38ce0626d274</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1036</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>539701b4-9be0-4341-b237-dc8370c8c92b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1037</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>772372b2-be62-4736-829e-a1514aacbdcc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1040</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d72628cd-18ee-4881-a2f6-cfe869acc5f3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1041</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>97df1fb5-1b61-4abf-8952-54d70edb2f62</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1042</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>576e8140-ed10-4eb2-8c3f-f859dfe6033c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1044</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86d3f3a5-b3bc-4ad3-ab82-8a6710030c68</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1045</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>104179ca-c9ed-429f-9131-14c47316d665</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1046</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0d860676-77ab-4a23-a6a9-580d5b9699fd</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1047</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8bf3f647-33b4-4897-8697-0c0bb48fabb4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1048</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1330fdc0-c47d-48b9-b92e-91a939340183</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1049</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39c3c92b-3304-4444-81ac-8ef9a785c333</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1050</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>acd26a99-4b35-4f9d-82a6-a839294429b7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1051</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e6cf9ef-f807-4789-abc2-b72dd2370d40</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1052</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83aaed3d-3b37-4fdf-946b-0c5a2881663f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1053</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dbca95cc-b6da-4186-84f7-9ff87c194a5c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1054</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7291da69-0a1b-4d1b-a64b-5731acd9cbd0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1055</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8245dfca-ae03-42c7-b766-85d158bba639</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1056</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8f0cbf15-e1c3-488a-93b4-b1a64032b32f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1058</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>008fccff-b377-48e2-9f74-0a037da7d9bb</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1059</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eb7d707f-29b1-45bc-a495-eab95fc861f0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1060</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d41f7f94-2dbe-44dd-8ca4-f4c249d01e0f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1061</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f562c478-6fbd-4301-bb71-e150bbfdc321</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1062</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dff1c35c-3191-49a7-bd2f-1cba00b28764</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1063</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0dd7c4a-64e2-4612-a6b4-c9e885a5899b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1064</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d743a6e2-a084-4ae1-a62a-7c0af4915930</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1065</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0692a90b-957c-46e1-ae42-b27197cadd8d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1066</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d42ab4a9-bd85-4e5f-9185-d3e95164c76e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1067</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5ccac85-70d6-48a0-8da6-827940891319</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1068</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>04f27ec6-0b1c-4d0e-862a-97560310337d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1069</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>928339c4-a1c9-4336-b74e-fd0b33ed2ee1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1070</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7bd1384-465f-4ce9-89ba-6f5587dd1308</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1071</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a637353e-cb45-49be-aa26-9b55d478bf84</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1072</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbeafdd7-17b4-42b0-a2fc-1b4db6e9a00c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1073</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5a11ba7a-831f-4e58-98e7-fdad1b4c566e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1074</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8d8b300-ae87-4488-9465-5f6a6a6d0c63</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1075</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>05669ce5-b997-419b-88e7-1f2ec02d324f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1076</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0853c29a-08b0-434b-afa1-ccaf087c7196</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1077</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e5bca210-4f2c-4fa7-9df1-18f1335143f5</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1078</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9e0aff3-a951-4bcd-83cb-2c0e6a4d075d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1079</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3d29e925-7d03-4233-a8c5-5cc332a172ee</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1080</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd548e95-8c1c-46ab-af68-80ef826652d9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1081/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4682e331-6d82-4fee-b650-ccf796d5f9d7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1081/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0de244d5-80dd-406b-9bc9-ae049e13ca31</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1082</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ff2bf90-1b07-48c9-b814-58e5c32f93f8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1083</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c6e0518-f9e0-4aba-8eca-2bc9a1bb0d49</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1084</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d937c778-81e0-42d3-a8ce-62c15a1ce486</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1085</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1074e239-d7bc-4a76-b32a-50f6024ac90c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1086</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c43e86d7-1d55-4610-8bfd-67f072b9f1f8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1087</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec66ab25-c8ec-4100-9eda-4177b4e814e6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1088</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d24c9f5-7623-4857-8105-16af6e4df0b6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1089</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>45866231-62cb-4011-b3a0-284df37c27a0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1090</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7360cd5e-e405-451a-bf77-fd9f68f10ed0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1091</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef33dd2e-768e-4825-8435-84433bb5b623</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1092</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>736649fd-e6b3-4ea7-8405-18cfa475ca89</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1093</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c40835a-7752-4de1-8ee0-78c73af29ae3</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1094</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c079d36-9b75-4915-b0fe-9126128bb06c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1095</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b829975c-87c9-49d6-95f1-6e78c9c8393b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1096</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8619b13d-9614-4c82-85e8-94ae52e67dd2</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1097</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39137e6f-07df-4072-9cb7-bd05cf980220</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1098</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d88aa55-0d4e-4d6d-81c0-f8ad5a1b1f93</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1099/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ce1e303-6100-4add-a046-23265cb33c4c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1099/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>894852c6-b0db-47c2-9c77-8b562598071f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1100</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19aacc0b-45fe-4cb9-ba95-8ada7fcf09b8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1101</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>513dee39-389e-4c27-9b71-393160b43f92</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1102</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a0548e57-9b76-4288-8716-4504648e82c0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1103/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9c9a981-2199-4bd9-be4b-591d77a6bd04</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1103/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>77b56146-f733-48e8-a8a2-23bbedcc0d89</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1103/III</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f6b33907-83e7-4a23-a1bc-bc4ec1111ae0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1104</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>08272aaf-f9a4-44ed-8c29-4ee1c6c9366a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1105</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e05fa648-5c09-4e6e-85ba-a2ea4d987540</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1106</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f55e9ecf-27a9-4c3d-97ff-0ebd7b32b556</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1107</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28276edd-30c2-485e-a73a-fe56881d115e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1108</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9036c8f7-b59f-45d0-b28e-89c7f9253682</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1110</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b88e24f-9da9-4c21-a521-90515fb5aef4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1111</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ef24f081-3923-4316-9f13-17c8a8868286</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1112</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4c91b26a-8bdb-4f6a-bb87-ceec6b6b1c2f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1113</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b140e685-c967-4202-931b-a41163382d9a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1114</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>747cc75e-7b28-448e-8e9e-99729c984550</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1115</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e830a31a-a54d-4281-b71d-02fe2709b62b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1116</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e8fd741-34f8-4198-9fb1-288a1f3b3595</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1117</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>62e35c92-b235-458c-a736-8501c6e01583</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1118</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3b8839a1-8a81-45b9-81af-a96677421d64</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1119</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0525d1f-acaf-4c9f-825a-1cce4095e868</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1120</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b449bb7b-52f7-4ff3-a102-4d354ee31298</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1121</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2dda2515-cb6a-418d-a2f3-feb71929e31b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1122</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ef00a7c-7eb6-4942-8bc4-376acfb45209</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1123</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>56cd09b2-cc0e-46b4-bb6a-dbcceabc7b37</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1124</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1b0f33ad-a3eb-4331-9fd0-e3495e9563fc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1125</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6e1a52f0-86ad-49af-b3d2-162324426eea</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1126</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a312b0d-0dec-4655-80dd-a9ed701f3430</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1127</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4e556c4b-cc26-47b4-bca7-6615a6ab1785</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1128</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3442595e-bab7-4695-9dfb-adb81a91cf07</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1129</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a5dd832-9771-4db7-bc01-04facfe9643a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1130</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c5c4254-ec5c-4397-8ae1-e2448484a5f0</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1131</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad74198c-1b49-4adf-9878-651712de847b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1132/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54928d27-7c01-410d-a215-756fdccc0d14</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1132/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e0ddbeee-42d8-4202-8dcf-b6d01d27bc9b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1132/III</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>261db6e9-1f76-48ce-8e16-ffb30c5f5d0f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1133/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>788ea93b-0c2a-417f-a397-c6e3f124509e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1133/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>14268937-4bb9-4953-936c-c5e897ad2c18</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1134</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>788ed6ab-cfa5-4b9c-aa73-f61f4133ac37</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1135</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>330fdcbb-8ff2-419c-9909-344f1c6bb1b9</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1136</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>15a7bb3f-dead-4cb4-b1ed-24a96c388ad1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1137</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>48cc742a-21f2-4613-9950-556af55db67d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1138/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4f7f438-6c84-4c87-9c40-a4f3940bd143</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1138/II</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>91537d4f-44c0-4db1-841e-5f9c1d7054f4</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1139</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0bca6239-cd66-48c1-96cc-2c1cbf58c7a7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1140</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4138812-215f-4112-adc6-876e1b90df7f</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1141</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23e90077-3376-4d8a-95a0-ae891e4258b6</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1144</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b0dbf86f-5c79-4c11-b7e4-3cd81d8f804d</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1145</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8c10d499-2699-42bf-8113-c84f16626a87</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1185</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff62030c-e347-4bf2-a353-1a704f8b1475</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1189</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d7eae723-e8a6-43d4-9331-1be9dc1faabe</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1194</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf97b616-b05e-4598-9949-23d5e976fb97</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1195</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>191452d1-1434-4355-b762-d510173030ca</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1205</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b9f8d6a9-c04e-4367-af41-3b3c2ca0a536</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1210</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>95f948ab-1c79-4659-8894-0737cae4691e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1211</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>42ad11a6-5c00-45aa-8920-5f5852fa0f53</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1212</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9ebe6112-b417-4962-a659-f4d24d33dfea</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1213</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a31f8730-d901-4c70-8f24-5bc0de37b6bc</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1214</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e7b85703-78b0-495d-96f8-681e42ce0d8c</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1215</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37c25c71-ffa1-4e61-9724-2733eefb39d7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1216</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59dfa5d0-b876-4b61-9a01-666c701552c8</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1217</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da7b81db-e166-4e6b-a935-c94e24eb1038</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1218</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d847614f-de47-4178-a17a-657ff532b1ed</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1219</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3354d0ce-4276-4ab8-8af5-8b5a9e30fa9b</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1220</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8ec0dcfd-fbb8-4339-86ec-61c9a7077fce</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1221</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5f5d575b-949d-41bf-848d-2bb82030c184</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1222</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7bf148b9-dcc5-48c1-b055-3a16474203a1</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1223</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3bd59d7e-dc52-4be7-8949-f70ecec0f650</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1224</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c7b6f94a-9dbe-41aa-923e-3797a1fd715a</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1225</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b1a1ecf4-2656-4471-b06f-1546fe21127e</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1226</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8848784f-d9f0-45bf-841e-07ae4a22c3d7</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1227</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>93c4cd41-85a5-4b7a-a376-ba334e740a30</uuid>
+            <bestellsignatur>BayHStA, Fürstpropstei Berchtesgaden Urkunden 1228</bestellsignatur>
+        </archivalie>
+    </archivalien>
+    <export/>
+</Auftrag>

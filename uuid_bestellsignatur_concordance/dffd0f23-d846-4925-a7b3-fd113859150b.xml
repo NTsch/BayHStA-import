@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auftrag>
+    <auftrag_id>dffd0f23-d846-4925-a7b3-fd113859150b</auftrag_id>
+    <comment></comment>
+    <user>
+        <kennung>gda-hubselig</kennung>
+        <email>Hubert.Seliger@gda.bayern.de</email>
+    </user>
+    <archivalien>
+        <archivalie>
+            <uuid>62014e8b-3484-4d32-b418-c0a0c5f67508</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 1</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3566e90b-34fa-409b-aae3-ab39f953778c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 2</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bb0b5c98-34d6-4c42-a549-77a684e662cd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 3</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>613d011b-49dc-49d9-b64c-db9e568f6cc1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 4</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a29ab55f-98f5-43f8-a53f-eb5dbf979a65</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 5</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7729759c-c137-4f26-a5e2-622a7ba1f4c4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 6</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cfe416cf-1d72-4946-8d2e-9e2726ba9ac9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 7</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f33ce434-9db7-462e-8887-3003ccb218a8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 8</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>226ba9e2-5815-4fdf-b395-a366b7e03c82</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 9</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23b26cf6-f14e-42b5-a38f-7bd3e3d6bd61</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 10</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ea30376d-41ed-4f61-87d8-02e553bb9f50</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 11</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dd8cd83b-31ad-4dd9-b760-9abf4d0d2d3f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 12</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79453ba9-58aa-48c0-a1d4-12ea1e54ee75</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 13</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>828f219f-0a72-4f3f-baf1-9ec020c9f49d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 14</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b90d0ef6-2dda-4884-b653-21c2fe38f7ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 15</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>23eafcae-a2d1-4a82-8823-442f4b636b99</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 16</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>696421aa-ea55-48a5-a5aa-a641ba41aefb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 17</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5e0f818-0465-4838-aa0d-242883c0ad4c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 18</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a665437-84db-4956-80e1-20683dc0ba5a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 19</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d38e0f5-0ec9-4788-8877-612a68cca533</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 20</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>408e2ea8-6e8b-4283-89c0-5a2e6b625e30</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 21</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c4e89bd0-a413-461b-bb0b-81bf67213c3b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 22</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d72ed886-d93b-4421-857a-f5570163a239</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 23</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>61099be8-1fec-4be4-b420-435252b68fef</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 24</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>277f2677-8e40-4ff3-8398-91c78b03eaa0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 25</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>06385176-ce21-472e-81f1-89d0dca7ae95</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 26</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec578c18-f8af-4757-ae9f-177a09f73f30</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 27</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fb288354-f1d7-4cef-8e7d-01a010c4479f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 28</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a3db7571-7a41-4440-94f8-94dc87409f6d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 29</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2f91cb6f-832a-4019-97ff-4f9405a03365</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 30</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a48bd5d-4b79-41d7-906f-4175a189ea29</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 31</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>36f255a7-1b34-42cb-ac60-26f5649f6fcc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 32</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2df50213-777c-4692-a231-1a6e21257fdc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 33</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfb6fc70-035c-41ee-94ce-db79a68d56fa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 34</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9da9dba9-6687-4829-aaea-eb013d1555d8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 35</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2ef66703-0b40-441d-89d7-fe89c614eed0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 36</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>01a69995-8359-4561-a5f1-0b85568f8e53</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 37</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7a29215-1d0f-4fae-a0ea-3770be264a04</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 38</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>30f9ecd8-aaed-4e6a-99eb-f010c334c739</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 39</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c6b7010-22b7-4d4f-a226-40cc215ca50c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 40</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9c952aaa-c94c-4912-b3cd-9bcc63b8909f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 41</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c83ac44-4049-4761-a64e-31a0ea32a6fa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 42</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2628eadf-be22-4173-9409-275ce4767920</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 43</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0e4cdafd-4a5a-4f37-8fe4-cd2c151f61d8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 44</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>46782a44-64f3-486d-bb29-77e0c0795deb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 45</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3db7a00f-90b3-4982-a18a-8fe590b508ce</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 46</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>afa386ba-fc21-4a63-a9ff-6d375fa80edf</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 47</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fda635e2-341c-49ba-915f-8947579b3e81</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 48</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad534035-9a09-4c49-a853-9844e095beb8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 49</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>593a6f96-b80b-4895-abcd-7923a72257ad</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 50</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>83ad5cb5-8aa6-4157-85c8-2d44ca1e8a40</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 51</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3750139f-7903-45e9-b3d2-27788893b789</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 52</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0390f0d7-3736-4c2d-9bb6-da1d75b3c0a4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 53</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>52140a85-bd73-418c-bd2f-ea6a14997639</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 54</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2f329e0-2edf-479b-9031-f94247d96103</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 55</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>026754f6-4eef-4166-84be-f7e58c60ec7b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 56</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5c287d42-fb3f-4024-8a2c-8a01e21c73fa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 57</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>28b7e087-51c2-49ae-aca3-9a6643c3b17a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 58</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2de2cb51-89fe-4631-a7a3-cccd466e7fce</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 59</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>16a524fe-ce57-4d02-b58a-e8a0b3f8b344</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 60</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0aca8a39-a6b5-4c34-bfe4-e001a7c53bbe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 61</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>825c196a-9eaa-4631-a373-6844178a0cd7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 62</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3ce9b92-9813-4241-869e-a86ec15fb47c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 63</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8d53ac24-ee48-4514-be51-84249cfc9c16</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 64</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b47cc89-b3d5-41f7-a09f-25183d34a26e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 65</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>33f42c9f-a908-40ec-99b4-e72b4a837b0b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 66</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>676fd491-3986-457e-ba6a-f8ff636cd717</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 67</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>59b9cbbe-096d-4381-8792-6857f09712fd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 68</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e71eaa9-9d47-4539-bba7-24356b4a96b0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 69</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4abd30bd-eac0-40ac-aaec-9847d37bd473</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 70</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bc220a25-01c8-44ae-8edb-5467f2f62288</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 71</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e59ace45-4f89-4ef6-a5d4-bd1e0a2b3148</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 72</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d034722c-12d4-4a3a-aa8f-9dfa1d392b55</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 72/I</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>aafe3b16-5e49-4b8e-baf4-a6095606a16f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 73</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>519f103c-6d12-43fd-81d7-c2c0646e972a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 74</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63ebf9bd-8536-4c1c-84a3-027185433dd1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 75</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1d796bd4-9637-4ed4-a2c5-12a8129f46cb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 76</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58863d55-2849-49de-9660-ec2145b9d2fe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 77</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dc1ee8c7-fd33-466d-9e84-2bfde398193a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 78</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3de68171-17d7-439a-9198-df3c71991fc4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 79</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6915288f-da0b-4c6e-94a3-dd0a012e390c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 80</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f8fc466-0fbf-47b9-bafe-0d80219e9872</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 81</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b365a0f8-b2d1-42d9-9270-1159a94efbab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 82</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>114af61f-f780-4454-83c1-402350cb4f72</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 83</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e26df0f1-0402-4e2c-89eb-ae27f860642a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 84</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>17286f9d-3466-449f-97e0-a155f68a805b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 85</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b2f45c9d-95a3-44c2-bdf8-8e3b0c5a58fe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 86</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d9574527-7cff-455a-849d-10a4a5b836f0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 87</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b0509482-3243-4971-ab6d-96641052588b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 88</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>db8dabea-535f-4296-bbb2-5aeee018da85</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 89</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99f5d05b-8954-4bfb-9c67-a96b42eb8964</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 90</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fa0f2868-72b6-4577-a66c-cd0312a0964e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 91</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6cfdabc6-4318-4324-80fa-a5cb0174c5e3</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 92</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>50194a00-d3dd-468a-9aef-0da1b28d14f1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 93</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>74400550-6425-49ae-968e-e218fd7db5de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 94</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3443902e-d20a-4e96-90cf-808d0cb66f30</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 95</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>748a98c4-c589-4991-9665-810f0dd142aa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 96</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>39201c08-8e45-4bb2-b454-cd1afe50ec64</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 97</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>4bed712a-fed9-4638-b260-9ca7e2713d73</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 98</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d0a5392b-1ba3-4dbc-a9d1-e3ea6a86faab</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 99</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>808d7f5b-f0fc-49ba-8a05-4ad2e7c3fe5f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 100</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da697206-8301-4549-848f-7f5227d78b66</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 101</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>79aac1f4-2e40-4f75-96fb-f4c0df04457c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 102</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>20695208-2ecd-410d-8fc8-c57fac895d6e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 103</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0a4fc52-0bc1-4527-bbc8-e3f5e892a8e8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 104</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>735f11fa-e3e0-472c-a889-e7f4795f06bd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 105</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>42f6e107-c8cc-44c5-9875-f6eac376663c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 106</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3bd655c7-7bf0-4bd9-a0e4-f0c52cadc553</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 107</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b5d9d5e7-e7d0-4078-a114-e86206c7a701</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 108</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>399ba353-d18b-49c3-bf3b-8e2987abd092</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 109</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57028ef6-25e3-4bf3-9c32-b961fb2b220f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 110</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>141ffbc4-3863-4843-a703-a2b4ec1009b6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 111</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>520f1e7d-1233-4094-b77d-05971fe5953c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 112</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>209c030e-c756-44b3-baea-00f0289cfece</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 113</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c3d5f9e2-06df-45d2-a211-ad9855c09b6b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 114</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b573d6ac-fabc-4cbb-9182-99433c11714b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 115</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3a577585-d2c5-486c-a60d-d1718fdee091</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 116</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>99684490-df9a-4742-9214-4b6d5fadaec7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 117</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>22583c94-3555-4355-8f60-368e875256be</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 118</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>224783e1-0407-444f-87fe-1a782fd9c49d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 119</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7df6ee54-e951-4cb7-96ff-2d31d291c1d5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 120</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>faeb4309-83c6-4c59-a09c-83268b9915ed</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 121</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d65e2fee-49bf-44bc-9c93-a9e8303032c9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 122</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3c52cfea-90ba-4f23-af27-86ba046a0155</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 123</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7cc145d1-801e-4b2a-97ae-c7af59326c5d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 124</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7174100f-4c5f-446d-b8cf-85363b158f21</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 125</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>da1c023d-9800-4d70-a010-47f9157d1b40</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 126</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>204a56dc-9698-4708-b5dc-4f8b2b518517</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 127</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>302a813f-154a-46f8-a132-2ad98b35fe8a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 128</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6d4f9ef3-76ab-4ed9-b20b-a5231bac2b3f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 129</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>69c91973-2530-4234-ba64-cfc69fd95f55</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 130</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e6dff319-2896-472a-85f2-773c2a9817ea</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 131</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c895273e-03e1-4462-a445-c9c531c81ad5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 132</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9f2a0645-909c-4552-94ca-d0b5d772eebd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 133</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cbb994b8-42aa-46b1-8f81-d66d1a0d9a58</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 134</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>663d7068-104b-449d-9635-3fd187bccd79</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 135</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7b0d0d60-44a0-48ae-9f3c-65ae80c1df48</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 136</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f8d95335-2231-49a1-b1e3-a33239e736ba</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 137</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>35fe47bf-309a-4c41-bfcc-c9a2d3524f15</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 138</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e31ad556-5a7d-4dd1-b364-9da6370cdf08</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 139</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11f7f947-fafe-4dfa-8ed5-f4b22325c891</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 140</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ed79ecf1-f1bc-4063-aec1-9f5525d7da5e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 141</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a937eb0e-2550-43f4-8ebb-22ea1644c775</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 142</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e4e6c7c7-3852-411c-abc6-e36f55f2d282</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 143</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>2664e506-98eb-47a4-9983-b832c67b3016</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 144</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>df21341d-f6fa-4692-b1ce-d5744c2f65de</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 145</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>bf3d900b-52e0-42d7-9dfd-898a05cf03c1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 146</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>54a013cf-1a5b-428f-80a7-278b95139f61</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 147</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>88c9ce4b-9a4a-4fe7-afe7-4800044ac95e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 148</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>19f21023-8303-4e50-9a25-5762a364face</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 149</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>93b5a66d-3bfa-4263-9679-6ad9acc90de2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 150</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>18be4246-26a2-4674-a79d-060a6c841437</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 151</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ff914617-9c94-41e8-bf6a-f8b452aecd34</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 152</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c225a5f6-4f30-485b-a24f-d39072823a6f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 153</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>075fc1e5-05b2-4b20-b65f-753b775fc9d7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 154</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e3c99917-6c15-437e-8436-2b7a31ffb396</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 155</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c5fab348-ba48-41be-97f1-eb5a53839901</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 156</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>852bd36d-e46d-4b6b-beee-99e9ca9afdcd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 157</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e73b248a-f881-46af-9ce4-740af210f14b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 158</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b154d453-710a-4aa2-9fd7-d749783bb355</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 159</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>12645815-972b-4213-8287-07232802d32d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 160</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>63dadb01-1a50-4f4b-be51-f6a1b9b1de00</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 161</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>002ad45b-04d5-49f2-b316-2b4ad0bbb285</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 162</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eff96b82-2467-40fe-9d52-21fb26000f04</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 163</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d1bbad58-e2f5-44c7-a95f-644c0e224fdc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 164</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c404391f-1fcd-4e3a-85f4-3deedeb36b96</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 165</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3ff652d5-dc77-4d06-bb33-1f58e236fc7a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 166</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f4ec3c0b-a852-4872-8b67-73c97ac0ff74</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 167</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cab3c774-83be-4a0a-8aa8-e96c355cc2ee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 168</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>47e89ac9-3821-4e48-bdeb-fa640c394f57</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 169</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9b661314-2930-4360-8322-dae083b3610a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 170</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e12f92bf-f604-4465-bf2f-1534dcac51f5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 171</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>903b1c7b-966c-46ed-97f0-6487e5d24874</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 172</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ce0d2765-9305-4a7c-88ae-dfc79e17b872</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 173</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>676f2df1-2f68-4ff2-82dd-611fd377f997</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 174</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f85aa6be-1efa-4ec6-bc51-46c9d64105bb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 175</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d4eebc4a-a1ed-46e1-afa9-2205506af7c5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 176</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ad1c9ec4-af77-4234-bedd-cf1046269cdc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 177</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>eac1225e-43c6-4bc2-9908-2ea31f6134da</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 178</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3566398-c00a-44e3-8d72-d27274ab18aa</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 179</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>cb59f33a-1efb-4298-97de-9dc31b33b023</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 180</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f675b811-81f7-4c96-937b-39b70fa018e6</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 181</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ba52a7ac-d7af-4a72-9425-4a4f5e2c7b99</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 182</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>307b10c1-7225-4bf8-b625-a583408207ca</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 183</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>65fd4d10-c548-4000-9611-e89ff9aa3486</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 184</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6ae3a167-72df-4582-a40c-8d0ece5b7095</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 185</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e43073f3-9b95-4a53-ba6b-7d7d212bd904</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 186</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0af3cc64-47a0-47b6-8367-70f95829bce8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 187</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e9db1b0d-ac77-4ec7-a9ff-812c8f45846d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 188</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>925bb975-3a3e-412d-bb9e-e4cc13256d66</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 189</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>543eb174-8740-476f-8664-f8e54832b1fe</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 190</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f5ae5cf8-9fbc-4646-a8a3-6496865ce8d9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 191</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>d26ba3a7-1927-4ee0-92a1-114f991f454c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 192</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8a87dd7b-a72c-4c35-a16c-7d235eaf100d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 193</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3dcd8ec2-d6d0-48aa-9cf6-96634ae9c093</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 194</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b79d8e3d-c8ac-4f4d-a09d-0daec5dd83ff</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 195</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>165e2567-d335-4eda-8a0b-1f58530fb833</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 196</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>ec80ecf1-98d9-498d-8ad4-735b1f67b35a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 197</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>73187890-4173-4435-ab77-a3e38eab90ed</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 198</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0c935228-659e-40aa-b241-f30669bfe4b7</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 199</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f3918d32-1afd-47a3-a776-5ebd6d7debac</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 200</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b335ceee-ddb4-4bf0-8fca-db3991a32088</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 201</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>564d4e17-a148-4b26-b937-6fabb393ca0f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 202</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f0a528bf-fba8-4c79-a5e8-b4ce322047fb</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 203</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7050d1f2-f00e-4ee1-aaae-e620f2f46d28</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 204</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>397d07d5-7543-41a6-a4f5-ff085642fc74</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 206</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1f7f814c-0516-46f7-855a-a4a480d26593</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 207</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72d4ec07-68ed-4442-bb91-3e125422bd34</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 208</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>9708adca-c0f5-4e00-8312-6e25e2003d36</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 209</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6a5cb435-4cb6-47a3-a708-857e64d62c46</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 210</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>722c4234-ff0e-43bf-9fff-08de319ebf1b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 211</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7a1eee1c-00f6-47fb-8313-c3c037d8963c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 212</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b7df113c-e273-43fa-a56f-c8f54898a6cd</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 213</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7deb3494-9767-4e45-ac3c-acb2afb5537c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 214</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>dfcd69d8-abb6-4b8f-b159-4a4f4315bbcc</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 215</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>900e2f18-fa4b-4592-b210-a6ee8783f61b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 216</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>421f3939-f743-4d68-a70e-3c83b477cb8e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 217</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>58ad1a3e-227f-4037-98e7-464718440d29</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 218</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>18e62a09-3830-46ae-ae69-c96bf051e714</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 219</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f195ddf8-2752-469e-8c51-1faca440050d</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 220</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>57ce8502-7367-412e-9d7f-da636b086bf2</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 221</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>6733c1d1-97a2-48bd-b32e-a96acbacd227</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 222</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>86d26acd-cb4d-47d7-8108-44869123401f</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 223</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>e8e9e4cb-8d55-404b-ba69-d6a1ce773865</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 224</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>03bbedd1-d031-4707-8a0c-4834629c9fe4</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 225</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b598c24c-bbb2-4d6b-a00e-92159e1b5b1e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 226</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0f279b95-c256-4480-9d9e-88da8ee1cd4b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 227</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>26352fc9-0ada-4eac-982f-062b59eeec5a</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 228</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>72a9561b-62be-46d1-8239-ffc1b12d1412</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 229</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7794411d-a382-4113-b7c9-31b9fb983d8b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 230</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>0da418c5-7ea6-447f-a9a3-08d9b97e5f72</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 231</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>64113f88-493f-489d-818d-fa537c944bb8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 232</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5fe2d194-34b7-4ff0-bc4a-9334f1373eee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 233</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>8fd639fd-c5f9-449f-8d2c-2c7f76228742</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 234</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c856ec3f-7b09-46ce-b9e2-2b91c1825151</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 235</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>5f7f6258-6da1-45d2-af1a-169caaf8fc01</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 236</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>37e1bda3-92a5-4eba-a7f5-5cf5bd7bfba8</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 237</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f7c5acaa-2c7c-43df-985b-472cb99edab5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 238</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>1e2a6822-7d32-464c-a677-280d0a67a738</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 239</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>07d902e8-30b2-478e-863b-5700a268b287</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 240</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a4ee0e6b-1f7d-43ba-96b1-eee8a03e3713</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 241</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>7d26baf5-3021-4ae1-8839-1f81373d5559</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 242</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>10d3c9a4-684a-48a4-97b4-d7cfa42bb7b9</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 243</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>09e3a716-005f-48fd-969e-b9acf79f4f4c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 244</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>53669d47-0a20-45af-b15f-8ec3923b9b04</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 245</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b3b271c3-4a54-4415-8911-3676772f3dd1</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 246</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>3311ea2c-329e-4fde-b735-4c583e891c72</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 247</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>b84bfd69-baf9-4ba3-b878-36cd176f2e32</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 248</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>11fdcb3b-2a49-4c4b-a025-e1d5adbb269c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 249</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>adf4cdc4-63af-4e35-a114-48d65eeaaa8b</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 250</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a5d308d4-064f-4980-8966-7def45938188</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 251</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>caf92855-a36d-412e-8de5-c922c7dbf50e</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 252</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>017bfbf2-0b99-45ea-a126-7f510d7e6010</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 253</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>fae3f7fe-c547-492a-b839-7bbffbaeee80</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 254</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>c9eeacf1-cc15-404c-b2f4-0852496505e5</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 255</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>a977f33b-a1e3-4411-adf1-c39f6f32b4c0</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 256</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>369e4868-1b23-4e38-8e57-cd111bd72aee</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 257</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>89587fc7-4785-4687-9e41-1d4fc720292c</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 258</bestellsignatur>
+        </archivalie>
+        <archivalie>
+            <uuid>f03f8555-0a88-4e49-8b98-bb2f99299e11</uuid>
+            <bestellsignatur>BayHStA, Domkapitel Regensburg Urkunden 259</bestellsignatur>
+        </archivalie>
+    </archivalien>
+    <export/>
+</Auftrag>

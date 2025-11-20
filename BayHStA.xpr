@@ -14,11 +14,111 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxygen:/eXist-db%20localhost$monasterium-live/db/niklas/publication_workflow/check_charters.xquery</String>
+                                    <String>query_input.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>local_query</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>archives_original/stab_3ad0c082-994d-4690-bfaa-c407b9eeb3fa.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ead2cei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>archives_original/stab_1f4ee8fe-eae3-4a08-9559-e4db71e78837.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ead2cei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>insert_imgs.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>local_query</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>oxygen:/eXist-db%20localhost$monasterium-live/db/niklas/test.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>live_query</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>oxygen:/eXist-db%20localhost$monasterium-localhost/db/niklas/collection_validator.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>local_exist_query</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -54,16 +154,76 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>insert_imgs.xquery</String>
+                                    <String>archives_original/stab_86514ee5-54d0-423a-b373-388ecda3437c.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>local_query</String>
+                                        <String>ead2cei</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XQUERY</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>archives_original/stab_a6b3f3a8-a951-4181-9ce8-587b1514ff3f.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ead2cei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>cei/cei_stab_9fd88c9d-0614-429e-b394-53c151b98fe2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ead2cei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>archives_original/stab_9fd88c9d-0614-429e-b394-53c151b98fe2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>ead2cei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -84,6 +244,26 @@
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>oxygen:/eXist-db%20localhost$monasterium-live/db/niklas/publication_workflow/check_charters.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>live_query</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -154,26 +334,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>archives_original/stab_a6b3f3a8-a951-4181-9ce8-587b1514ff3f.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ead2cei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>archives_original/stab_8004778b-5140-430c-8ac2-a214573793db.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -195,26 +355,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>archives_original/stab_925422db-b5da-4503-b679-3d1c7873d7de.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ead2cei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>archives_original/stab_86514ee5-54d0-423a-b373-388ecda3437c.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -414,26 +554,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>archives_original/stab_9fd88c9d-0614-429e-b394-53c151b98fe2.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ead2cei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>archives_original/stab_8ffae829-00f7-407d-887a-69f54be0d60e.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -494,26 +614,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>archives_original/stab_3ad0c082-994d-4690-bfaa-c407b9eeb3fa.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ead2cei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>archives_original/stab_3a0efc51-d290-485f-9657-0d25939b5362.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -535,26 +635,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>archives_original/stab_2fff7f0b-7dda-4d9d-b1b2-dbf68c18efe9.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>ead2cei</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>archives_original/stab_1f4ee8fe-eae3-4a08-9559-e4db71e78837.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -659,26 +739,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>live_query</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XQUERY</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>query_input.xquery</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>local_query</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -937,7 +997,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>Monasterium DB</String>
+                                    <String>monasterium-live</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
@@ -1020,7 +1080,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>eXist-db localhost</String>
+                                    <String>monasterium-localhost</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>
