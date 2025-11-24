@@ -2,15 +2,8 @@ xquery version "3.1";
 declare namespace cei = "http://www.monasterium.net/NS/cei";
 declare default element namespace "urn:isbn:1-931666-22-9";
 
-<results>{
-        for $archive in collection('archives_original')/ead
-            where empty($archive/archdesc/dsc/c/scopecontent[@encodinganalog = "Einleitung"]/p[matches(text(), '[kK]ein Vorwort')])
-        return
-            <result>{
-                    <archive>{$archive/eadheader/filedesc/titlestmt/titleproper/text()}</archive>,
-                    <foreword>{$archive/archdesc/dsc/c/scopecontent[@encodinganalog = "Einleitung"]}</foreword>
-                }</result>
-    }</results>
+let $archives := collection('archives_original')//index[indexentry/subject]
+return $archives
 
 (:for $archive in $archives
 let $title := $archive/ead/eadheader/filedesc/titlestmt/titleproper

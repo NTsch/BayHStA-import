@@ -114,6 +114,9 @@
                     </cei:lang_MOM>
                 </cei:chDesc>
             </cei:body>
+            <cei:back>
+            <xsl:apply-templates select="index"/>
+            </cei:back>
         </cei:text>
     </xsl:template>
     
@@ -227,6 +230,32 @@
     </xsl:template>
     
     <xsl:template match="unittitle[parent::did/parent::c[@level='class']]"/>
+    
+    <xsl:template match="index">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="indexentry">
+        <xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="geogname">
+        <cei:geogName>
+            <xsl:apply-templates/>
+        </cei:geogName>
+    </xsl:template>
+    
+    <xsl:template match="persname">
+        <cei:persName>
+            <xsl:apply-templates/>
+        </cei:persName>
+    </xsl:template>
+    
+    <xsl:template match="subject">
+        <cei:index>
+            <xsl:apply-templates/>
+        </cei:index>
+    </xsl:template>
     
     <xsl:template name="date">
         <xsl:choose>
