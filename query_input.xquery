@@ -2,8 +2,9 @@ xquery version "3.1";
 declare namespace cei = "http://www.monasterium.net/NS/cei";
 declare default element namespace "urn:isbn:1-931666-22-9";
 
-let $archives := collection('archives_original')//index[indexentry/subject]
-return $archives
+let $archives := collection('archives_original')//c[@level="file"]
+let $daos := $archives//daogrp/daoloc/@*:role/data()
+return distinct-values($daos)
 
 (:for $archive in $archives
 let $title := $archive/ead/eadheader/filedesc/titlestmt/titleproper

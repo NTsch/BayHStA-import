@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:cei="http://www.monasterium.net/NS/cei"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
     xpath-default-namespace="urn:isbn:1-931666-22-9"
     exclude-result-prefixes="xs math"
     version="3.0">
@@ -62,7 +63,7 @@
                 </cei:idno>
                 <cei:chDesc>
                     <cei:abstract>
-                        <xsl:value-of select="did/unittitle[@type = 'Kopfregest']"/>
+                        <xsl:value-of select="did/unittitle"/>
                     </cei:abstract>
                     <cei:issued>
                         <xsl:call-template name="date"/>
@@ -86,6 +87,7 @@
                             <xsl:apply-templates select="odd[head/text()='Bestellnummer']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Vorläufige Nummer']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Unternummer']/p"/>
+                            <xsl:apply-templates select="daogrp"/>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
                             <!--<xsl:apply-templates select="odd[head/text()='Medium']/p"/>-->
@@ -93,6 +95,7 @@
                             <xsl:apply-templates select="odd[head/text()='Gesamtbewertung des Schadens']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Erläuterung des Schadens']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Schadenskataster']/p"/>
+                            <xsl:apply-templates select="did/materialspec"/>
                         </cei:physicalDesc>
                         <cei:auth>
                             <cei:sealDesc>
@@ -255,6 +258,22 @@
         <cei:index>
             <xsl:apply-templates/>
         </cei:index>
+    </xsl:template>
+    
+    <xsl:template match="materialspec">
+        <cei:material>
+            <xsl:apply-templates/>
+        </cei:material>
+    </xsl:template>
+    
+    <xsl:template match="daogrp">
+        <xsl:apply-templates select="daoloc[not(@xlink:role/data() = 'image_full')]"/>
+    </xsl:template>
+    
+    <xsl:template match="daoloc">
+        <cei:ref target='{@xlink:href/data()}'>
+            <xsl:value-of select="@xlink:role/data()"/>
+        </cei:ref>
     </xsl:template>
     
     <xsl:template name="date">
