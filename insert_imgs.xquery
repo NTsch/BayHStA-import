@@ -17,6 +17,7 @@ let $img_dir := $entry/parent::tei:*/child::tei:cell[@n='2']/text()
 where $img_dir != ''
 
 for $img_name in $img_locations//Directory[contains(@path, $img_dir)]/File/@name/data()
+order by $img_name
 let $img_link := concat('http://images.monasterium.net/img/DE-BayHStA/', $fond_name, '/', $img_dir, '/', $img_name)
 
 let $fig := <cei:figure><cei:graphic url="{$img_link}"/></cei:figure>

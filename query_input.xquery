@@ -2,10 +2,10 @@ xquery version "3.1";
 declare namespace cei = "http://www.monasterium.net/NS/cei";
 declare default element namespace "urn:isbn:1-931666-22-9";
 
-let $archives := collection('archives_original')//c[@level="file"]
+let $archives := collection('archives_original')//ead
 for $file in $archives
-where $archives[//odd[head/text()='Überlieferungsart'] and //odd[head/text()='Überlieferung']]
-return <result>{($file//odd[head/text()='Überlieferungsart']/p/text(), $file//odd[head/text()='Überlieferung']/p/text())}</result>
+where $file//c[@level='class' and c[@level='file']]
+return $file/base-uri()
 
 (:for $archive in $archives
 let $title := $archive/ead/eadheader/filedesc/titlestmt/titleproper

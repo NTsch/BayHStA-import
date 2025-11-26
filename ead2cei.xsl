@@ -32,7 +32,7 @@
                     </cei:sourceDesc>
                 </cei:fileDesc>
             </cei:teiHeader>
-            <xsl:apply-templates select="archdesc/dsc/c/c"/>
+            <xsl:apply-templates select="archdesc/dsc"/>
             <!--calls c[did/unittitle/text() = 'Urkunden']-->
         </cei:cei>
     </xsl:template>
@@ -45,10 +45,10 @@
     
     <xsl:template match="profiledesc"/>
     
-    <xsl:template match="c[did/unittitle/text() = 'Urkunden']">
+    <xsl:template match="dsc">
         <cei:text>
             <cei:group>
-                <xsl:apply-templates select="c[@level='file']"/>
+                <xsl:apply-templates select="//c[@level='file']"/>
             </cei:group>
         </cei:text>
     </xsl:template>
@@ -86,7 +86,6 @@
                             <!--<xsl:apply-templates select="odd[head/text()='Identifier Archivtektonik']/p"/>-->
                             <xsl:apply-templates select="odd[head/text()='Bestellnummer']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Unternummer']/p"/>
-                            <xsl:apply-templates select="did/unitid[@type='Registratursignatur/AZ']"/>
                             <xsl:apply-templates select="daogrp"/>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
@@ -220,9 +219,11 @@
         </cei:archFond>
     </xsl:template>
     
-    <xsl:template match="odd[head/text()='Bestellnummer' or head/text()='Vorläufige Nummer' or head/text()='Unternummer']/p">
+    <xsl:template match="odd[head/text()='Bestellnummer']/p">
+        <xsl:variable name="unternummer" select="./ancestor::c/odd[head/text()='Unternummer']/p/text()"/>
+        <xsl:variable name="registratursignatur" select="./ancestor::c/did/unitid[@type='Registratursignatur/AZ']/text()"/>
         <cei:idno n='{../head/text()}'>
-            <xsl:apply-templates/>
+            <xsl:value-of select="string-join((., $unternummer, $registratursignatur), ', ')"/>
         </cei:idno>
     </xsl:template>
     
@@ -267,13 +268,11 @@
     </xsl:template>
     
     <xsl:template match="daogrp">
-        <xsl:apply-templates select="daoloc[not(@xlink:role/data() = 'image_full')]"/>
+        <xsl:apply-templates select="daoloc[@xlink:role/data() = 'externer_viewer']"/>
     </xsl:template>
     
     <xsl:template match="daoloc">
-        <cei:ref target='{@xlink:href/data()}'>
-            <xsl:value-of select="@xlink:role/data()"/>
-        </cei:ref>
+        <cei:ref target='{@xlink:href/data()}'/>
     </xsl:template>
     
     <xsl:template match="did/unitid[@type='Registratursignatur/AZ']">
