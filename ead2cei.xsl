@@ -85,8 +85,8 @@
                             </cei:archFond>
                             <!--<xsl:apply-templates select="odd[head/text()='Identifier Archivtektonik']/p"/>-->
                             <xsl:apply-templates select="odd[head/text()='Bestellnummer']/p"/>
-                            <xsl:apply-templates select="odd[head/text()='Vorläufige Nummer']/p"/>
                             <xsl:apply-templates select="odd[head/text()='Unternummer']/p"/>
+                            <xsl:apply-templates select="did/unitid[@type='Registratursignatur/AZ']"/>
                             <xsl:apply-templates select="daogrp"/>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
@@ -274,6 +274,12 @@
         <cei:ref target='{@xlink:href/data()}'>
             <xsl:value-of select="@xlink:role/data()"/>
         </cei:ref>
+    </xsl:template>
+    
+    <xsl:template match="did/unitid[@type='Registratursignatur/AZ']">
+        <cei:idno>
+            <xsl:apply-templates/>
+        </cei:idno>
     </xsl:template>
     
     <xsl:template name="date">
