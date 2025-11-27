@@ -85,7 +85,6 @@
                             </cei:archFond>
                             <!--<xsl:apply-templates select="odd[head/text()='Identifier Archivtektonik']/p"/>-->
                             <xsl:apply-templates select="odd[head/text()='Bestellnummer']/p"/>
-                            <xsl:apply-templates select="odd[head/text()='Unternummer']/p"/>
                             <xsl:apply-templates select="daogrp"/>
                         </cei:archIdentifier>
                         <cei:physicalDesc>
