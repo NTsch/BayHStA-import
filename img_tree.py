@@ -21,6 +21,8 @@ def create_jpg_xml_tree(root_dir):
             dir_element = ET.SubElement(root, "Directory", path=os.path.relpath(dirpath, root_dir))
             
             for jpg_file in jpg_files:
+                # order the files alphabetically
+                jpg_files.sort()
                 # Add each JPG file as a child element
                 ET.SubElement(dir_element, "File", name=jpg_file)
 

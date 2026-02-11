@@ -27,17 +27,23 @@ delete nodes $charter//cei:witnessOrig//cei:figure,
 insert node $fig into $charter//cei:witnessOrig
 ):)
 
-let $img_locations := doc('jpg_files.xml')
-for $charter in collection('cei')//cei:text[@type='charter']
-let $img_dir := substring-before(substring-after($charter/cei:body/cei:chDesc/cei:witnessOrig/cei:archIdentifier/cei:ref/@target/data(), 'show/'), '/')
-(:for $img_name in $img_locations//Directory[contains(@path, $img_dir)]/File/@name/data()
-order by $img_name:)
-return <lol>{$img_dir}</lol>
-(:let $img_link := concat('http://images.monasterium.net/img/DE-BayHStA/', $fond_name, '/', $img_dir, '/', $img_name)
-
-let $fig := <cei:figure><cei:graphic url="{$img_link}"/></cei:figure>
-
-return (
-delete nodes $charter//cei:witnessOrig//cei:figure,
-insert node $fig into $charter//cei:witnessOrig
-):)
+let $img-locations := doc('jpg_files.xml')/Files
+for $charter in collection('/db/niklas/import/bayhsta/cei')//cei:text[@type='charter']
+let $delete := update delete $charter//cei:witnessOrig//cei:figure
+let $archIdentifier := $charter/cei:body/cei:chDesc/cei:witnessOrig/cei:archIdentifier
+let $fond-name := $archIdentifier/cei:archFond/text()
+let $img-dir := substring-before(substring-after($archIdentifier/cei:ref/@target/data(), 'show/'), '/')
+let $img-names :=
+    for $name in $img-locations/Directory[ends-with(@path, $img-dir)]/File/@name/data()
+    order by $name
+    return $name
+let $figures :=
+    for $img-name in $img-names
+    let $img-link :=
+        replace(concat('http://images.monasterium.net/img/DE-BayHStA/',$fond-name, '/', $img-dir, '/', $img-name), ' ', '')
+    return
+        <cei:figure>
+            <cei:graphic url="{$img-link}"/>
+        </cei:figure>
+where $figures
+return update insert $figures into $charter//cei:witnessOrig

@@ -296,14 +296,35 @@
                                 <xsl:when test="odd[head/text()='Monat']/p = 'Februar'">
                                     <xsl:text>02</xsl:text>
                                 </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'März'">
+                                    <xsl:text>03</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'April'">
+                                    <xsl:text>04</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Mai'">
+                                    <xsl:text>05</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Juni'">
+                                    <xsl:text>06</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Juli'">
+                                    <xsl:text>07</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'August'">
+                                    <xsl:text>08</xsl:text>
+                                </xsl:when>
                                 <xsl:when test="odd[head/text()='Monat']/p = 'September'">
                                     <xsl:text>09</xsl:text>
+                                </xsl:when>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Oktober'">
+                                    <xsl:text>10</xsl:text>
                                 </xsl:when>
                                 <xsl:when test="odd[head/text()='Monat']/p = 'November'">
                                     <xsl:text>11</xsl:text>
                                 </xsl:when>
-                                <xsl:when test="odd[head/text()='Monat']/p = 'August'">
-                                    <xsl:text>08</xsl:text>
+                                <xsl:when test="odd[head/text()='Monat']/p = 'Dezember'">
+                                    <xsl:text>12</xsl:text>
                                 </xsl:when>
                                 <xsl:otherwise>
                                     <xsl:value-of select="concat('0', odd[head/text()='Monat']/p)"/>
@@ -329,6 +350,9 @@
                         <xsl:choose>
                             <xsl:when test="not(odd/head/text()='Jahr')">
                                 <xsl:text>9999</xsl:text>
+                            </xsl:when>
+                            <xsl:when test="xs:integer(odd[head/text()='Jahr']/p/text()) lt 1000">
+                                <xsl:value-of select="concat('0', odd[head/text()='Jahr']/p)"/>
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:value-of select="odd[head/text()='Jahr']/p"/>
