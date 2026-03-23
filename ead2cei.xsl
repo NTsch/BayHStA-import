@@ -58,8 +58,9 @@
         <cei:text type='charter'>
             <cei:front/>
             <cei:body>
-                <cei:idno id="{substring-after(odd[head/text()= 'Signatur']/p, 'BayHStA, ')}">
-                    <xsl:apply-templates select="substring-after(odd[head/text()= 'Signatur']/p, 'BayHStA, ')"/>
+                <xsl:variable name="id" select="normalize-space(substring-after(odd[head/text()= 'Signatur']/p, 'BayHStA, '))"/>
+                <cei:idno id="{$id}">
+                    <xsl:value-of select="$id"/>
                 </cei:idno>
                 <cei:chDesc>
                     <cei:abstract>
